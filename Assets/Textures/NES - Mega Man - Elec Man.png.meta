@@ -1,0 +1,2428 @@
+fileFormatVersion: 2
+guid: 59653db96425461469d062a84f835982
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 198
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b424bc8659ab745a19d7ecf865d160
+      internalID: 283841619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 198
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea5670c82dd76e4d8a901cd3eee500c
+      internalID: 1858195050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 198
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128e8351c9bfcd44381c8be58c8c28b2
+      internalID: 918161454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 198
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec0a6339c2b0d94f91f2b5ecbf2d75b
+      internalID: -651348757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 198
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e673dcc203665eb4d87103bdd210bb07
+      internalID: 1773142570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 198
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7a6460856ed2c4fa08b1d7356d52b7
+      internalID: 1532947449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 198
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06beee096053cec4dbf688781d128cff
+      internalID: -361781338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 198
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0fe6c03b994c4459aa421c850940c2
+      internalID: 1087895791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 196
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d99b67e9662574aa475861f76259f8
+      internalID: -929691516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 196
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca555ada870a624d9d3106099c7224f
+      internalID: -968819290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 196
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3beb98e97f75494487e6d5d21860cb0
+      internalID: -276227504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 195
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9187964116456840b2fe39dded5adfa
+      internalID: -1519456157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 196
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4721973478a244645a9d005c714c5502
+      internalID: -552891987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 196
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70520f102871cd646af2ec54d676a30a
+      internalID: -963885398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 196
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef009a494dc5ca4d92d797f987c8985
+      internalID: -177920031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_15
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 196
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ac9b1fa22a622448051953e552b71f
+      internalID: 56950898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 196
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f014ba22e245500469a59e72ec8727d7
+      internalID: -976280227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e36aeca10c9bc42b1a755773507eb0
+      internalID: -928765638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 188
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0e8c4c938ffd74ca142c71acb394cf
+      internalID: -1111168285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 188
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8838a76e58408448b9ff88ff3a247c6
+      internalID: 1606668815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_20
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 188
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e549eb99252b743bad9f5126ad7ea9
+      internalID: 1602421728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 188
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f6f4ebc3fba9145b108171d6b24abd
+      internalID: 936289258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_22
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 188
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feba5652895586e42b33ea399f0f7057
+      internalID: -497374960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 188
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0bc4f3870bee440aa259fa8593b77d
+      internalID: -315522443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_24
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 188
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df1f96b39a2e424a896579e33744cd4
+      internalID: -748727662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 188
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ea9dd9d1ad3cf4086fcf0881d834e6
+      internalID: -1949315509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5972c1ec94e634428d5f9aa64a5fc84
+      internalID: 1574452417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 161
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.625, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582338311711fae4ebbcb8e9e5864175
+      internalID: -359396568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_28
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 161
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538b941518315054a8603b6773794f12
+      internalID: 229245701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1479588400e584fb65ae7e25d8ed9b
+      internalID: -1099860516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 161
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea57bfbce24a1154e91a22b308f996a5
+      internalID: -1078345778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 161
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9870f29405c6349b7d2e36e501dfb6
+      internalID: 741673060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_32
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 161
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b440147ec8f60784489db4ce0380b65f
+      internalID: 982399031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_33
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 161
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadce1e4cc1873440ac142cfe267c935
+      internalID: 251556350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_34
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 161
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6164fe3b1c333498ca1f5d6e380538
+      internalID: -843389243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 149
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879659da8fadbc1488362ab24e1df4b2
+      internalID: -859686100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 149
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5013ec3c44147e49a0b864e1dfa40aa
+      internalID: -456900521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_37
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 149
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd64fe8d3303ae4b9630773ff785233
+      internalID: -1625550283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 149
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80a898d43144b54884e985c5136c9ff
+      internalID: 1768616104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_39
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 149
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a0e5c9198f2fc4dab5ddbe1dc022bb
+      internalID: 1365487109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_40
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 149
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0181b5aaec2062d408a3e6f1e25732c5
+      internalID: -1855949216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 149
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbf91147efbff94bb10ff284a3c1b69
+      internalID: 392246028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_42
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 149
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182aed8b5f8634a43822c96ab79634b5
+      internalID: 314343588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_43
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 149
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dd5b78cdee1894d915722277fb3607
+      internalID: 1254815378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_44
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 149
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead8b3ad76fdea446baae4d2d27216d2
+      internalID: 1288471778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_45
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 147
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fbb41482e569442a1877330586269d
+      internalID: 1122497213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_46
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 147
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f218dcd13aa744885d63226300434c
+      internalID: 940281764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_47
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 147
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cd149a2616bb945a1fc0076adc3ac5
+      internalID: 44065719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_48
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 146
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de95922c5a988a4dbb07e3f7d374660
+      internalID: -1327327686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_49
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 147
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9a3cd42b7837d499e93ba8e98f8e5d
+      internalID: -896929130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_50
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 147
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65a1438826d80945b60750bf0a10174
+      internalID: 1476293042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_51
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 147
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c61838d700d1f145ba88ca5ca0e8e36
+      internalID: -1682788057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_52
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 147
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1746627f3a6acd14596e0eecca75d9c0
+      internalID: -1250311077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_53
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 147
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d5975cadb8ee5409a34c06f2a7b61e
+      internalID: -126053172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_54
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 147
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a128ffbb90a3c74f9376db586ffbc3e
+      internalID: 1220873864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_55
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 147
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4d775c7ec2b194aa640ef52ff8d107
+      internalID: -549591062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_56
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 147
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c09d2b64d9aecf43810a0958d6cc81e
+      internalID: 1197999195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_57
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 147
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0a8c26db4f72248959e71f6decc440
+      internalID: -1842070361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 139
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd03303cfc20f34eb593cbe18ad1cf0
+      internalID: 1476540784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_59
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 139
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f5fb88b40c43a42811b5fcd54fb11a
+      internalID: 682878672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 139
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c35373280623b44f973e16491b6fe19
+      internalID: 1607965845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_61
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 139
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bda45b679d0134b8bc02cb6796ea39
+      internalID: 1870599280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_62
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 139
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76de34d98c831649aa03e30bc900a0a
+      internalID: -1963439570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_63
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 139
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953a986019f6a7f43ba4aaf962216498
+      internalID: -844484499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_64
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 139
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0095e6bfeb8c6684fb2a724e66c91094
+      internalID: 468710307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_65
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 139
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6f19a0a6f81d04cb8da6f164fb66f0
+      internalID: 1674589893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_66
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 139
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeea306397abcc64b8d55077841c1db9
+      internalID: -1795244608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_67
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 139
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de8b465c14813b438ba6e2e1f0556a3
+      internalID: 1086338394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_68
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3ec2c146a85134cb007ba47ea0b322
+      internalID: 258326989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_69
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 112
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00cba7a1dcc4c74588342db5275c394
+      internalID: -2118305873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_70
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7ecefccb3e99d4e9b88712adc7a258
+      internalID: -174116007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 112
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0626d039beca0a4e83917bc8b6e9e32
+      internalID: 770671621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_72
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 112
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe3f09f5414c61489e9ff9ad0766bef
+      internalID: 1709339547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_73
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 112
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2de29099efca142a93b6d2e3ea9083
+      internalID: 239968083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_74
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 112
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a1e2b1569df6f46a9ef8f75f006f8b
+      internalID: -393268776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_75
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 112
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3823ec988648dc5449fdaff48b731b30
+      internalID: 1449655315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_76
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4515425eb13ee74794bfbb486d06e0e
+      internalID: -1946536713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295e81af8761ff6498a26be202ca0ecb
+      internalID: 617466791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_78
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 100
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b45e33ddc617fd498373c9978819f58
+      internalID: -1994064041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_79
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 100
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5999ebd457127ff41b59ba5e437ea572
+      internalID: -1733002283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_80
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 100
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4710b50893ac26a4ab9f261cc09804e3
+      internalID: -1905968981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_81
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 100
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91b3d122244c2342b4061d8448f1184
+      internalID: -1618593877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_82
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 100
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57a08fc5fb15014f9e07d799c1946a1
+      internalID: -643533552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_83
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 100
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682930c0dba80844da2926fe81f1fdb5
+      internalID: -1864876630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_84
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 100
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fadd9daa1b7f742ae5fba1973aec56
+      internalID: 2142312736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_85
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 100
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea936bad158c3bd468b4645891977cf4
+      internalID: -94124128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_86
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 100
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f86d049abd6e034ea22d8ee058f173d
+      internalID: -258154516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_87
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 100
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107482901b196334f866a581cea3c8b4
+      internalID: 1257148875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 57
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7c58b5536907346a636d639a564712
+      internalID: -139911631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_89
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 57
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f421378535f5845a6d99b71bc9910e
+      internalID: 1209883596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_90
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 65
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf3c7561ede27843bd47f9a58caccd1
+      internalID: -762327720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_91
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca11258dac4ec8c419b91ea837e2775e
+      internalID: -894626736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_92
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 57
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d28a7d7b02009443929a184014c63b1
+      internalID: -1015090019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_93
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 57
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08e4de81aa24f8418c0cf71d8e35ce0
+      internalID: -1642237864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_94
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 57
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d01932717a7cb42ab1c45d4b9e3f53
+      internalID: 1364178644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_95
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 57
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a729c6831969db74a82626217c7ccd5b
+      internalID: -1894674002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8eb7082861a2e447b050120009ea2e4
+      internalID: -710640457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_97
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9daa5f6502699419e85a90b17411c4
+      internalID: 1026698915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_98
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 44
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf301e8fe066c0439902b14e19bc107
+      internalID: 449842882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_99
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 36
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b506b08b53e271c4b910d92173f42398
+      internalID: 621346002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_100
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 44
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a87036c55b8dd4faa971690a86a5ec
+      internalID: -2066760627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_101
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 36
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0618946220d5ab64ea7ff2ccd98d0e56
+      internalID: 395630937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_102
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 36
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e252dd2942f8e442b223543f4daf82f
+      internalID: 641378612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Elec Man_103
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1
+        width: 224
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef36ed5bfc83736458deb1d9b83174a0
+      internalID: 1067821403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Mega Man - Elec Man_0: 283841619
+      NES - Mega Man - Elec Man_1: 1858195050
+      NES - Mega Man - Elec Man_10: -276227504
+      NES - Mega Man - Elec Man_100: -2066760627
+      NES - Mega Man - Elec Man_101: 395630937
+      NES - Mega Man - Elec Man_102: 641378612
+      NES - Mega Man - Elec Man_103: 1067821403
+      NES - Mega Man - Elec Man_11: -1519456157
+      NES - Mega Man - Elec Man_12: -552891987
+      NES - Mega Man - Elec Man_13: -963885398
+      NES - Mega Man - Elec Man_14: -177920031
+      NES - Mega Man - Elec Man_15: 56950898
+      NES - Mega Man - Elec Man_16: -976280227
+      NES - Mega Man - Elec Man_17: -928765638
+      NES - Mega Man - Elec Man_18: -1111168285
+      NES - Mega Man - Elec Man_19: 1606668815
+      NES - Mega Man - Elec Man_2: 918161454
+      NES - Mega Man - Elec Man_20: 1602421728
+      NES - Mega Man - Elec Man_21: 936289258
+      NES - Mega Man - Elec Man_22: -497374960
+      NES - Mega Man - Elec Man_23: -315522443
+      NES - Mega Man - Elec Man_24: -748727662
+      NES - Mega Man - Elec Man_25: -1949315509
+      NES - Mega Man - Elec Man_26: 1574452417
+      NES - Mega Man - Elec Man_27: -359396568
+      NES - Mega Man - Elec Man_28: 229245701
+      NES - Mega Man - Elec Man_29: -1099860516
+      NES - Mega Man - Elec Man_3: -651348757
+      NES - Mega Man - Elec Man_30: -1078345778
+      NES - Mega Man - Elec Man_31: 741673060
+      NES - Mega Man - Elec Man_32: 982399031
+      NES - Mega Man - Elec Man_33: 251556350
+      NES - Mega Man - Elec Man_34: -843389243
+      NES - Mega Man - Elec Man_35: -859686100
+      NES - Mega Man - Elec Man_36: -456900521
+      NES - Mega Man - Elec Man_37: -1625550283
+      NES - Mega Man - Elec Man_38: 1768616104
+      NES - Mega Man - Elec Man_39: 1365487109
+      NES - Mega Man - Elec Man_4: 1773142570
+      NES - Mega Man - Elec Man_40: -1855949216
+      NES - Mega Man - Elec Man_41: 392246028
+      NES - Mega Man - Elec Man_42: 314343588
+      NES - Mega Man - Elec Man_43: 1254815378
+      NES - Mega Man - Elec Man_44: 1288471778
+      NES - Mega Man - Elec Man_45: 1122497213
+      NES - Mega Man - Elec Man_46: 940281764
+      NES - Mega Man - Elec Man_47: 44065719
+      NES - Mega Man - Elec Man_48: -1327327686
+      NES - Mega Man - Elec Man_49: -896929130
+      NES - Mega Man - Elec Man_5: 1532947449
+      NES - Mega Man - Elec Man_50: 1476293042
+      NES - Mega Man - Elec Man_51: -1682788057
+      NES - Mega Man - Elec Man_52: -1250311077
+      NES - Mega Man - Elec Man_53: -126053172
+      NES - Mega Man - Elec Man_54: 1220873864
+      NES - Mega Man - Elec Man_55: -549591062
+      NES - Mega Man - Elec Man_56: 1197999195
+      NES - Mega Man - Elec Man_57: -1842070361
+      NES - Mega Man - Elec Man_58: 1476540784
+      NES - Mega Man - Elec Man_59: 682878672
+      NES - Mega Man - Elec Man_6: -361781338
+      NES - Mega Man - Elec Man_60: 1607965845
+      NES - Mega Man - Elec Man_61: 1870599280
+      NES - Mega Man - Elec Man_62: -1963439570
+      NES - Mega Man - Elec Man_63: -844484499
+      NES - Mega Man - Elec Man_64: 468710307
+      NES - Mega Man - Elec Man_65: 1674589893
+      NES - Mega Man - Elec Man_66: -1795244608
+      NES - Mega Man - Elec Man_67: 1086338394
+      NES - Mega Man - Elec Man_68: 258326989
+      NES - Mega Man - Elec Man_69: -2118305873
+      NES - Mega Man - Elec Man_7: 1087895791
+      NES - Mega Man - Elec Man_70: -174116007
+      NES - Mega Man - Elec Man_71: 770671621
+      NES - Mega Man - Elec Man_72: 1709339547
+      NES - Mega Man - Elec Man_73: 239968083
+      NES - Mega Man - Elec Man_74: -393268776
+      NES - Mega Man - Elec Man_75: 1449655315
+      NES - Mega Man - Elec Man_76: -1946536713
+      NES - Mega Man - Elec Man_77: 617466791
+      NES - Mega Man - Elec Man_78: -1994064041
+      NES - Mega Man - Elec Man_79: -1733002283
+      NES - Mega Man - Elec Man_8: -929691516
+      NES - Mega Man - Elec Man_80: -1905968981
+      NES - Mega Man - Elec Man_81: -1618593877
+      NES - Mega Man - Elec Man_82: -643533552
+      NES - Mega Man - Elec Man_83: -1864876630
+      NES - Mega Man - Elec Man_84: 2142312736
+      NES - Mega Man - Elec Man_85: -94124128
+      NES - Mega Man - Elec Man_86: -258154516
+      NES - Mega Man - Elec Man_87: 1257148875
+      NES - Mega Man - Elec Man_88: -139911631
+      NES - Mega Man - Elec Man_89: 1209883596
+      NES - Mega Man - Elec Man_9: -968819290
+      NES - Mega Man - Elec Man_90: -762327720
+      NES - Mega Man - Elec Man_91: -894626736
+      NES - Mega Man - Elec Man_92: -1015090019
+      NES - Mega Man - Elec Man_93: -1642237864
+      NES - Mega Man - Elec Man_94: 1364178644
+      NES - Mega Man - Elec Man_95: -1894674002
+      NES - Mega Man - Elec Man_96: -710640457
+      NES - Mega Man - Elec Man_97: 1026698915
+      NES - Mega Man - Elec Man_98: 449842882
+      NES - Mega Man - Elec Man_99: 621346002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

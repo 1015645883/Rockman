@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: cc8dbd3ceff49e04c90252d7d455d391
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - boss: {fileID: 4872820593304338205, guid: 41f9771664093a44f9d6e646dd476fae, type: 3}
+  - bossDoor: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  - bossCamera: {instanceID: 0}
+  - bgmSource: {instanceID: 0}
+  - bossBgm: {fileID: 8300000, guid: fe523e247d8242e48a2f87ec799c4af1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

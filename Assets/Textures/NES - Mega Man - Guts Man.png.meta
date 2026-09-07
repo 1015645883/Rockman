@@ -1,0 +1,1702 @@
+fileFormatVersion: 2
+guid: e5dbcc26533152a4599a23eaad96996a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 126
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442585ab59f08da49b12d93e6f672b36
+      internalID: -448781902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 126
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0734fa499202ebe4a9084974b49a6c9a
+      internalID: -1675780200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 126
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7568e55fe5634643a3904f6ee0d5a1f
+      internalID: -1647491792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 126
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c96f2850fffd54590ee6db62877f6b
+      internalID: 2052573635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 126
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e859048772f03447b633c7366b6672d
+      internalID: -29307341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 126
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ed61811d3d61d4fb4230bf7885d6a6
+      internalID: -2091611861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_6
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 126
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89e5299df5d61045b492b10c2241841
+      internalID: 1212254548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 126
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb896c59bae9e543b98cd9d8a0f7ca4
+      internalID: -1343787396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 126
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8e7c7206607bc4d95268b253d7fbcd
+      internalID: 1205803289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 126
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7f747bc4b866a4fbe591d5d99623da
+      internalID: -1753314955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 125
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d88629eaef4fd4891e822a32c66c5b
+      internalID: 1403466428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 126
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d394059d1fed34438a375054c3817d8
+      internalID: -1586590103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 126
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d372b58aaa17da49bbaebca2313b7a9
+      internalID: 2015071959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_13
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 126
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcba23ad0ed4c204485b70d3cd585615
+      internalID: -1073536261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_14
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 126
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6345812df56cad040a9830d24c663543
+      internalID: 901005741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_15
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 126
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c623ae796324a844a9cea8e2d37a74a6
+      internalID: 1162366533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_16
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 126
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faecec044547dec419cb0087477ccfc5
+      internalID: 249360230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_17
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 126
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf52d94754b2415469c53ec1d6b4a35f
+      internalID: -344090774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_18
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 126
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f0bb501e993784b86fffd773e5d3d6
+      internalID: -1456117402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2611cb1aeb479744c85cda7ab3411e93
+      internalID: -871847773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f978e755e7924234d904125a7281b719
+      internalID: -50748893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 91
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124766d383eafc246b93fb5c0c48118e
+      internalID: -1185297221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 91
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d1dbfdd9f11dc49ae6e31bb3178b2d
+      internalID: 1063756008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c200cdd1abe4d5940b5941d0dc9fa619
+      internalID: 2002734763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_24
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 59
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c724c5c9cef9134ca5b11db5a17c58f
+      internalID: -330123416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_25
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 59
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328c4391fe418fe45962a881ee22b398
+      internalID: 1013820951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c2cdd07baf5554c8247734f634f0f9
+      internalID: -1252431302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 81
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea96d972ea4faab4ebea8ef47e8fac72
+      internalID: -1487599735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbc197e63b84a84da2f304fa426d593
+      internalID: -1641056050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_29
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 81
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6341917c8cfaab7428508aa234820dd4
+      internalID: -1882708209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 81
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99f7469a4faa1f4291bcb2731cec370
+      internalID: 1967302580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662446b3262361149ba02d895ac02270
+      internalID: -188565244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 81
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efedf3bee2fab6e40a2682724a26c62c
+      internalID: 691393612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_33
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 81
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbc46c50a3850b498825c2f6b23f5d2
+      internalID: 74809437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382268b7a5da6964db389daea56e81dd
+      internalID: 973716302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 71
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372a7e9ef4e244e48a6e4253de25c1b8
+      internalID: 818804413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 71
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba7f940d2da4494483e4a31dbd18923
+      internalID: -337010273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84923f9fb3a24c54c80b1e852172e29e
+      internalID: 1928664237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_38
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 71
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bc5717eb7c53a4a8fe9e10981baaaa
+      internalID: 480021742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_39
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 71
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb3a15bb9fe0264d852bd8b172cf79b
+      internalID: -1603174694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_40
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1467d1fa863b5741ac8e2aa0154cb66
+      internalID: -876335789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_41
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af87719621f6bd45bdf4293bb6b0ffc
+      internalID: 419019649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_42
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d6c776d76484549ac2afc2bbc595c6
+      internalID: -887186811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_43
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 71
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db358d878f6f50a48afe887e5f3c8471
+      internalID: -1217950732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_44
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 71
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafec9ede280ce7459760436e124b891
+      internalID: -1986919113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_45
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 71
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dbf63ad91c4a74eb9e5467e4c4abe5
+      internalID: -1528856664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_46
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b5bf65ef84ed44bb44543cc682a94e
+      internalID: -1340055382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_47
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 71
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e2e6ae520b81b4f9d4bc1ce64dfda5
+      internalID: 352315003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_48
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 71
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e644b9d5d8a8b4b89693b1da2abccf
+      internalID: -654046272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_49
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea063d704b8e8be46850dda401bca8c8
+      internalID: 1627861596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_50
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeed675a496f5eb45bdbd6884e929863
+      internalID: -782389077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_51
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba4dbf4d5674b947b8508edbbfb866f
+      internalID: -1519483632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_52
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 71
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb64be46729e91a40be2665e4e64d26f
+      internalID: 2020902336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed70695a1e2a8440bf3e898a9394c7a
+      internalID: -1063808949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_54
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 71
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575ddd1cd4c91a44cba6f7d697274d18
+      internalID: 236675977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_55
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 71
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faddb9ddfa712b84d80a613db5b6318a
+      internalID: -1337537466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090d409534420e448a4a10928960585e
+      internalID: 280528715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_57
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b202d882186804c909149b65d5b1be
+      internalID: -977976163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_58
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2952308c3de424ea6c3634a16bebde
+      internalID: -458531267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_59
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a7539733029e144bd63145e4b2622e
+      internalID: -1590660187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6d3881200331348ab849ce55f7fd67
+      internalID: -2072985837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_61
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d669bf86cadff4ea6a32fc62641be4
+      internalID: 27895047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_62
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7988699412d1114dba07f95eeea3d8f
+      internalID: 818777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_63
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5a01a996157f74287f0e7bf7e74c7c
+      internalID: 2028472007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_64
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 47
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5af38b9aa613c4fb8fd84ffa2392a0
+      internalID: -1078319786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_65
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 47
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb4d4b114f350b4684ff109e89740dd
+      internalID: -1173032125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_66
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 47
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b326d41e3457a7a4a86c0e82d878619a
+      internalID: 658164035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_67
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 47
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b100488ac9fddf143ab5dafa64436352
+      internalID: -938722510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_68
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 47
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8854e13d1bddb4ca15b6ff5b5693d7
+      internalID: 1943636315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_69
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 36
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe813417dba1fe445920d84b0198205a
+      internalID: 75169895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Guts Man_70
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1
+        width: 224
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd44f8ca86f95a849acf44b70918e449
+      internalID: 118936014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Mega Man - Guts Man_0: -448781902
+      NES - Mega Man - Guts Man_1: -1675780200
+      NES - Mega Man - Guts Man_10: 1403466428
+      NES - Mega Man - Guts Man_11: -1586590103
+      NES - Mega Man - Guts Man_12: 2015071959
+      NES - Mega Man - Guts Man_13: -1073536261
+      NES - Mega Man - Guts Man_14: 901005741
+      NES - Mega Man - Guts Man_15: 1162366533
+      NES - Mega Man - Guts Man_16: 249360230
+      NES - Mega Man - Guts Man_17: -344090774
+      NES - Mega Man - Guts Man_18: -1456117402
+      NES - Mega Man - Guts Man_19: -871847773
+      NES - Mega Man - Guts Man_2: -1647491792
+      NES - Mega Man - Guts Man_20: -50748893
+      NES - Mega Man - Guts Man_21: -1185297221
+      NES - Mega Man - Guts Man_22: 1063756008
+      NES - Mega Man - Guts Man_23: 2002734763
+      NES - Mega Man - Guts Man_24: -330123416
+      NES - Mega Man - Guts Man_25: 1013820951
+      NES - Mega Man - Guts Man_26: -1252431302
+      NES - Mega Man - Guts Man_27: -1487599735
+      NES - Mega Man - Guts Man_28: -1641056050
+      NES - Mega Man - Guts Man_29: -1882708209
+      NES - Mega Man - Guts Man_3: 2052573635
+      NES - Mega Man - Guts Man_30: 1967302580
+      NES - Mega Man - Guts Man_31: -188565244
+      NES - Mega Man - Guts Man_32: 691393612
+      NES - Mega Man - Guts Man_33: 74809437
+      NES - Mega Man - Guts Man_34: 973716302
+      NES - Mega Man - Guts Man_35: 818804413
+      NES - Mega Man - Guts Man_36: -337010273
+      NES - Mega Man - Guts Man_37: 1928664237
+      NES - Mega Man - Guts Man_38: 480021742
+      NES - Mega Man - Guts Man_39: -1603174694
+      NES - Mega Man - Guts Man_4: -29307341
+      NES - Mega Man - Guts Man_40: -876335789
+      NES - Mega Man - Guts Man_41: 419019649
+      NES - Mega Man - Guts Man_42: -887186811
+      NES - Mega Man - Guts Man_43: -1217950732
+      NES - Mega Man - Guts Man_44: -1986919113
+      NES - Mega Man - Guts Man_45: -1528856664
+      NES - Mega Man - Guts Man_46: -1340055382
+      NES - Mega Man - Guts Man_47: 352315003
+      NES - Mega Man - Guts Man_48: -654046272
+      NES - Mega Man - Guts Man_49: 1627861596
+      NES - Mega Man - Guts Man_5: -2091611861
+      NES - Mega Man - Guts Man_50: -782389077
+      NES - Mega Man - Guts Man_51: -1519483632
+      NES - Mega Man - Guts Man_52: 2020902336
+      NES - Mega Man - Guts Man_53: -1063808949
+      NES - Mega Man - Guts Man_54: 236675977
+      NES - Mega Man - Guts Man_55: -1337537466
+      NES - Mega Man - Guts Man_56: 280528715
+      NES - Mega Man - Guts Man_57: -977976163
+      NES - Mega Man - Guts Man_58: -458531267
+      NES - Mega Man - Guts Man_59: -1590660187
+      NES - Mega Man - Guts Man_6: 1212254548
+      NES - Mega Man - Guts Man_60: -2072985837
+      NES - Mega Man - Guts Man_61: 27895047
+      NES - Mega Man - Guts Man_62: 818777
+      NES - Mega Man - Guts Man_63: 2028472007
+      NES - Mega Man - Guts Man_64: -1078319786
+      NES - Mega Man - Guts Man_65: -1173032125
+      NES - Mega Man - Guts Man_66: 658164035
+      NES - Mega Man - Guts Man_67: -938722510
+      NES - Mega Man - Guts Man_68: 1943636315
+      NES - Mega Man - Guts Man_69: 75169895
+      NES - Mega Man - Guts Man_7: -1343787396
+      NES - Mega Man - Guts Man_70: 118936014
+      NES - Mega Man - Guts Man_8: 1205803289
+      NES - Mega Man - Guts Man_9: -1753314955
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2802 @@
+fileFormatVersion: 2
+guid: 72c7d51a2d8cc6a46b273626eb050f34
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 151
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78908537527885242b22ad64f5cc378c
+      internalID: 320970395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 151
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff52dbbb1afc1248b9d65b234f0f02d
+      internalID: 524267694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 151
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b6284fdf2ea414893b488e83b1a637
+      internalID: -331965610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 151
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce48814b7dd1994fb8683959cd049c4
+      internalID: 2140779653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 151
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3982f73f219e0f842ad82ec1b8c0695f
+      internalID: 463337388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 151
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f1ad71c68e43649a342241bcb70936
+      internalID: 498837466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 151
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe7d9169781ad247b6d5811eb3a0fb3
+      internalID: -1644821415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 151
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61100a42d705ea14cae1ec538e0bcf96
+      internalID: -1999266745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3e82995533dff4b92dc907c419cb63
+      internalID: 947052049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 141
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d350230458a1e4a90b4a06934b4c67
+      internalID: 605566777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 141
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286c4c5693bff3e4fb3b26367c72e00c
+      internalID: 988114655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 141
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514aeacfbbb141345b76bd216dfe7d8a
+      internalID: 1543995133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 141
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856f6dd7fcf84d7439d98c57f70cd182
+      internalID: -828870393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 141
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce28bc138619c8746a4213b2d974ccd0
+      internalID: -535992281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 141
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2168ae56b859848b826c5d9d7c0da3
+      internalID: 642611521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 141
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93e4754fd96d3d4bbcf05af8974403a
+      internalID: 1703447783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 141
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1949d83cbfa0f534f9b8a6d21cec640c
+      internalID: 366674172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_17
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 141
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc869bb8273b014ea6f73bacc55f13a
+      internalID: -1840606382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 141
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbffe082e0e18344985f3a91bb051ab
+      internalID: -183837261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_19
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 141
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a2fb8d5da710b4ca9862759d226621
+      internalID: 618156245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 141
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43abe03cad5a28842a82c84afa5f0602
+      internalID: 1823373403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_21
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 140
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d59e86198abf041b4e8cd2788a8d5b
+      internalID: -339161265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_22
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 141
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373bb1500edebc3418ef56669c306820
+      internalID: 631720971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 141
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105af3da4220fc14397a31321ba1d43a
+      internalID: -1453914497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_24
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 141
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bfa1121c633674a8f04bf176b2fc20
+      internalID: 1233615192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_25
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 141
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee337ca1e0dce5e4a9de21927d00c91b
+      internalID: -278017299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_26
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 141
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe43c6be7d8742499075d572aa64923
+      internalID: -114787967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_27
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 106
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e99581f7f76c544ac92236da2232b2
+      internalID: 1032812903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_28
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 141
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b904c4e0da243ab478ca3bd11250f763
+      internalID: 1754121160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_29
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 141
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2793962655a9ca7438fcebac71d74301
+      internalID: 1106340807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915743659e2bde94b82dc62c1abe3119
+      internalID: -1230680726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc66ecad8c8d12418176efeff733c96
+      internalID: -1648501689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_32
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557e5f07dc45fe4428c6307c2d0679f3
+      internalID: -239026492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_33
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 98
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369d46587e7a4fb40b10a4a9829d269b
+      internalID: -2103816904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_34
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30899e2272bf72a4fb3e72e71aea05a1
+      internalID: -1477847790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_35
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 98
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d27cf157fa5834c9d4fb4c357975b7
+      internalID: 831226599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_36
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 106
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fce8ad964f54dd4d9558742a02a3ef4
+      internalID: 31670919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_37
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 106
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d2effa6716d604ebb00d5756766944
+      internalID: 838135993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_38
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 105
+        width: 99
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba95714a696b53469e53568511fc3d1
+      internalID: 802832068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_39
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 106
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10bc3c931636d3499f917789f169059
+      internalID: -214306917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_40
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 106
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739db95c3d1fa2744ba2ba85e9f3bde8
+      internalID: -902873854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 86
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d610df365b8ff484dae3081c902ce440
+      internalID: -424023004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 86
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66313e3556d00146add01c228e1f2ca
+      internalID: -2114175281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_43
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 86
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab04b7b3966f37a4dae0abecd3834a10
+      internalID: 1010195959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_44
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 86
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72d01780b2538e48b1888f07920c3e3
+      internalID: 199716776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_45
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 86
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780271844853ce947840f01f342dcbae
+      internalID: -1489181433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_46
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 86
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3488851c9a7690143928a0216f9903a9
+      internalID: -1822609577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 86
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbb68894b1434e41bc7d3a76978a8ee
+      internalID: 783145755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_48
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 86
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0916a21f272d38469a7c45469604271
+      internalID: -707276504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_49
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 86
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57f32ce2551a3b43b78e2ac5c06d978
+      internalID: 568602071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_50
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 86
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617dd60e6a86460489818cbcd5aa9337
+      internalID: -1458324067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607bd2417b26f0a45b95461e1992456c
+      internalID: 1213205953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_52
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 76
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18673f9235c4b64fa61cfee34cf6b0d
+      internalID: -167999571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_53
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 76
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6855482d49119e7408b31f71d1d08509
+      internalID: -171687945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_54
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 76
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c85480dded94943a85f7b4691e38ed
+      internalID: 1896514069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_55
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 76
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134d3edbc6474e24383f836a84e6c2bf
+      internalID: 1919640462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_56
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 76
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086aac577cc62864fa40816ddfa78eea
+      internalID: -1854018599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_57
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 76
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6f940f13892f946a57ed4da1336e32
+      internalID: 342025895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_58
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dc508f7ea89bb45b67072f682ac41c
+      internalID: -1200989548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_59
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 76
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35be0a75dead1584db8110c7620875bd
+      internalID: -388555579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_60
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8e4aa919956cf4ab9c7efab0015816
+      internalID: -1616926141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_61
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 76
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde4c78eeac37e44abfa1b15debe4543
+      internalID: -98264243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_62
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 76
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddb4d32e0189e9408c58e46998932a3
+      internalID: 924019037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_63
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 76
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7186bc812806940aa81dde1a959b1d
+      internalID: -718911299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_64
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 75
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939c7c3a6c7f1194d9606625c873511e
+      internalID: -506977250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_65
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 76
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9105841c54333d41919ea810ec90ac9
+      internalID: 1210180635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_66
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9becf2eed5852134aa2a769b7fe8abe4
+      internalID: 338991293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_67
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 76
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090c8bef19d6cab4b93c007da9c1f79b
+      internalID: 367957316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_68
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 76
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ba87a6cbd9e354bbd3b6e99faa8d04
+      internalID: -202791200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_69
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca39aa8a385fc448b07d86fd2e08326
+      internalID: -1253997767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_70
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 41
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfead0bb3c3baa4e925d567585900ff
+      internalID: -2041254218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_71
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 76
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabe1ca159abea34f852c2fed6e356bb
+      internalID: 909406527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_72
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 76
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d0b1b8afde4bd4cac1cac662f6f5d9
+      internalID: 415040940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f1ace424aad5544b50a4b33b4befbf
+      internalID: -2008281760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_74
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d57bbf89a7ac94389950f0d09e8992
+      internalID: 1207806965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799fc97798fdbb1438a249a766a3fba3
+      internalID: 89059715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_76
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 33
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c6d1a39ddfc7d46b9162106a671433
+      internalID: 1882894801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_77
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 41
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ca26b8358c839488390597f8e04bb4
+      internalID: -1718807462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_78
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 33
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5fb0e421187bb41872801087e20c76
+      internalID: 406123769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_79
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 41
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0783617fd29af704f91f7efab7da75f4
+      internalID: -1297217579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_80
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 41
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbe278c754ec1b4ba02732ecd6bb77f
+      internalID: -360885494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_81
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 41
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2b199b9d667a54a84f3a3d5342d44f
+      internalID: -1875156923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_82
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 41
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2338d3c06e86a224ba488c29a4a5c951
+      internalID: -766434783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_83
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745de689c1d9c59489d8f3e9498c26be
+      internalID: -1048161165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_84
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 21
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a436e21e3c3d1334590d652f82b0f82a
+      internalID: 1767184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_85
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 21
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7938550fc3c6eda4d8ebc22049280c0d
+      internalID: 2044335738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_86
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe73185e09097a42a32181b02b23389
+      internalID: -1462514132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_87
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f80f29b32900f4695a83c77512abce
+      internalID: -67525451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_88
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 21
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcacb0d6ee8b415469ad2ce12a726158
+      internalID: -1162977955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_89
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 21
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490b8f3b137a7b54589d6e14f25b936c
+      internalID: 524384907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_90
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8309fda0c4e4ef14f871c18290540906
+      internalID: -519518714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_91
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88a78e567d63db4782050c9a38d8ddc
+      internalID: 1036347648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_92
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 21
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2702fcee34a8f14495683035cbb95c8
+      internalID: -936317098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_93
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 21
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dcadf4c5ef414458e8c0d8ca9a1d56
+      internalID: 598394987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_94
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fa779daedc1a645bc7bfcd490fe38a
+      internalID: -2016205303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_95
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f190f6ae2799de47b1ef0713e5f4879
+      internalID: -118813047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_96
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e5bb0f8aaa4244a8d582e7d4bab784
+      internalID: -810643212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_97
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 21
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14cae31864109d46aa758fea1aaad0c
+      internalID: 666053470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_98
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b99e5acfc50061498cd86be430bbc7b
+      internalID: 222502298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_99
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 21
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf06ae96480d7804a95737fd3331b66b
+      internalID: -182614894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_100
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 21
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96717fdd1755be46844f0f5e3a1f6fd
+      internalID: -279490220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_101
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5b2c0ced7490d4cbecc20021697e68
+      internalID: -346000177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_102
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1
+        width: 224
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e539b1c031c436649a9a80cecd0b74fd
+      internalID: 1152850756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_103
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b818ada5b221e7489ca8ade7a98b7aa
+      internalID: 144439837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_104
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9716e66ed1decaa4e951889db4702c74
+      internalID: 643941701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_105
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89beece3e70e9dc429e7e0740bb154ee
+      internalID: -838300836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_106
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f0acf54328ffc488586d6e41b5a5b3
+      internalID: -909681538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_107
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468bd52d925364847bf2db0c4cfeb44b
+      internalID: 273006994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_108
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a97ac3e3dc0a14db70c5292c301bea
+      internalID: -1823406378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_109
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0f3ba90b16b3c448b55aa75585d2f6
+      internalID: -309813017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_110
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c567c68a98af49b48aeed1288732ba92
+      internalID: 2032115661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_111
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf82996872b914c4c9f80e2abc429303
+      internalID: 1563780636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_112
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45acc2d6f7d73c4687e415a6f5cd59a
+      internalID: -1572198088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_113
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163682bb910625743baeeb1f37a62bab
+      internalID: -607592808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_114
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c402d31df254976419a67c98259a9138
+      internalID: -1148760100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_115
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb726789352060a4ebba3369e98dc1f0
+      internalID: 1486334808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_116
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035b7c0b96f231f4f9810bebbac19047
+      internalID: 90622265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_117
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fa2f40e1c04c14ab02231d8c711145
+      internalID: -1108471139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_118
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76321b1dc260784fb61998df56efeff
+      internalID: 191875855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_119
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da81d09d47351341a2a37bbcf48da22
+      internalID: -1125913404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 4 - Drill Man_120
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9cf741cad540641acdba4f2cea3237
+      internalID: 34300743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Mega Man 4 - Drill Man_0: 320970395
+      NES - Mega Man 4 - Drill Man_1: 524267694
+      NES - Mega Man 4 - Drill Man_10: 988114655
+      NES - Mega Man 4 - Drill Man_100: -279490220
+      NES - Mega Man 4 - Drill Man_101: -346000177
+      NES - Mega Man 4 - Drill Man_102: 1152850756
+      NES - Mega Man 4 - Drill Man_103: 144439837
+      NES - Mega Man 4 - Drill Man_104: 643941701
+      NES - Mega Man 4 - Drill Man_105: -838300836
+      NES - Mega Man 4 - Drill Man_106: -909681538
+      NES - Mega Man 4 - Drill Man_107: 273006994
+      NES - Mega Man 4 - Drill Man_108: -1823406378
+      NES - Mega Man 4 - Drill Man_109: -309813017
+      NES - Mega Man 4 - Drill Man_11: 1543995133
+      NES - Mega Man 4 - Drill Man_110: 2032115661
+      NES - Mega Man 4 - Drill Man_111: 1563780636
+      NES - Mega Man 4 - Drill Man_112: -1572198088
+      NES - Mega Man 4 - Drill Man_113: -607592808
+      NES - Mega Man 4 - Drill Man_114: -1148760100
+      NES - Mega Man 4 - Drill Man_115: 1486334808
+      NES - Mega Man 4 - Drill Man_116: 90622265
+      NES - Mega Man 4 - Drill Man_117: -1108471139
+      NES - Mega Man 4 - Drill Man_118: 191875855
+      NES - Mega Man 4 - Drill Man_119: -1125913404
+      NES - Mega Man 4 - Drill Man_12: -828870393
+      NES - Mega Man 4 - Drill Man_120: 34300743
+      NES - Mega Man 4 - Drill Man_13: -535992281
+      NES - Mega Man 4 - Drill Man_14: 642611521
+      NES - Mega Man 4 - Drill Man_15: 1703447783
+      NES - Mega Man 4 - Drill Man_16: 366674172
+      NES - Mega Man 4 - Drill Man_17: -1840606382
+      NES - Mega Man 4 - Drill Man_18: -183837261
+      NES - Mega Man 4 - Drill Man_19: 618156245
+      NES - Mega Man 4 - Drill Man_2: -331965610
+      NES - Mega Man 4 - Drill Man_20: 1823373403
+      NES - Mega Man 4 - Drill Man_21: -339161265
+      NES - Mega Man 4 - Drill Man_22: 631720971
+      NES - Mega Man 4 - Drill Man_23: -1453914497
+      NES - Mega Man 4 - Drill Man_24: 1233615192
+      NES - Mega Man 4 - Drill Man_25: -278017299
+      NES - Mega Man 4 - Drill Man_26: -114787967
+      NES - Mega Man 4 - Drill Man_27: 1032812903
+      NES - Mega Man 4 - Drill Man_28: 1754121160
+      NES - Mega Man 4 - Drill Man_29: 1106340807
+      NES - Mega Man 4 - Drill Man_3: 2140779653
+      NES - Mega Man 4 - Drill Man_30: -1230680726
+      NES - Mega Man 4 - Drill Man_31: -1648501689
+      NES - Mega Man 4 - Drill Man_32: -239026492
+      NES - Mega Man 4 - Drill Man_33: -2103816904
+      NES - Mega Man 4 - Drill Man_34: -1477847790
+      NES - Mega Man 4 - Drill Man_35: 831226599
+      NES - Mega Man 4 - Drill Man_36: 31670919
+      NES - Mega Man 4 - Drill Man_37: 838135993
+      NES - Mega Man 4 - Drill Man_38: 802832068
+      NES - Mega Man 4 - Drill Man_39: -214306917
+      NES - Mega Man 4 - Drill Man_4: 463337388
+      NES - Mega Man 4 - Drill Man_40: -902873854
+      NES - Mega Man 4 - Drill Man_41: -424023004
+      NES - Mega Man 4 - Drill Man_42: -2114175281
+      NES - Mega Man 4 - Drill Man_43: 1010195959
+      NES - Mega Man 4 - Drill Man_44: 199716776
+      NES - Mega Man 4 - Drill Man_45: -1489181433
+      NES - Mega Man 4 - Drill Man_46: -1822609577
+      NES - Mega Man 4 - Drill Man_47: 783145755
+      NES - Mega Man 4 - Drill Man_48: -707276504
+      NES - Mega Man 4 - Drill Man_49: 568602071
+      NES - Mega Man 4 - Drill Man_5: 498837466
+      NES - Mega Man 4 - Drill Man_50: -1458324067
+      NES - Mega Man 4 - Drill Man_51: 1213205953
+      NES - Mega Man 4 - Drill Man_52: -167999571
+      NES - Mega Man 4 - Drill Man_53: -171687945
+      NES - Mega Man 4 - Drill Man_54: 1896514069
+      NES - Mega Man 4 - Drill Man_55: 1919640462
+      NES - Mega Man 4 - Drill Man_56: -1854018599
+      NES - Mega Man 4 - Drill Man_57: 342025895
+      NES - Mega Man 4 - Drill Man_58: -1200989548
+      NES - Mega Man 4 - Drill Man_59: -388555579
+      NES - Mega Man 4 - Drill Man_6: -1644821415
+      NES - Mega Man 4 - Drill Man_60: -1616926141
+      NES - Mega Man 4 - Drill Man_61: -98264243
+      NES - Mega Man 4 - Drill Man_62: 924019037
+      NES - Mega Man 4 - Drill Man_63: -718911299
+      NES - Mega Man 4 - Drill Man_64: -506977250
+      NES - Mega Man 4 - Drill Man_65: 1210180635
+      NES - Mega Man 4 - Drill Man_66: 338991293
+      NES - Mega Man 4 - Drill Man_67: 367957316
+      NES - Mega Man 4 - Drill Man_68: -202791200
+      NES - Mega Man 4 - Drill Man_69: -1253997767
+      NES - Mega Man 4 - Drill Man_7: -1999266745
+      NES - Mega Man 4 - Drill Man_70: -2041254218
+      NES - Mega Man 4 - Drill Man_71: 909406527
+      NES - Mega Man 4 - Drill Man_72: 415040940
+      NES - Mega Man 4 - Drill Man_73: -2008281760
+      NES - Mega Man 4 - Drill Man_74: 1207806965
+      NES - Mega Man 4 - Drill Man_75: 89059715
+      NES - Mega Man 4 - Drill Man_76: 1882894801
+      NES - Mega Man 4 - Drill Man_77: -1718807462
+      NES - Mega Man 4 - Drill Man_78: 406123769
+      NES - Mega Man 4 - Drill Man_79: -1297217579
+      NES - Mega Man 4 - Drill Man_8: 947052049
+      NES - Mega Man 4 - Drill Man_80: -360885494
+      NES - Mega Man 4 - Drill Man_81: -1875156923
+      NES - Mega Man 4 - Drill Man_82: -766434783
+      NES - Mega Man 4 - Drill Man_83: -1048161165
+      NES - Mega Man 4 - Drill Man_84: 1767184
+      NES - Mega Man 4 - Drill Man_85: 2044335738
+      NES - Mega Man 4 - Drill Man_86: -1462514132
+      NES - Mega Man 4 - Drill Man_87: -67525451
+      NES - Mega Man 4 - Drill Man_88: -1162977955
+      NES - Mega Man 4 - Drill Man_89: 524384907
+      NES - Mega Man 4 - Drill Man_9: 605566777
+      NES - Mega Man 4 - Drill Man_90: -519518714
+      NES - Mega Man 4 - Drill Man_91: 1036347648
+      NES - Mega Man 4 - Drill Man_92: -936317098
+      NES - Mega Man 4 - Drill Man_93: 598394987
+      NES - Mega Man 4 - Drill Man_94: -2016205303
+      NES - Mega Man 4 - Drill Man_95: -118813047
+      NES - Mega Man 4 - Drill Man_96: -810643212
+      NES - Mega Man 4 - Drill Man_97: 666053470
+      NES - Mega Man 4 - Drill Man_98: 222502298
+      NES - Mega Man 4 - Drill Man_99: -182614894
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

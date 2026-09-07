@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 74c37269b0ebd074fbad32fc825616c3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Mega Man Maker - Weapons & Utilities - Weapons (Mega
+        Man 11) 1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 910
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7469cb5ef986d2349b2c63a66ad21b3f
+      internalID: -1591417969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Mega Man Maker - Weapons & Utilities - Weapons (Mega
+        Man 11) 1_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 910
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a073ed6b7019c4ab0b8c60fc1edec7
+      internalID: 1539210841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Mega Man Maker - Weapons & Utilities - Weapons (Mega
+        Man 11) 1_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 910
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f73c567e62ba43469c538225241edf1
+      internalID: 1185733101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Mega Man Maker - Weapons & Utilities - Weapons (Mega
+        Man 11) 1_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 910
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43225e537147de2429111d75cbb3eece
+      internalID: -346008963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Mega Man Maker - Weapons & Utilities - Weapons (Mega
+        Man 11) 1_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 915
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1147f80010f1d1e44ac755ea1d698f06
+      internalID: 1261924793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Mega Man Maker - Weapons & Utilities - Weapons (Mega
+        Man 11) 1_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 917
+        width: 5
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a3299df45bad24480ad29cc8c6e96a
+      internalID: 1331079938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Mega Man Maker - Weapons & Utilities - Weapons (Mega
+        Man 11) 1_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 917
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56865506f44266b4082e30da6947f489
+      internalID: -2083820792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Mega Man Maker - Weapons & Utilities - Weapons (Mega
+        Man 11) 1_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 917
+        width: 3
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0e757e55344154e9150b12fa84b92c
+      internalID: 50878546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Mega Man Maker - Weapons & Utilities - Weapons (Mega
+        Man 11) 1_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 916
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f90c2fc77800f46ac39627247e0f65
+      internalID: 1789891322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Mega Man Maker - Weapons & Utilities - Weapons (Mega
+        Man 11) 1_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 879
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da97167abd7825408364927ca616946
+      internalID: -1377894855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC _ Computer - Mega Man Maker - Weapons & Utilities - Weapons (Mega Man 11) 1_0: -1591417969
+      PC _ Computer - Mega Man Maker - Weapons & Utilities - Weapons (Mega Man 11) 1_1: 1539210841
+      PC _ Computer - Mega Man Maker - Weapons & Utilities - Weapons (Mega Man 11) 1_2: 1185733101
+      PC _ Computer - Mega Man Maker - Weapons & Utilities - Weapons (Mega Man 11) 1_3: -346008963
+      PC _ Computer - Mega Man Maker - Weapons & Utilities - Weapons (Mega Man 11) 1_4: 1261924793
+      PC _ Computer - Mega Man Maker - Weapons & Utilities - Weapons (Mega Man 11) 1_5: 1331079938
+      PC _ Computer - Mega Man Maker - Weapons & Utilities - Weapons (Mega Man 11) 1_6: -2083820792
+      PC _ Computer - Mega Man Maker - Weapons & Utilities - Weapons (Mega Man 11) 1_7: 50878546
+      PC _ Computer - Mega Man Maker - Weapons & Utilities - Weapons (Mega Man 11) 1_8: 1789891322
+      PC _ Computer - Mega Man Maker - Weapons & Utilities - Weapons (Mega Man 11) 1_9: -1377894855
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

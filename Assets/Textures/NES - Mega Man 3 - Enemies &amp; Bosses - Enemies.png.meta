@@ -1,0 +1,426 @@
+fileFormatVersion: 2
+guid: 585bd78e3d5ad3044bcb3d4bc1b0f60d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 97
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b932eac4bff2e074eb04795e39887f55
+      internalID: 1102962801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 97
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45d9bb888f325043afb4934ac004b02
+      internalID: -57105497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 291
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e702055ae841bf4e82d6f48f9b32513
+      internalID: 949963309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 291
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b2a4e686dfcb64f89b6defc677637c
+      internalID: -479499901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 291
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5d9548e976d2c49976543b9c180a5c
+      internalID: 1673473467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 291
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ca7e6637856e547b79984fa5d41b8a
+      internalID: -1157172435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 291
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bf6e1320c741e4187f591b162e7ff8
+      internalID: -1016488314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 258
+        width: 20
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31664ccdc9b60b345b7134e39b1c7fd8
+      internalID: 1056370859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 258
+        width: 18
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6550f07af51a8c34b952ad47e6471c0b
+      internalID: 818975600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 258
+        width: 18
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86f0fa35804fa64dbc3bc888ea8b413
+      internalID: 457343717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 258
+        width: 18
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603fb5e8467da394ba226c4302491947
+      internalID: -501793195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 258
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a82cc49133c506428420318c27c3547
+      internalID: 1739150816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 258
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b977cf0347100fd44b2014023ff20d61
+      internalID: 34211884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_0: 1102962801
+      NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_1: -57105497
+      NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_10: -501793195
+      NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_11: 1739150816
+      NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_12: 34211884
+      NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_2: 949963309
+      NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_3: -479499901
+      NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_4: 1673473467
+      NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_5: -1157172435
+      NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_6: -1016488314
+      NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_7: 1056370859
+      NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_8: 818975600
+      NES - Mega Man 3 - Enemies &amp; Bosses - Enemies_9: 457343717
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

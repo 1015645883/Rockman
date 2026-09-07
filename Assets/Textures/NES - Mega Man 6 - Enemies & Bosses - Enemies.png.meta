@@ -1,0 +1,646 @@
+fileFormatVersion: 2
+guid: 59c4a75fa2ac1e8478dcfd093168c8cf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 555
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef0a2e3acadee0429206b5f29bcd592
+      internalID: -1070717726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 555
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2212f3c185d20b24fb976948ac702afb
+      internalID: 2079465291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 555
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b395518f5bd9a734f9139de292274547
+      internalID: 1890938768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 555
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635b89b2c19ea314d95bf4783c903e3a
+      internalID: -729811400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 555
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299eb16beaae5ef45b5a3eb68eafcbb4
+      internalID: 437991205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 555
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0954610186bf4b4bb6168ac4a51fa00
+      internalID: 775847166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 554
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6225174ba86fc7f47ad1723237c04280
+      internalID: -167886364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 530
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898b3a3d4fafd9648addbce91b080f7e
+      internalID: -2123461035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 522
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d259e566eb2fab48b9b14218b225d44
+      internalID: 16056409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 522
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfec1426f66c0b49ab1c06532f01429
+      internalID: 163198600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 522
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea8ea07701c34447a718b191d62ff93
+      internalID: -1438270365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 522
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2988215f3771944900289934f1f85c
+      internalID: 1393642295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 522
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9653e015cf1ed41a3fc1972052f6ae
+      internalID: -1520849166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 522
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e695e1f71bdb24b9c4103c675d8bf6
+      internalID: -1208217551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 430
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98b94289a55bd84ebeea36c5ae790f8
+      internalID: -1017303687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 430
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c3c68e22565b94d905280e0f43ae35
+      internalID: 643842055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 430
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9faa48cd694fa42881869240f5ed67
+      internalID: 2124487405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 545
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88d7cfe736981a44863f4e60d62c2d4
+      internalID: -52527108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 545
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40003ad0cd1f7b2478e578b8abbc51d3
+      internalID: 874151225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 545
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a07ffc1b7ef074d91141abdaa15f89
+      internalID: -1918052674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 545
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb026bfa002c436438ba83925081d7c7
+      internalID: -1152792682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 545
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfa56f402b88da4eae64da15438ce33
+      internalID: 1530199991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 6 - Enemies & Bosses - Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 545
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687baa1b663e517448831a6b3f93795a
+      internalID: -516565393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_0: -1070717726
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_1: 2079465291
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_10: -1438270365
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_11: 1393642295
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_12: -1520849166
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_13: -1208217551
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_14: -1017303687
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_15: 643842055
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_16: 2124487405
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_17: -52527108
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_18: 874151225
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_19: -1918052674
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_2: 1890938768
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_20: -1152792682
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_21: 1530199991
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_22: -516565393
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_3: -729811400
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_4: 437991205
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_5: 775847166
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_6: -167886364
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_7: -2123461035
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_8: 16056409
+      NES - Mega Man 6 - Enemies & Bosses - Enemies_9: 163198600
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

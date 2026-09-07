@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: 43ccbbe34c0db9147976de8075600933
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 5_0
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 349
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.535, y: 0.516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d8f4795b5e949408752e4cf5c37744
+      internalID: 1546689784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 5_1
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 381
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.59, y: 0.515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7043e76f1f9eb4ab9021dd63d967fa
+      internalID: 1550631208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 5_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 413
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.62, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82732eed57fcfdf499119cbfaeea30ea
+      internalID: 2146797482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 5_3
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 309
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.62, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542bf9d49dbb9a84f8d8df999d3ba160
+      internalID: 1788501586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 5_4
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 277
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.59, y: 0.515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71082b6ef40511488ac0e17cd7d7222
+      internalID: 1951082310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 5_5
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 245
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.535, y: 0.516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d2c7477c17fe74eba2d48e4a5f828b
+      internalID: -477764818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 5_6
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 488
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2022a0032c6684dbaf85e7e624c9d3
+      internalID: -88604850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 5_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 488
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea527188b33ebd49857a26617ddad06
+      internalID: 1033764099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 5_8
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 460
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43fbe6b132c0da4f8b9f85056cb08b4
+      internalID: 1643647329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 5_9
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 460
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016d44cb7ed68574387d9fe1a3b7bc11
+      internalID: -376453614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 5_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 432
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d479813828db7de4c9b6e6525588032a
+      internalID: 1640821890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 5_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 432
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2986b4dd5c7f7ad48b3a9b3926e88525
+      internalID: 1444662525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 5_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 432
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044e60921a44cac4db1483c7c8e5a5f3
+      internalID: 806344860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 5_13
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 399
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543cd78f2d81c8a499b02e673018cbd8
+      internalID: -1480251691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 5_14
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 283
+        width: 32
+        height: 25
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b477ec87aec2f41b50e1978ee29e81
+      internalID: 881702062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 5_0: 1546689784
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 5_1: 1550631208
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 5_10: 1640821890
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 5_11: 1444662525
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 5_12: 806344860
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 5_13: -1480251691
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 5_14: 881702062
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 5_2: 2146797482
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 5_3: 1788501586
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 5_4: 1951082310
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 5_5: -477764818
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 5_6: -88604850
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 5_7: 1033764099
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 5_8: 1643647329
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 5_9: -376453614
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

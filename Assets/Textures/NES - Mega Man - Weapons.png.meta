@@ -1,0 +1,4936 @@
+fileFormatVersion: 2
+guid: 7ee58782d68dccb4b87d45963cd386eb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 310
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d97788fba16ef4fb5aea9c54a55236
+      internalID: -1668426138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 310
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2430ec6e4f84c479c46a547910116c
+      internalID: 1832141569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 309
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060d0d8ff572076479a0c662a572eacb
+      internalID: 217864206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 310
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a65caaa743822a4a9877da5f9c9a981
+      internalID: 11962290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 310
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7099e57c083c840499a39e119554a7ee
+      internalID: -1831107689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 310
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198f786467f0e7049948bb358161eb18
+      internalID: 377486374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 310
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef25e95549d53146b9544c2ab1b43fd
+      internalID: -1506279532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 310
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858d8cde058fc8d4295be4ee21f1e89d
+      internalID: 77982400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 310
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db262a584ff7364ab0d5024196610f4
+      internalID: -596395451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 310
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892265245a519e74d88544815d631eb9
+      internalID: 983830833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 310
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd4331f917b7ec4bbe3010921d28023
+      internalID: 241265978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_11
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 310
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196369c16d07a5444b90fa342157ebe5
+      internalID: 2098725613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 310
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc40e275f166b4340b9b13a78c01314f
+      internalID: -423686978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 310
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1763505d9c240de4d8b088fc26c60774
+      internalID: -1742886089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 310
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f705629e3de9954dbc458c63e1c68ba
+      internalID: 84240896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_15
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 310
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c51ef906af1144eafaffd5e27f7e7c
+      internalID: 1001778418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_16
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 309
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523c38e77cee4134e84508966deac2de
+      internalID: -299856714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 310
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71746c3b2877d5d4c96bc9d754d07f27
+      internalID: -1447957840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_18
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 310
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa72817ee172ea04e8e8854c8b06623a
+      internalID: 1209490003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 310
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b233290d3522d4a94707104c50ec5e
+      internalID: -187912953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 310
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e1e0610ec05b245b063a740818d6ab
+      internalID: -1535001948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 310
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db387cbd0015d0e4c81f262182f61d6a
+      internalID: 573302813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_22
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 310
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd2a81c98464a94e930c5ef096253dc
+      internalID: -1097608852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_23
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 310
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622be828ca6695c4eb18abb905f4b6d0
+      internalID: -210615868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_24
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 310
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803cdeae8ea35b04e8e6e28545446d7f
+      internalID: 1176396514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 310
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fef2b94be66cf439f9ba44379820e9
+      internalID: 1459284495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_26
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 310
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a2b3c417934c0408884032636a990b
+      internalID: 643124341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_27
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 310
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957175df92e036748af4a8c6baa8abfb
+      internalID: -1196848337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_28
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 310
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1068e2ce3e4f83f4fb8abf64c5889cce
+      internalID: -1403534135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_29
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 310
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf8e98cb9e437a4b9a8236eada832d1
+      internalID: 802008450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 310
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf8e6e86cf90a24fa785cbad0098f3a
+      internalID: -1067779198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_31
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 310
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb17b5409f647f4785001e85b586399
+      internalID: 1142444844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_32
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 310
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6805b70ac2cbe64e867ac9d07dd0601
+      internalID: -59666961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_33
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 310
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f82d302e6ca32947aeb991ab4472ff5
+      internalID: -1264021999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_34
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 310
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b70d03ed98f004bab4f528b4c5202a
+      internalID: 1263730896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_35
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 310
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfb2d2ca06105c46a2d5b439e2483e8
+      internalID: 1824087685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_36
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 310
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c33e676afb37684dbaef520f30b2385
+      internalID: 28135087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_37
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 310
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894304743ef21cf4a95e1c04b3470e38
+      internalID: -1446706566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_38
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 310
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2316a281012104d8aec06e91e4afa0
+      internalID: -1936602927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_39
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b68efe98c38614096fea8002ecd878
+      internalID: -317109587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_40
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 283
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8001160433559b43879715b58774c57
+      internalID: -508919497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_41
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d242ee5b9cf6a7f49b58da45c41be21b
+      internalID: -2065404759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_42
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e85ce1c68060448973461b7e279ed7
+      internalID: 370853512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_43
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 275
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdad0830aea10d439cbf9d19a0f20df
+      internalID: 696815696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_44
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 275
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa826b593d9f4704aac7502e5c85cecc
+      internalID: -275718162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_45
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 299
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f01dddc104a2244bc2323df20b828d
+      internalID: -670129184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_46
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 299
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7197ac614f2d0794ba770dbf8d1dd45b
+      internalID: -734184640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_47
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 283
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc8d43ef99baf14bab7f7acc2bfd17a
+      internalID: -971036721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 283
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99a4bb7df160544ab1889f3cff523ac
+      internalID: 915714752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_49
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 283
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c504fbce66b0374898ee1d30c18c486
+      internalID: 1489747678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_50
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 283
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283ed74e15ecd7b449ea400e72c647db
+      internalID: -1982705864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_51
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 283
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8017994ff2f454786394b8a93bc50d
+      internalID: 939993430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 275
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c311b009dae451e42be327d78b867ff3
+      internalID: -1216487509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_53
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 275
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eace7bac879abf4d8122349ae9c140e
+      internalID: 1781223920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_54
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 275
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4600ca20a9bf3654cb9acd6449440873
+      internalID: 331686806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_55
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 275
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055e1705129338444896ac8941322534
+      internalID: 1964186289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_56
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 275
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4f6f92d9432bb499d742c282cf39a1
+      internalID: 384081789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_57
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 271
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac1eafe618ef9849a72ba86c0cbc55b
+      internalID: 461616182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_58
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 270
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6914cedc00eddc24d83ec965421cfd76
+      internalID: -1406241877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_59
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 270
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a7be7055292164eab5157de0bf29aa
+      internalID: 552880834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_60
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 271
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bc491d03eeac745aaad3a5dc136e94
+      internalID: 1041693904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_61
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 271
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d34efaa8688574a90789d0430f78bc
+      internalID: -980194306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_62
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 271
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d1bafe606cc784fb1820f922ec3adf
+      internalID: 754842901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_63
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 271
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9287e243da07654a8d2a436ebdac7d1
+      internalID: -1030628100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_64
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 271
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2f593b32b88cc4492d2071d1b8bd96
+      internalID: 1181397510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_65
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 271
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b6379545ac97f4dae5da9788f53a05
+      internalID: -1884431286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_66
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 271
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19692dad5ae695440ae745042f2e60ba
+      internalID: -1833409622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_67
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 271
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3025d06dc8a4d694a888538fb718735c
+      internalID: 819658266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_68
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 271
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd257b7db2f93e4a9d9e981c6c77283
+      internalID: -346256151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_69
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a28a54fbdf0f74a987134d647cb42b
+      internalID: 709487187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 263
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1f261a47e71104fbace55721b224c6
+      internalID: -1525215087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_71
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 263
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85033b42676cd5c48b398966141513b9
+      internalID: 903466231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 262
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae14df7e48e5d449907cbe3a1ec5668
+      internalID: -1924930945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_73
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5143291fc6df494e92282710ab635c1
+      internalID: 1204138602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_74
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 263
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedc6337ebb835d4ea03d61d503fccfa
+      internalID: 1287091346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_75
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 263
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a80e9d917f50047ac4699910cc054e
+      internalID: 1584097865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_76
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 263
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1687ca4ac978a5440bd30b710f14ba16
+      internalID: -2087379239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_77
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 263
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fc02904573e874eb48f18e13b03716
+      internalID: 167354537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_78
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 263
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa41be5dafe18f24986a86f02a375511
+      internalID: 443506686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_79
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 263
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b8c26370c1b9b47bc3d37f89e7f576
+      internalID: -984728653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_80
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90be264ad70a5c549aebad58a241682b
+      internalID: 1761063143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_81
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 263
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6274fec4221794788d93ae5c3321d3
+      internalID: -1695485418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_82
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 236
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91118573bc90e1b46a8e29d4ecfe1af9
+      internalID: 1573544990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_83
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 236
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16ef554dc2895c4f9af285a84114a3e
+      internalID: 28099540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_84
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78734e2bf1442344db83ef6ded19ec2c
+      internalID: -1703334549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 256
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13da830b412ad5b4dadc855a899b5c25
+      internalID: 1302584064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_86
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3266f44ef083034194d8f4d15553b71
+      internalID: -114257020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_87
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3dc7366daddff4a9418fca178bc4da
+      internalID: 710546588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_88
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e1105451846f845ad7a594a35d7486
+      internalID: 349006486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_89
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 228
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3128018abfe7aa4482cd7e6a3a5b062
+      internalID: -1426432761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_90
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 228
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c79d3e2c83ec9499be26ad6926039d
+      internalID: -1072197600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_91
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 228
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe885cde68ec6741a9c23ea0786b084
+      internalID: -1891500723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_92
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 228
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34736bf0af2fc3a4a892e14dd82acb58
+      internalID: 1625231834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_93
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c3a3e4adcc01c4eafaa9d763320a0c
+      internalID: 1839367596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_94
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75500880ba48484e93f08d61e01dd3f
+      internalID: 925589572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_95
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8fe4f2995789c47a3c8f98189f8c50
+      internalID: -2087202116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_96
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa05e89e0595ce9468508e1e8a8812d4
+      internalID: -1323168524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_97
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 236
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cf5240661da0a4399fd5b046de277e
+      internalID: -52712355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_98
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 236
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcee9ea3b81c0ad418d30ad02cc5b556
+      internalID: -392731085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_99
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 224
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8d9d550e954f14ba0da4ddd540b8dc
+      internalID: -791055369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_100
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 224
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fd88cfa3aa55f42802a1a2013985f4
+      internalID: -100497496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_101
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 224
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bb9e36d4ad5ea449534b1dcff6df1d
+      internalID: -879473386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_102
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 224
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bc91471c8900e469bf402b742589cb
+      internalID: 1112815663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_103
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 224
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e93068dd136bb9459b01e4ca62b386c
+      internalID: 1051247061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_104
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 224
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ee8db4b937d564b9bd74de77b27d8c
+      internalID: 1476536288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_105
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 224
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d35c3d490991444c911c3373e1a003e
+      internalID: 586105550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_106
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 224
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1551db0666f1c934abea9918654d5898
+      internalID: 1187216919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_107
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 224
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc352411c751ff46ac5bdad7384a2b0
+      internalID: -2066633551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_108
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 224
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514c28042908c174b9fe220abeee05b7
+      internalID: -1780615449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_109
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 197
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f39ec529218279449d321be38cdd8af
+      internalID: 1490974452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_110
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 197
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ad62a6a7f3e5d47a175e62fb8ce72f
+      internalID: 2089439066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_111
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4abd1b331571614f97f3c13d118e2bf
+      internalID: -244305221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_112
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d789007da3912ea499424c2b148f2172
+      internalID: -1214844601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_113
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6794c1cb1962ac448689dd2bb1fe2a2
+      internalID: 717369623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_114
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d0b255064fffa40825c781b28e013e
+      internalID: -1207203264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_115
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a99ef2dd6ef5484d8fcf468c03f1a89
+      internalID: 1695438370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_116
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 213
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2414508a45aee040b953c69d25ee850
+      internalID: 2000569307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_117
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 216
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d45d58d4f411024d9b79a67e851b776
+      internalID: -1446827602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_118
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 216
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368173141b5652b4db415c6234c590ea
+      internalID: -1754540060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_119
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 215
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1eb6493c43c54429099b6d22995019
+      internalID: 656044366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_120
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 216
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a6fa90b9ff1e24fb6ea2bc0e2ca3f2
+      internalID: 944217418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_121
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 216
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d752c64955090be4097568cd34917d84
+      internalID: -1518541729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_122
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 216
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d333e721376a5ab478658ebef6433e06
+      internalID: -598961202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_123
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 216
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1880fd3ef29e3f949ac62fba695017cd
+      internalID: 1460300769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_124
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 216
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4181912b4855d1b4ab7041992c6e4edf
+      internalID: -648252880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_125
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 216
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264c4129c23ba5d4c8a04d34018600d5
+      internalID: -181240774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_126
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 216
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b5e91662343a84b93e66dd82a3c164
+      internalID: -1446754141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_127
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 216
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0aa07f962cc87d45b41f0c501d05e75
+      internalID: 1210547595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_128
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 189
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43052065c5f75cb49bf436de97eb9ee2
+      internalID: 1963843924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_129
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 189
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9632150fda0e41459d18d379000ba0b
+      internalID: -1119945832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_130
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 197
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdfc1a2b7128bc4db1ce3fecd1c3c51
+      internalID: -295434057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_131
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 197
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65342a9588289e74d9079634e3cc957f
+      internalID: -855963431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_132
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 197
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a395c2e14c23f4b8b728365e00be1d
+      internalID: 1079057988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_133
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 197
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6f4fa7dcb87834fb7fed5996f4d46e
+      internalID: 1353943515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_134
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 197
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc2b5f038b32934b864d6ea51145337
+      internalID: 1937373335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_135
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 189
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62461131e969329469da0313d3f7052c
+      internalID: -217915949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_136
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 189
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cbede0e56fb724e891a538ae3d261a
+      internalID: -1376285753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_137
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 189
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6e95ff0cd12ad43a43c87374706ead
+      internalID: -1351406639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_138
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 189
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16aaa5168a67d3542b3733890637ebb5
+      internalID: 1135534199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_139
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 189
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e771f14d08dd0e54891f8d307c9887e6
+      internalID: -596878215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_140
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 189
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dd02fe0a3d4e445a05e203f889e3e2
+      internalID: 1124747186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_141
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 189
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74da46683514d274f8b4c75a6a350ab9
+      internalID: -1984693795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_142
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 189
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92c611aa2a8c6f47b354ef40b597722
+      internalID: -703589478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_143
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 156
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804ddeb3ceffc0f41b285257945a7aed
+      internalID: -2006485624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_144
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 156
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d98c12d012981943b9def483e823fc8
+      internalID: -367279954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_145
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 156
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cb734961759cf4ca67c842e9a6df2f
+      internalID: 36756829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_146
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 134
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083a9cf484812274c93a8595000c9279
+      internalID: 275475236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_147
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 134
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabf806ab8c7d644c8240759ce401951
+      internalID: 1648755864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_148
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 134
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00561b359970fa14a81ca7c79840b581
+      internalID: 549001098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_149
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 134
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc00a5c2e9d57ee4295b8fc82c877aeb
+      internalID: 315413354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_150
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 134
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709c75869d120ec4ab1f9f120963c0a1
+      internalID: 926131888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_151
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 134
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44cc380ecd4d8b4eb08d7fff6d71c2c
+      internalID: 1693345390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_152
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 134
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a8737840bb818498cbf6a9b5684a57
+      internalID: 789432517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_153
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 134
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ed360d5d721ea48968142e589745ad
+      internalID: 1676792186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_154
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 134
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f6d9cbea7467749b9526fb85ff0ec3
+      internalID: 867741061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_155
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 134
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8d74baaee488846bf6025627f064dd
+      internalID: 1246085042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_156
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 146
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602eb04a8ed24c943aaeb92a42efd965
+      internalID: -1825953587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_157
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 146
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34115355d3adf364daef65cf7778fdad
+      internalID: 1524797764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_158
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 156
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b032a6529ab348646aff1c1583441cbd
+      internalID: 1419085072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_159
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 156
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70da73232ec972428122b6357a1074d
+      internalID: 1452745638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_160
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 146
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ff4cdcd4f06b44ab1139f6ea52e9be
+      internalID: -1565306002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_161
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 140
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88f8657fb63a2747b0b5bc3363f863a
+      internalID: 1389307317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_162
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 71
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96c98292de2b0745915fb543f28378c
+      internalID: 107914466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_163
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 71
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4cb3361264fef418ebde1b5ac1fb17
+      internalID: -1450746923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_164
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 130
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7385414eba0444992fde316bd549f1
+      internalID: 288199737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_165
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 130
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c306c35ebe86eec439d33f188237a9db
+      internalID: -2066352736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_166
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 130
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd869745bb69fe428fb1f6e3b66728d
+      internalID: 1394883254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_167
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 130
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e1bbc86e526f3418a017aced1c31bf
+      internalID: -1407571709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_168
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 130
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f5accc9c2c6d9469483e1e95ec700d
+      internalID: 1777296811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_169
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 130
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff283c4e7683a3a46935a13d665000ee
+      internalID: -432524276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_170
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 130
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abab13d494f4afe4eb1956aa834a4993
+      internalID: -728643467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_171
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb48d29c513db740ab4306e719070dc
+      internalID: 1508665544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_172
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 130
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b056193f971af48b051b5b712484f4
+      internalID: -1063881196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_173
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 130
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f805d461840550347907e0ad2acd17dd
+      internalID: -450594406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_174
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 130
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096b6e2da01591742b65141b0a5acee6
+      internalID: 1854638848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_175
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 130
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fef5ac0b11c2d4e9f50e2a8fae96fd
+      internalID: -1168179743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_176
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcad0b3d201bbb48b4e1c436267a445
+      internalID: -1275958835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_177
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 130
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bcedca14b760449bae850764309045
+      internalID: 4717404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_178
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfa00aacf5a8204a9832a6246d5eec7
+      internalID: 1193419640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_179
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 103
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b462ed11285b3a45844626ef40236bd
+      internalID: 1037045722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_180
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 103
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9e681ff3a9fc94da929d8776d4c909
+      internalID: 344827255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_181
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 103
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52737b871b0d16e448d19c0426c92e29
+      internalID: -875044250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_182
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 103
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7733259ed0a2ec5468ce5126c4f33062
+      internalID: 900326628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_183
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 71
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcad1da4af89ea47a2af0d87ae120d4
+      internalID: 1897083106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_184
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 71
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8252ec5d881e3db488a9d7abf109f66d
+      internalID: 1783421559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_185
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 71
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e98cfdd02e30944a7e0daecda56b74
+      internalID: 1808944018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_186
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 71
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae306217746dd9e4c92cc68204af02fc
+      internalID: 77054873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_187
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 71
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17554829b261fe347b22c417ccbb0218
+      internalID: -1722663975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_188
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 71
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215f048cc965e3d4da89d402ecebae47
+      internalID: -2032619911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_189
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e928decee35324b4cbdf585981520b12
+      internalID: 106621196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_190
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 103
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2fca414df3d414c9b0d77666fb3409
+      internalID: 285876236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_191
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 103
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d75f6530202c54187dbe07ca8407b5
+      internalID: 1645192683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_192
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 103
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5647b54fb2518204882060756d289ae9
+      internalID: -374704684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_193
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 103
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab54b9f1c88f3ed4baa77c5b1182fd58
+      internalID: -235768968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_194
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 58
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711e16e7e962a9f4ca79dd1dde9ff9fd
+      internalID: -718751852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_195
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 58
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773f1b23cd9274d4897d0fd9aad36dc8
+      internalID: -1900362499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_196
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 66
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14921cd233dd27f47886e3cc4c57617d
+      internalID: -479612247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_197
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b77cd7df1ab3a47bd569d7e579bb2c
+      internalID: 435570120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_198
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 58
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f009d0b5598243d41b6ddda312e492f4
+      internalID: 748595714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_199
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2fc3109f643cb45a1de2cec7f18739
+      internalID: -1209315342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_200
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 58
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15421336a77febf4da26915c357d2194
+      internalID: 672264653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_201
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 58
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0645bcf9b112217499dcf9bbf630d9f1
+      internalID: 34389761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_202
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b47dd4e3bb042498b1fadf01533cfa
+      internalID: 614435834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_203
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4c23ffb232cf54a8b34808b49e73fb
+      internalID: 284482891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_204
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6677977ca8249c40a4307144980839e
+      internalID: -1453910556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_205
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43fda01b278da540bdf0302ddfc01b3
+      internalID: -1776070775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_206
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00391b29033154341b717c0cbc3a766e
+      internalID: -828488826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_207
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419b40f3dead5024da86c0c79d20cfd2
+      internalID: 818485569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_208
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bd1eaff7ddf1c48b2c92f372cdc1e3
+      internalID: -335065618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_209
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f363e0c907bf0647b00197d3fe32fa5
+      internalID: -533902514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_210
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253ab1d595b21cc40bd8b0e3bd47367e
+      internalID: -1157017376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_211
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e177804cc5c32124a844854407145dd7
+      internalID: 1108219848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_212
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ac55a811cd5f446bc19552024785b3
+      internalID: 1185510973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_213
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16f3a02cd959014d8a84e3d00bf6755
+      internalID: -1742073546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_214
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15af0c52850c9cf46ab38904bc03c2f4
+      internalID: 973795248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_215
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c8659e8483cc149a84f5b0d89794a3
+      internalID: 743423695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_216
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d94413786944a4eba6718d1df14d9f
+      internalID: 1394092456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Weapons_217
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1
+        width: 224
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eabd2383b1b2c4bac0d79e8a9cb89e
+      internalID: -2099123150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Mega Man - Weapons_0: -1668426138
+      NES - Mega Man - Weapons_1: 1832141569
+      NES - Mega Man - Weapons_10: 241265978
+      NES - Mega Man - Weapons_100: -100497496
+      NES - Mega Man - Weapons_101: -879473386
+      NES - Mega Man - Weapons_102: 1112815663
+      NES - Mega Man - Weapons_103: 1051247061
+      NES - Mega Man - Weapons_104: 1476536288
+      NES - Mega Man - Weapons_105: 586105550
+      NES - Mega Man - Weapons_106: 1187216919
+      NES - Mega Man - Weapons_107: -2066633551
+      NES - Mega Man - Weapons_108: -1780615449
+      NES - Mega Man - Weapons_109: 1490974452
+      NES - Mega Man - Weapons_11: 2098725613
+      NES - Mega Man - Weapons_110: 2089439066
+      NES - Mega Man - Weapons_111: -244305221
+      NES - Mega Man - Weapons_112: -1214844601
+      NES - Mega Man - Weapons_113: 717369623
+      NES - Mega Man - Weapons_114: -1207203264
+      NES - Mega Man - Weapons_115: 1695438370
+      NES - Mega Man - Weapons_116: 2000569307
+      NES - Mega Man - Weapons_117: -1446827602
+      NES - Mega Man - Weapons_118: -1754540060
+      NES - Mega Man - Weapons_119: 656044366
+      NES - Mega Man - Weapons_12: -423686978
+      NES - Mega Man - Weapons_120: 944217418
+      NES - Mega Man - Weapons_121: -1518541729
+      NES - Mega Man - Weapons_122: -598961202
+      NES - Mega Man - Weapons_123: 1460300769
+      NES - Mega Man - Weapons_124: -648252880
+      NES - Mega Man - Weapons_125: -181240774
+      NES - Mega Man - Weapons_126: -1446754141
+      NES - Mega Man - Weapons_127: 1210547595
+      NES - Mega Man - Weapons_128: 1963843924
+      NES - Mega Man - Weapons_129: -1119945832
+      NES - Mega Man - Weapons_13: -1742886089
+      NES - Mega Man - Weapons_130: -295434057
+      NES - Mega Man - Weapons_131: -855963431
+      NES - Mega Man - Weapons_132: 1079057988
+      NES - Mega Man - Weapons_133: 1353943515
+      NES - Mega Man - Weapons_134: 1937373335
+      NES - Mega Man - Weapons_135: -217915949
+      NES - Mega Man - Weapons_136: -1376285753
+      NES - Mega Man - Weapons_137: -1351406639
+      NES - Mega Man - Weapons_138: 1135534199
+      NES - Mega Man - Weapons_139: -596878215
+      NES - Mega Man - Weapons_14: 84240896
+      NES - Mega Man - Weapons_140: 1124747186
+      NES - Mega Man - Weapons_141: -1984693795
+      NES - Mega Man - Weapons_142: -703589478
+      NES - Mega Man - Weapons_143: -2006485624
+      NES - Mega Man - Weapons_144: -367279954
+      NES - Mega Man - Weapons_145: 36756829
+      NES - Mega Man - Weapons_146: 275475236
+      NES - Mega Man - Weapons_147: 1648755864
+      NES - Mega Man - Weapons_148: 549001098
+      NES - Mega Man - Weapons_149: 315413354
+      NES - Mega Man - Weapons_15: 1001778418
+      NES - Mega Man - Weapons_150: 926131888
+      NES - Mega Man - Weapons_151: 1693345390
+      NES - Mega Man - Weapons_152: 789432517
+      NES - Mega Man - Weapons_153: 1676792186
+      NES - Mega Man - Weapons_154: 867741061
+      NES - Mega Man - Weapons_155: 1246085042
+      NES - Mega Man - Weapons_156: -1825953587
+      NES - Mega Man - Weapons_157: 1524797764
+      NES - Mega Man - Weapons_158: 1419085072
+      NES - Mega Man - Weapons_159: 1452745638
+      NES - Mega Man - Weapons_16: -299856714
+      NES - Mega Man - Weapons_160: -1565306002
+      NES - Mega Man - Weapons_161: 1389307317
+      NES - Mega Man - Weapons_162: 107914466
+      NES - Mega Man - Weapons_163: -1450746923
+      NES - Mega Man - Weapons_164: 288199737
+      NES - Mega Man - Weapons_165: -2066352736
+      NES - Mega Man - Weapons_166: 1394883254
+      NES - Mega Man - Weapons_167: -1407571709
+      NES - Mega Man - Weapons_168: 1777296811
+      NES - Mega Man - Weapons_169: -432524276
+      NES - Mega Man - Weapons_17: -1447957840
+      NES - Mega Man - Weapons_170: -728643467
+      NES - Mega Man - Weapons_171: 1508665544
+      NES - Mega Man - Weapons_172: -1063881196
+      NES - Mega Man - Weapons_173: -450594406
+      NES - Mega Man - Weapons_174: 1854638848
+      NES - Mega Man - Weapons_175: -1168179743
+      NES - Mega Man - Weapons_176: -1275958835
+      NES - Mega Man - Weapons_177: 4717404
+      NES - Mega Man - Weapons_178: 1193419640
+      NES - Mega Man - Weapons_179: 1037045722
+      NES - Mega Man - Weapons_18: 1209490003
+      NES - Mega Man - Weapons_180: 344827255
+      NES - Mega Man - Weapons_181: -875044250
+      NES - Mega Man - Weapons_182: 900326628
+      NES - Mega Man - Weapons_183: 1897083106
+      NES - Mega Man - Weapons_184: 1783421559
+      NES - Mega Man - Weapons_185: 1808944018
+      NES - Mega Man - Weapons_186: 77054873
+      NES - Mega Man - Weapons_187: -1722663975
+      NES - Mega Man - Weapons_188: -2032619911
+      NES - Mega Man - Weapons_189: 106621196
+      NES - Mega Man - Weapons_19: -187912953
+      NES - Mega Man - Weapons_190: 285876236
+      NES - Mega Man - Weapons_191: 1645192683
+      NES - Mega Man - Weapons_192: -374704684
+      NES - Mega Man - Weapons_193: -235768968
+      NES - Mega Man - Weapons_194: -718751852
+      NES - Mega Man - Weapons_195: -1900362499
+      NES - Mega Man - Weapons_196: -479612247
+      NES - Mega Man - Weapons_197: 435570120
+      NES - Mega Man - Weapons_198: 748595714
+      NES - Mega Man - Weapons_199: -1209315342
+      NES - Mega Man - Weapons_2: 217864206
+      NES - Mega Man - Weapons_20: -1535001948
+      NES - Mega Man - Weapons_200: 672264653
+      NES - Mega Man - Weapons_201: 34389761
+      NES - Mega Man - Weapons_202: 614435834
+      NES - Mega Man - Weapons_203: 284482891
+      NES - Mega Man - Weapons_204: -1453910556
+      NES - Mega Man - Weapons_205: -1776070775
+      NES - Mega Man - Weapons_206: -828488826
+      NES - Mega Man - Weapons_207: 818485569
+      NES - Mega Man - Weapons_208: -335065618
+      NES - Mega Man - Weapons_209: -533902514
+      NES - Mega Man - Weapons_21: 573302813
+      NES - Mega Man - Weapons_210: -1157017376
+      NES - Mega Man - Weapons_211: 1108219848
+      NES - Mega Man - Weapons_212: 1185510973
+      NES - Mega Man - Weapons_213: -1742073546
+      NES - Mega Man - Weapons_214: 973795248
+      NES - Mega Man - Weapons_215: 743423695
+      NES - Mega Man - Weapons_216: 1394092456
+      NES - Mega Man - Weapons_217: -2099123150
+      NES - Mega Man - Weapons_22: -1097608852
+      NES - Mega Man - Weapons_23: -210615868
+      NES - Mega Man - Weapons_24: 1176396514
+      NES - Mega Man - Weapons_25: 1459284495
+      NES - Mega Man - Weapons_26: 643124341
+      NES - Mega Man - Weapons_27: -1196848337
+      NES - Mega Man - Weapons_28: -1403534135
+      NES - Mega Man - Weapons_29: 802008450
+      NES - Mega Man - Weapons_3: 11962290
+      NES - Mega Man - Weapons_30: -1067779198
+      NES - Mega Man - Weapons_31: 1142444844
+      NES - Mega Man - Weapons_32: -59666961
+      NES - Mega Man - Weapons_33: -1264021999
+      NES - Mega Man - Weapons_34: 1263730896
+      NES - Mega Man - Weapons_35: 1824087685
+      NES - Mega Man - Weapons_36: 28135087
+      NES - Mega Man - Weapons_37: -1446706566
+      NES - Mega Man - Weapons_38: -1936602927
+      NES - Mega Man - Weapons_39: -317109587
+      NES - Mega Man - Weapons_4: -1831107689
+      NES - Mega Man - Weapons_40: -508919497
+      NES - Mega Man - Weapons_41: -2065404759
+      NES - Mega Man - Weapons_42: 370853512
+      NES - Mega Man - Weapons_43: 696815696
+      NES - Mega Man - Weapons_44: -275718162
+      NES - Mega Man - Weapons_45: -670129184
+      NES - Mega Man - Weapons_46: -734184640
+      NES - Mega Man - Weapons_47: -971036721
+      NES - Mega Man - Weapons_48: 915714752
+      NES - Mega Man - Weapons_49: 1489747678
+      NES - Mega Man - Weapons_5: 377486374
+      NES - Mega Man - Weapons_50: -1982705864
+      NES - Mega Man - Weapons_51: 939993430
+      NES - Mega Man - Weapons_52: -1216487509
+      NES - Mega Man - Weapons_53: 1781223920
+      NES - Mega Man - Weapons_54: 331686806
+      NES - Mega Man - Weapons_55: 1964186289
+      NES - Mega Man - Weapons_56: 384081789
+      NES - Mega Man - Weapons_57: 461616182
+      NES - Mega Man - Weapons_58: -1406241877
+      NES - Mega Man - Weapons_59: 552880834
+      NES - Mega Man - Weapons_6: -1506279532
+      NES - Mega Man - Weapons_60: 1041693904
+      NES - Mega Man - Weapons_61: -980194306
+      NES - Mega Man - Weapons_62: 754842901
+      NES - Mega Man - Weapons_63: -1030628100
+      NES - Mega Man - Weapons_64: 1181397510
+      NES - Mega Man - Weapons_65: -1884431286
+      NES - Mega Man - Weapons_66: -1833409622
+      NES - Mega Man - Weapons_67: 819658266
+      NES - Mega Man - Weapons_68: -346256151
+      NES - Mega Man - Weapons_69: 709487187
+      NES - Mega Man - Weapons_7: 77982400
+      NES - Mega Man - Weapons_70: -1525215087
+      NES - Mega Man - Weapons_71: 903466231
+      NES - Mega Man - Weapons_72: -1924930945
+      NES - Mega Man - Weapons_73: 1204138602
+      NES - Mega Man - Weapons_74: 1287091346
+      NES - Mega Man - Weapons_75: 1584097865
+      NES - Mega Man - Weapons_76: -2087379239
+      NES - Mega Man - Weapons_77: 167354537
+      NES - Mega Man - Weapons_78: 443506686
+      NES - Mega Man - Weapons_79: -984728653
+      NES - Mega Man - Weapons_8: -596395451
+      NES - Mega Man - Weapons_80: 1761063143
+      NES - Mega Man - Weapons_81: -1695485418
+      NES - Mega Man - Weapons_82: 1573544990
+      NES - Mega Man - Weapons_83: 28099540
+      NES - Mega Man - Weapons_84: -1703334549
+      NES - Mega Man - Weapons_85: 1302584064
+      NES - Mega Man - Weapons_86: -114257020
+      NES - Mega Man - Weapons_87: 710546588
+      NES - Mega Man - Weapons_88: 349006486
+      NES - Mega Man - Weapons_89: -1426432761
+      NES - Mega Man - Weapons_9: 983830833
+      NES - Mega Man - Weapons_90: -1072197600
+      NES - Mega Man - Weapons_91: -1891500723
+      NES - Mega Man - Weapons_92: 1625231834
+      NES - Mega Man - Weapons_93: 1839367596
+      NES - Mega Man - Weapons_94: 925589572
+      NES - Mega Man - Weapons_95: -2087202116
+      NES - Mega Man - Weapons_96: -1323168524
+      NES - Mega Man - Weapons_97: -52712355
+      NES - Mega Man - Weapons_98: -392731085
+      NES - Mega Man - Weapons_99: -791055369
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

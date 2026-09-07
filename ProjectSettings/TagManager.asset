@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bullet
+  - EnemyWeapon
+  - RollingCutter
+  - SuperArm
+  - IceArrow
+  - HyperBomb
+  - FireStorm
+  - ThunderBeam
+  - Spike
+  - ChargeBullet
+  - Ground
+  - Gutsman
+  - LiftDisableZone
+  - IceFloor
+  - CEnergy
+  - GEnergy
+  - IEnergy
+  - BEnergy
+  - FEnergy
+  - EEnergy
+  - BluesShield
+  - Water
+  - Machine
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Ladder
+  - Enemy
+  - Spike
+  - BluesShield
+  - BigEye
+  - Bomb
+  - Player
+  - IceBlock
+  - Cut
+  - Hide
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

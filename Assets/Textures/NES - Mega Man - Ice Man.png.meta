@@ -1,0 +1,2362 @@
+fileFormatVersion: 2
+guid: 39f95bb03e8ef854cb15e5ac11c3f47f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 153
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231d12fa56f569e4ebe49e1d03ddff01
+      internalID: -2083166007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 153
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b9ca1a614fdf64e90dd4301040ca63
+      internalID: -951925304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 153
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85294697cd2849a47b4d2ffed04a4a75
+      internalID: 720647690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 153
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f888574e3279649b8e262c6ba86bdc
+      internalID: 20126883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 153
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2044a494dc90816488dc162a72ace7c0
+      internalID: -1337455584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 153
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c83ca8ddaf7eaa4b9019d2ff85ab9be
+      internalID: 983456393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 153
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785e7e1be595c0d41bc674db716f1c81
+      internalID: 1257359783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 153
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd169e11e44f754c93afe970941283e
+      internalID: -21373911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 143
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfb0cf497abe29449f8581d4f1fa003
+      internalID: -1227014906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 143
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8637fc7df2a414fa41e687a6d0240b
+      internalID: -187471695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 143
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61867f69b1fd1d7488c29da35d7a97c1
+      internalID: -929803552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 143
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178f579b21da2694ea4368b56a094ae2
+      internalID: 1432579535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 143
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b12fe71b9b311443a9e1aad6edb1fd2
+      internalID: 98042859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 143
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa41f1e51e943c34785a2f953bff88d0
+      internalID: -366520493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 143
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a397fd5701b724bae63205f9672de6
+      internalID: -769248740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 143
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b07d316c8e2e7b418c1c696a521974e
+      internalID: 971100633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 143
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d48b2fb171c8c48a995c84d339a87c
+      internalID: 8826858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 143
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86630c529e9410140aea7970bab9530f
+      internalID: 676356738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 143
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61fa5d5c5346b5479a2bac0eb296b08
+      internalID: -60237122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 143
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9280a79c7184f2468d3c514c799625d
+      internalID: -384002984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 143
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc4f2e10312dbe41a90b3dc483e7bbb
+      internalID: -1465837483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 143
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8639484371561ec449f87bf81a49d54f
+      internalID: -2144260294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 143
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c379a4329b5d89743af9aa3c1176b51e
+      internalID: 764016379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 143
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f794143f8b04ae4bba0fd1e2246a64a
+      internalID: -79484430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_24
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 143
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c62915f22ea0db4cb74a45d5fab3f57
+      internalID: 609665551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_25
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 143
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d12cdb0942dc524895e0baecdfa22ad
+      internalID: -1227537077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_26
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 143
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb33fd8d8d5b114c921b1c570c43be9
+      internalID: -116252168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_27
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 143
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32158eb09b4e7f444baea5aa6a7b4762
+      internalID: 1093014156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_28
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 143
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c7654e7022199458017319a4cc49d4
+      internalID: -2065758164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_29
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 143
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f867bb6e023c93e4aa761121e28c1bbd
+      internalID: -459950233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_30
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 143
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9127dcd9882c8ae4a89fb12e6168de49
+      internalID: -528712175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_31
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 142
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27fa30399db2f649898532d7ad800ee
+      internalID: -452177243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 116
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d80c467208032c46b9c32d6b7357a61
+      internalID: -1193020073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 116
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a5650528e57b04d87b005b15f0c25d
+      internalID: 1330155237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_34
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 116
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2476a1e2c77180341a4976b7b0315493
+      internalID: -1776248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_35
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 116
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f967398577479448c74404d055672b
+      internalID: -2086029116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_36
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 116
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730a7f79c7775fa49b97dbc0d1d45d95
+      internalID: -755312553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_37
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 116
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee066e00f3b13843b757b43f57e6b94
+      internalID: -1997455551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_38
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 116
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555792117f8ac19488b38b2acd15e949
+      internalID: 1711605490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_39
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 108
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ceba0dd4bb42243840ab7376d29bbb
+      internalID: -606220914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 104
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76b9e75e21d54c4eafd48639dc5e524
+      internalID: -1662129010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_41
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 104
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffb8de057d47a6488bc8aa7ea9542fb
+      internalID: 117743359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_42
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 104
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ba9d9bf643a6740ac830c30c4c1a63
+      internalID: 1940667231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_43
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 104
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e04b8acd528b634c99e6b2d8e19b0b9
+      internalID: 1749804920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_44
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 104
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d6288b54192e34e8b66167a60da360
+      internalID: -241060968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_45
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 104
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efc5959a2f53cd47993c4211a5e075b
+      internalID: 283570357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 104
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6956e24d0e2ef49bcac9d606eb26c8
+      internalID: 740768368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_47
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1f292cfb3c15047b751ccf0381e495
+      internalID: 298148609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_48
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 104
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc748447e443ab43b6b3a77e4e23d64
+      internalID: -266678322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_49
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 104
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1d842620e3d1c4aad79a3ec2bf9f72
+      internalID: -1337553142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 94
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea109026ea760ee4fb008ef997746cc4
+      internalID: -1702084990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_51
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 94
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7505909b1246ef341b647d5dccfa283c
+      internalID: 44848667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 94
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d679739261ed600499d4a7412966c60e
+      internalID: 307507088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_53
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 94
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be89fc3866d36e479e558e96ea127d8
+      internalID: 136018159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_54
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 94
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66e7a771c073b84ebe53c341e4b3415
+      internalID: -1686290561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_55
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 94
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876262556874b6748a1f7d171c65d1f2
+      internalID: -320293865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_56
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 94
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77a1975abc2b9f4b82a1bd9297fd30e
+      internalID: 1016663145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_57
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 94
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cac0d7c14ac8c43a386e0f5701f899
+      internalID: 1875834977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_58
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 94
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadd53334955f114398a7791207c8300
+      internalID: -991598901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_59
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 94
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4255f1de7fc95f7419e912230913c892
+      internalID: 1335045710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_60
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 94
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ea097a65d22d941b35d7e808ae48d1
+      internalID: -857006778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_61
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 94
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afb8d0c820aa0249a7c3d002bb099ae
+      internalID: -2064493858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_62
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 94
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43a112396a6cb8479aba44f16fa59fe
+      internalID: 213963536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_63
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 94
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb46e3ee2a1b3d44a739ddcd620bc16
+      internalID: -1835687892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_64
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 94
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34753e1115251d24384fcb5e9586de03
+      internalID: 1087853376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_65
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 94
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e79573bbbbf31a43811de418efc4abc
+      internalID: 1578903852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_66
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 94
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7626d6a9823916448576ef08984e6c9
+      internalID: 905867491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_67
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 94
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d6eb5d674e9114788d80f7caa15c65
+      internalID: 770618257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_68
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 94
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d494b14e640444ea6a666bc2f176fa
+      internalID: -1493532627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_69
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 94
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba57363ceb3b0c459f481ba2b70310b
+      internalID: -104426330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_70
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 94
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a24df3dc312f547a42b6e7d5439640
+      internalID: 482296336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_71
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 94
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf9e12e1265f6f40bb1751fac698792
+      internalID: 1376538309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_72
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 94
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345f8345c59860449b2bf422b8c3d3f4
+      internalID: -1958431739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_73
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e37cf05466e6147838510e1781f8ec
+      internalID: -1203826657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_74
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cd681409e755e4bbca669e2f790968
+      internalID: -1956520059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_75
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 67
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e70083603411b4f8dc567f13eef34f
+      internalID: -1651967651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_76
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 67
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d37f2e714d34cb45a4471ae8bc69901
+      internalID: 1474635232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_77
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 67
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694f40646ee08d146a9e9f45e78f5065
+      internalID: 1285392344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_78
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 67
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f562ed859fa724ab494623089e600b
+      internalID: -484393972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_79
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 67
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b34e3e0f75e4d345b675f85bce04244
+      internalID: -714473773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_80
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 67
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687092675fbb74743b80eb5f0770db51
+      internalID: 1664887596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_81
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 59
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066f3fbae4e0cff418f9e3265339b515
+      internalID: -184309794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b6b09d749651842992f706c003cb9f
+      internalID: -1807961033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_83
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 55
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bae8a2a724610e4ca6148961ba27225
+      internalID: 430713534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_84
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 55
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0904a6c912ce539478c9fb9dbe57e7d1
+      internalID: 2108819353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_85
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 55
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcefd6ef6dc9764c9907dadbde1a034
+      internalID: -1495540725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_86
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 55
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7812af8c275fdd84a93e398e6941f479
+      internalID: -126782251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_87
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 55
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177933eb8027d7848a5feca8f737cfcb
+      internalID: -1028414662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_88
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 55
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83e7ac3d646edf4a9441ae5c2c32771
+      internalID: 1816126284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_89
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 55
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c558276f067785342a4936d3cfe31922
+      internalID: -1500793062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_90
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 55
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1151e2348929bb4bbe951a618192cb7
+      internalID: 645621206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_91
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 55
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38db0ea45dbc68d4d9d6d6096ef079a2
+      internalID: -1948936307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_92
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 55
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca7718e06d49e94f8968a9cd89c869b
+      internalID: 515754990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_93
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 55
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3977d11c564a29e47b722b29c76af11f
+      internalID: -464364603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_94
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 55
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a4a406108b4fd40a4bbe7dc21f1e10
+      internalID: -100834757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_95
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db2e3d184b961148a7d6dc72442381c
+      internalID: -1235289798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_96
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bec3a54181b899478c3d6ed00de2801
+      internalID: -1128496280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_97
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f421f8a7952238041b4a27124d1c38a9
+      internalID: 668643603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_98
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589ced93c603a3f44a448efc1fcb2c0d
+      internalID: -1885610504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_99
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad36b5eecb7732047969ea851b0b0ca8
+      internalID: -982817412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Ice Man_100
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1
+        width: 224
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ffdcc39bd7abd42b340c9f80dc348f
+      internalID: 386809058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Mega Man - Ice Man_0: -2083166007
+      NES - Mega Man - Ice Man_1: -951925304
+      NES - Mega Man - Ice Man_10: -929803552
+      NES - Mega Man - Ice Man_100: 386809058
+      NES - Mega Man - Ice Man_11: 1432579535
+      NES - Mega Man - Ice Man_12: 98042859
+      NES - Mega Man - Ice Man_13: -366520493
+      NES - Mega Man - Ice Man_14: -769248740
+      NES - Mega Man - Ice Man_15: 971100633
+      NES - Mega Man - Ice Man_16: 8826858
+      NES - Mega Man - Ice Man_17: 676356738
+      NES - Mega Man - Ice Man_18: -60237122
+      NES - Mega Man - Ice Man_19: -384002984
+      NES - Mega Man - Ice Man_2: 720647690
+      NES - Mega Man - Ice Man_20: -1465837483
+      NES - Mega Man - Ice Man_21: -2144260294
+      NES - Mega Man - Ice Man_22: 764016379
+      NES - Mega Man - Ice Man_23: -79484430
+      NES - Mega Man - Ice Man_24: 609665551
+      NES - Mega Man - Ice Man_25: -1227537077
+      NES - Mega Man - Ice Man_26: -116252168
+      NES - Mega Man - Ice Man_27: 1093014156
+      NES - Mega Man - Ice Man_28: -2065758164
+      NES - Mega Man - Ice Man_29: -459950233
+      NES - Mega Man - Ice Man_3: 20126883
+      NES - Mega Man - Ice Man_30: -528712175
+      NES - Mega Man - Ice Man_31: -452177243
+      NES - Mega Man - Ice Man_32: -1193020073
+      NES - Mega Man - Ice Man_33: 1330155237
+      NES - Mega Man - Ice Man_34: -1776248
+      NES - Mega Man - Ice Man_35: -2086029116
+      NES - Mega Man - Ice Man_36: -755312553
+      NES - Mega Man - Ice Man_37: -1997455551
+      NES - Mega Man - Ice Man_38: 1711605490
+      NES - Mega Man - Ice Man_39: -606220914
+      NES - Mega Man - Ice Man_4: -1337455584
+      NES - Mega Man - Ice Man_40: -1662129010
+      NES - Mega Man - Ice Man_41: 117743359
+      NES - Mega Man - Ice Man_42: 1940667231
+      NES - Mega Man - Ice Man_43: 1749804920
+      NES - Mega Man - Ice Man_44: -241060968
+      NES - Mega Man - Ice Man_45: 283570357
+      NES - Mega Man - Ice Man_46: 740768368
+      NES - Mega Man - Ice Man_47: 298148609
+      NES - Mega Man - Ice Man_48: -266678322
+      NES - Mega Man - Ice Man_49: -1337553142
+      NES - Mega Man - Ice Man_5: 983456393
+      NES - Mega Man - Ice Man_50: -1702084990
+      NES - Mega Man - Ice Man_51: 44848667
+      NES - Mega Man - Ice Man_52: 307507088
+      NES - Mega Man - Ice Man_53: 136018159
+      NES - Mega Man - Ice Man_54: -1686290561
+      NES - Mega Man - Ice Man_55: -320293865
+      NES - Mega Man - Ice Man_56: 1016663145
+      NES - Mega Man - Ice Man_57: 1875834977
+      NES - Mega Man - Ice Man_58: -991598901
+      NES - Mega Man - Ice Man_59: 1335045710
+      NES - Mega Man - Ice Man_6: 1257359783
+      NES - Mega Man - Ice Man_60: -857006778
+      NES - Mega Man - Ice Man_61: -2064493858
+      NES - Mega Man - Ice Man_62: 213963536
+      NES - Mega Man - Ice Man_63: -1835687892
+      NES - Mega Man - Ice Man_64: 1087853376
+      NES - Mega Man - Ice Man_65: 1578903852
+      NES - Mega Man - Ice Man_66: 905867491
+      NES - Mega Man - Ice Man_67: 770618257
+      NES - Mega Man - Ice Man_68: -1493532627
+      NES - Mega Man - Ice Man_69: -104426330
+      NES - Mega Man - Ice Man_7: -21373911
+      NES - Mega Man - Ice Man_70: 482296336
+      NES - Mega Man - Ice Man_71: 1376538309
+      NES - Mega Man - Ice Man_72: -1958431739
+      NES - Mega Man - Ice Man_73: -1203826657
+      NES - Mega Man - Ice Man_74: -1956520059
+      NES - Mega Man - Ice Man_75: -1651967651
+      NES - Mega Man - Ice Man_76: 1474635232
+      NES - Mega Man - Ice Man_77: 1285392344
+      NES - Mega Man - Ice Man_78: -484393972
+      NES - Mega Man - Ice Man_79: -714473773
+      NES - Mega Man - Ice Man_8: -1227014906
+      NES - Mega Man - Ice Man_80: 1664887596
+      NES - Mega Man - Ice Man_81: -184309794
+      NES - Mega Man - Ice Man_82: -1807961033
+      NES - Mega Man - Ice Man_83: 430713534
+      NES - Mega Man - Ice Man_84: 2108819353
+      NES - Mega Man - Ice Man_85: -1495540725
+      NES - Mega Man - Ice Man_86: -126782251
+      NES - Mega Man - Ice Man_87: -1028414662
+      NES - Mega Man - Ice Man_88: 1816126284
+      NES - Mega Man - Ice Man_89: -1500793062
+      NES - Mega Man - Ice Man_9: -187471695
+      NES - Mega Man - Ice Man_90: 645621206
+      NES - Mega Man - Ice Man_91: -1948936307
+      NES - Mega Man - Ice Man_92: 515754990
+      NES - Mega Man - Ice Man_93: -464364603
+      NES - Mega Man - Ice Man_94: -100834757
+      NES - Mega Man - Ice Man_95: -1235289798
+      NES - Mega Man - Ice Man_96: -1128496280
+      NES - Mega Man - Ice Man_97: 668643603
+      NES - Mega Man - Ice Man_98: -1885610504
+      NES - Mega Man - Ice Man_99: -982817412
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

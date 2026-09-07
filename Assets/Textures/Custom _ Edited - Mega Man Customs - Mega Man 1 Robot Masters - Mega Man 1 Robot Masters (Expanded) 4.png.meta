@@ -1,0 +1,692 @@
+fileFormatVersion: 2
+guid: b2a79ef22d3aa0e4dbef887dda9ff3f7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_0
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 481
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3573c99677ccb44789feccf65d5184a
+      internalID: 1086071682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_1
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 481
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9a9debeccdb974294f58e5c6d5e8c1
+      internalID: 1075593026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_2
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 481
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1e7296298d5b7438cb8dc54851168f
+      internalID: 840759140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_3
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 446
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5384, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7235c58b812fb1b4dad6a89fbefdede1
+      internalID: -472821815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_4
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 446
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c3f76d738a20d4bae1f92fdb71b63b
+      internalID: -1182212056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_5
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 446
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58d0a9c0a92cda4c916b2cfb863f4da
+      internalID: -759711474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_6
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 446
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870435eced1f37a488b3d7f167189360
+      internalID: 1169683896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_7
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 412
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba25110abe2dabb49b16f2cf61cd1950
+      internalID: 185699455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_8
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 381
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98663befd803a6442ba938700606684e
+      internalID: 1131540802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_9
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 381
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5393ad3ab08565f4f93861ebd876c973
+      internalID: -1953367164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_10
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 347
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cc3b690d529874e81b38c431e3a2e6
+      internalID: 1416977756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_11
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 274
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0b0c998e356f148b734d7585733c10
+      internalID: -335581077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_12
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 274
+        width: 31
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48408756, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b18bf10d7bb554fb5244803fbd9377
+      internalID: -1670155211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_13
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 239
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.6666124, y: 0.6952002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d8a12d753cb4b429b4dd38b4ed89da
+      internalID: 1096808644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_14
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 175
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2012178b091224442ac79189d868c445
+      internalID: -1270088275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_15
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 175
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0421c0a795e2934d8d6f745f4e88810
+      internalID: -806069213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_16
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 148
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5384, y: 0.6666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e69b3f90f2059b44a215a931f91ad61
+      internalID: -1132812533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_17
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 148
+        width: 24
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.76}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f07822648fcc02499fcc55857860069
+      internalID: 173194727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_18
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 148
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f06b6c87160bb940b3a689f38ea95c9
+      internalID: -218558024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_19
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 148
+        width: 23
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.76}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168d98df1f452304f8402197179561bc
+      internalID: -60543498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_20
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 122
+        width: 24
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30522eedad3abda4389f92f49dbc0b08
+      internalID: 181305931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_21
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 99
+        width: 28
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745bff49f9e1e8844a6d613441682c74
+      internalID: -1348641340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_22
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 73
+        width: 28
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9312e9f5ce8e435498a183f659075196
+      internalID: -15904423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega
+        Man 1 Robot Masters (Expanded) 4_23
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 41
+        width: 16
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27efc76f700bbb7429b6517a1a88c29b
+      internalID: 325023262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_0: 1086071682
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_1: 1075593026
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_10: 1416977756
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_11: -335581077
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_12: -1670155211
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_13: 1096808644
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_14: -1270088275
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_15: -806069213
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_16: -1132812533
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_17: 173194727
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_18: -218558024
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_19: -60543498
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_2: 840759140
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_20: 181305931
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_21: -1348641340
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_22: -15904423
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_23: 325023262
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_3: -472821815
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_4: -1182212056
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_5: -759711474
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_6: 1169683896
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_7: 185699455
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_8: 1131540802
+      Custom _ Edited - Mega Man Customs - Mega Man 1 Robot Masters - Mega Man 1 Robot Masters (Expanded) 4_9: -1953367164
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

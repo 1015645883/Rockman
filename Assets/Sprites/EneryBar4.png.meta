@@ -1,0 +1,5508 @@
+fileFormatVersion: 2
+guid: 6dac2ce4a95510240bc573f43bf5d272
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EneryBar4_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 350
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6adfdeaebebd243acc31fbd537a187
+      internalID: 1007434630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 350
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256e670ddcf188240a76f4d94dabe248
+      internalID: 1260102027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 350
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10e703986d0e94448e1d9f7485daad7
+      internalID: -254376076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 350
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2c4132027791c43844238643e4837a
+      internalID: -1594552766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 350
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a8deb39807b804a9b3866ef7f69c57
+      internalID: 1465681501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 350
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5402256651ce61e4583940a370ee2399
+      internalID: -1958309110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 350
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16901373f6861dc4eb81bac8f8709ccd
+      internalID: 1785262043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 350
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00396ede864ee054d98241164dbd6d26
+      internalID: 385507717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 350
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94832b79d0f2cf429f75488d0aa08fd
+      internalID: -1023631199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 350
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94234e553cf87a4288df0acbc240bbd
+      internalID: -1307370022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 350
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e808c06bb5fcfd242a88a315f3fffc6b
+      internalID: 63893008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_11
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 350
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b39dc0a7254971438302dabfd5df1b7
+      internalID: -1568328148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_12
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 350
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fba9066d08ef74f91be084bfac5620
+      internalID: 1701095501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_13
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 350
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1a2a36c718461429b3397a68b59b8c
+      internalID: 1113262239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_14
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 350
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc675dfadb96ac24e8a0cc1c5495750c
+      internalID: 1867832625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_15
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 350
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e2654dc8927344eb080035d422370c
+      internalID: -178150073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 350
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de0904e8dee9154db24e016de184a71
+      internalID: -765272474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_17
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 350
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4763e3d7aeca8614a8801207bb496fba
+      internalID: 861339575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 350
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc00b3f07e8ace4c8db2c1a197bf6a2
+      internalID: -297323994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_19
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 350
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49b1452aaf98a641a6350bc6abad226
+      internalID: 1606580211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 107
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f7a8df054f8724499867e62fb9058d
+      internalID: -1879632546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_21
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 340
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697f9e83a4f9baa4680746b624c4839b
+      internalID: -1548564968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 340
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343ee12b2abb68f45913b46636e0ea21
+      internalID: -202997529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_23
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 340
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cbf0288d45a5b4094f8b5bb6054a87
+      internalID: 1275927691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 340
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c082d4ecf11deb141aaadeae00aa4962
+      internalID: 54564302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_25
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 340
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da329e026a77b54ab9f2b57a77f69e9
+      internalID: 267521866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 340
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0b6612850f6a041a993cafdc8a7c9a
+      internalID: 1021055328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_27
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 340
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e593e8078222984793825b25cfaeb9b
+      internalID: 1498717861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_28
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 340
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0931e5fbf20242469cd1ed478402c34
+      internalID: -775285299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_29
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 340
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed94bec87bca1b34ea6a1bf6e7315395
+      internalID: 381829641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_30
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 342
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e909e728f35740e45af5c0b0b3a95d42
+      internalID: -1163473157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_31
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 342
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2b176efec7dad47a5a38ca68c4286a
+      internalID: -1169765234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_32
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 342
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f6e40f30775124bb92ba4f54737d69
+      internalID: 362753993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_33
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 342
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3191819ba8c16d041a6b877dcd6952c4
+      internalID: -1820660156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_34
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 342
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1585259f07543240bf4fb5d177cdf3e
+      internalID: -369148412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_35
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 342
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939d6e3acdc07a04f9e5b20a80d50b58
+      internalID: 398066490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_36
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 342
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a054f55976ec67c4ca617f4221032bed
+      internalID: -1986708037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_37
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 342
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74df37381190ac7428dba8b0eb587da0
+      internalID: 1648319934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_38
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 332
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51defdd4d009ca14a8da3c38d1ba2364
+      internalID: 1332966963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_39
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 332
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e696a9cb17dc7446bd7fadf046434b7
+      internalID: -515094373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_40
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 331
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8737eeba906f6484d8ebd26f229dbb17
+      internalID: -719689550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_41
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 331
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb51ee691991b594e97420a855d88db1
+      internalID: 2038998254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 332
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e36af92f5d89314f994498d735338ed
+      internalID: -1103407944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_43
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 332
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4978eda12b97c4db4c12345d5a35e1
+      internalID: -1939913811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_44
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 332
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6effa65686fd1e243b0c102c1feed64b
+      internalID: 1195813608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_45
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 332
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5996703c9aaac469be82f8f9b5093d
+      internalID: -109002767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_46
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 332
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5374d760600d10749acc35fbd14f27d4
+      internalID: -634491801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_47
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 334
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3fadfad7643fa4289f7232c4420295
+      internalID: 88730954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_48
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 334
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fc1254d9193264192e59ce3b3fd19f
+      internalID: -1334693823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_49
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 334
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f31a1af2d77bfd4aa68bea2016d98bb
+      internalID: -843064065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_50
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 334
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c1d952c01dbcc489182fc1fcc12a8d
+      internalID: -63697173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_51
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 334
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040de5cd3b7d39f42b1e39672135391d
+      internalID: -1584875853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_52
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 334
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6496fdfdda22464d936313433ba6668
+      internalID: 588038211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_53
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 321
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4b1403c70c8c643aa7e9c60485e54b
+      internalID: 1227894845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_54
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 323
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a422c7b284c3bfe44acf7ee6ed73d0f0
+      internalID: -1337613136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_55
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 309
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2015fa29d1f30cc4c89a8985a2c613f7
+      internalID: -365541695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_56
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 309
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a536a1fb142e40d47a41a5aff8def0e6
+      internalID: 391810015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_57
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 308
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b30ada118d565743aa721204c0b5df1
+      internalID: -1625750882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_58
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 309
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ef1bc3b15603e4e8d532f73d474289
+      internalID: 868016153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_59
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 309
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a889237eca3797449579c63081ef2f6
+      internalID: 1459775479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_60
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 309
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1d5a36b89a18e4e9bf58a21a8950ee
+      internalID: 423112844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_61
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 309
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3732dc25b815f5499c6cea27b119a4c
+      internalID: -736515077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_62
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 309
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773bdcf4584e0d148af3714e63675496
+      internalID: 666409904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_63
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 309
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9a756a4e8c4394db0552229d74e124
+      internalID: -275473385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_64
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 309
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7571a0cfede36b143bfe51b82a76b2af
+      internalID: 523017272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_65
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 311
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26a11bd3d2fa054abb737ef824c3607
+      internalID: 320821728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_66
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 311
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c8719ca90ee5f4094b553ae9162e51
+      internalID: -504546832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_67
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 311
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ec77bac53c20242b81cae1a982811e
+      internalID: -1243920421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_68
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 311
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b4337fa07be4349887f55b66fcdb44
+      internalID: 1225253809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_69
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 311
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52016ea563469b747a093d14a8b752af
+      internalID: -1350962346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_70
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 311
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6223f4a3cbcf5bc41bcd23298d1fcd7c
+      internalID: -674853241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_71
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 311
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390ee30d26444c945a7134f86851e412
+      internalID: -2095874654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_72
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 298
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e732ac2c6ffba4a9ef4596989960d5
+      internalID: -993530021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_73
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 303
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5a307cb59b0b6468da145b9056ab5a
+      internalID: 1818188646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_74
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 303
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3846243f648b47944af6e1479cc4376f
+      internalID: -74772100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_75
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 303
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1544c8cb34fef1d49a44d0870e78df35
+      internalID: -2056142013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_76
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 303
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf3a55412d1c1a45adcddce50e99794
+      internalID: -568478220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_77
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 303
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057c3d9fad5593745a71d8c3e9a9c93b
+      internalID: 1491304613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_78
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 303
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64be5b8a4f7c5843a912c9059c4986f
+      internalID: 1620276943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_79
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 295
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4adaa019e820ff43b31737fee76cc7a
+      internalID: 769840371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_80
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 295
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bec66590e4f3df4ea8c925fd2d9458e
+      internalID: 1795409222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_81
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 295
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95838531bdadaa943a5ef666b46eac10
+      internalID: 1574949482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_82
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 295
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cc2c98dd0ec69409af5ea81c229686
+      internalID: 1474453182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_83
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 295
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ca3c29dea9d7e478b76ccb43fab812
+      internalID: 1941751025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_84
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 295
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa2010314025c94cba36d4288bb415a
+      internalID: 525675585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_85
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 295
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cce2453d7bcff2459c77c653e3e322d
+      internalID: -1399927558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_86
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 295
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccb7fcf0a2835a4fbe26d3ffe0a5cc1
+      internalID: 124332602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_87
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cf6757e1c8ead468b10bf5afc9d34c
+      internalID: 1915768930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_88
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 286
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90270d872aa8d244b96a1ad6fb595ade
+      internalID: -1638209777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_89
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 286
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ba0043f670887419fbd86fd11d8112
+      internalID: -352472672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_90
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 285
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6dace2e46bfd54592f6b14bba4cdd1
+      internalID: -733479609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_91
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9213ea7d856082a469b13028a826813b
+      internalID: 529468025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_92
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 286
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0d19b24e11be3458517529c0e09b8d
+      internalID: -1416916778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_93
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 286
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7c82084b9a93344869b56596cd3b26
+      internalID: 959306073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_94
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 286
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3afd64dd8260394e8c3a47212e5a249
+      internalID: -1571658612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_95
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 286
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a67a98e1c43ce545993df2e1f7d0e58
+      internalID: 1886678927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_96
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 286
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ec78f916cdc1946b98387acdac96c4
+      internalID: 570624926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_97
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 287
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7234395a4b55194784eb1b6054b29d0
+      internalID: 1397908965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_98
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 286
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb4261e84a0f1447b8d4fa9cbb8ca7a
+      internalID: -724006350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_99
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 287
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649639b16d7bd5a4f9d92f44955f3777
+      internalID: 1729310818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_100
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 287
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857cdb5d99b34544496af776b01a9ce8
+      internalID: 232842414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_101
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 287
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337af65ff0499c2408dac9e7cb3f20ac
+      internalID: 1206769892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_102
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 287
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03e05bb4ff56fb4c95bdb51a79e9b0f
+      internalID: -1944558403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_103
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 287
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba9db6bb7397de4aac327c958663718
+      internalID: 285486137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_104
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 287
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967a4cea9978cad448048063b7ed25fa
+      internalID: -234472189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_105
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 275
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6811a67b505ebe418344f6910b82ca1
+      internalID: -967725600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_106
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 276
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c903bfdbd5203408e64e963defe1ca
+      internalID: -1539564606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_107
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1a3db5cde37dd4d94cbeea5a777f11
+      internalID: -1604979307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_108
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 263
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08995a52c11a60c4cb3361dac64ceddb
+      internalID: 2079938684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_109
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 262
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db534dda8648d24fb0a22d72d5f98c3
+      internalID: -1689794585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_110
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 263
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf6e6b161ff7c7429fe34b15cb0d58d
+      internalID: 1749507938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_111
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 263
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924051ac6602ecd4fb5d03c74022f28f
+      internalID: -2107608756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_112
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c48ae2561bfef4e877d4577bd46c2a
+      internalID: -2101992292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_113
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 263
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293854b91b69eee40a1cf40f3cbafb6b
+      internalID: 952530800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_114
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 263
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a0ed446742da54ea1a98f923249080
+      internalID: 112645739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_115
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 264
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9156fb3e6fbbe04e9627340cf9db2bd
+      internalID: -1341665002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_116
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 264
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a5437f34cbde14fbb164787b4d6d55
+      internalID: -955345363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_117
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 264
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de893fb70d8f4104bab5c3eca2852ba4
+      internalID: 374998012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_118
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 264
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac0f52ac5ce2614ab48fbe7c6f4218c
+      internalID: -267369567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_119
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 264
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbc5071f287b514886cd2bb1f33f115
+      internalID: 473388224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_120
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 264
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cce60ef60230e643af2dbac251dcac4
+      internalID: -1239753408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_121
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 252
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3018059199974c4a93859a206ea34b3
+      internalID: 1481381162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_122
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 253
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b905b41dc801f744b2e74624db3ade8
+      internalID: 1093614668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_123
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 240
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c5a5bdaa55c67408fee7ed757f875f
+      internalID: -2001002506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_124
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 240
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e90affa27930f42b8595838fde9413
+      internalID: -28142316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_125
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 240
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16b054899a72d74581f1aecd3b3f8e1
+      internalID: -1787384270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_126
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 240
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bf547dc39522748a5e7603e986f775
+      internalID: -1467713216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_127
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 240
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b184d9af2abfbc54a8bd025386b4b08a
+      internalID: 1674843103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_128
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 240
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5859c0b7c142ade429ab2ee93dc15b96
+      internalID: -1622448388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_129
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 240
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2addcc9c95f67c4eb2a41295d44ecb3
+      internalID: 1233692653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5051f0556007d346acc7df784655237
+      internalID: 507011018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_131
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 240
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd34e9e37e05035488b3a019d6be86c5
+      internalID: -99561829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_132
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 241
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a4e2a58a6252042b796c9ea0b63d94
+      internalID: -961789394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_133
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 241
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca4aeadc3b19774f923c20fad0abd80
+      internalID: 1738080788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_134
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 241
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbe799723a061b42bb34af32c824e49
+      internalID: 1368501051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_135
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 241
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3320b0f0f8ac154fb645cf0e6bebd31
+      internalID: 798598668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_136
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 241
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05a77188b1f72e4a8a307cd1e717045
+      internalID: 1804044525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_137
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 241
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c837265aee2634db9be38e545a1194
+      internalID: 2077518627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_138
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 229
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c334b1ce6ae136c44a61011d50ceecc7
+      internalID: -2126307253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_139
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 230
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a11cdde21248146ab754b79d0361a6
+      internalID: -1943999466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_140
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 217
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e96e10c89fca3b499c6a0fb81c12807
+      internalID: -662708908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_141
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 216
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f37f345e3e2334cbda9dfead89012e
+      internalID: 1551424975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_142
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 216
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6021e1ba3ddcc6c428907a73f3b0175c
+      internalID: -288203264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_143
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 217
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8069339bae9082d4c8b201b888f40d76
+      internalID: -1259704682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_144
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 217
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bc9a4d1ca41fd47961e21f80db6811
+      internalID: 706152338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_145
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 217
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926636607d1fd9646a028786b03c4d66
+      internalID: 1558746055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_146
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 217
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508e6934e654e924dbefe06cd134d6f3
+      internalID: -1859733413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_147
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 217
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d5546a513b7ad49b3109054395cc34
+      internalID: 1235682458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_148
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 217
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123ca1c0c49525945b21e285852519df
+      internalID: -1923046496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_149
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 221
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fa917bf19178a438424d4d6934e416
+      internalID: 1081062132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_150
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 206
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41695262c6614043a17849461e82fb4
+      internalID: 1647840522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_151
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 212
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9c0346d9796644ea8b3140c567773b
+      internalID: 1301930970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_152
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 203
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7c5527ce798ae4e8e38994e6761777
+      internalID: -1877878487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_153
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 194
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8704e5cb88045f44b802acbb3fb9f3d
+      internalID: -2081502789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_154
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 194
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb8c55090bb26f4a87e4d8dada966d9
+      internalID: 534616534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_155
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 194
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cd3f302f92470458bfbc2b57b8e834
+      internalID: -1515863767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_156
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 194
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d81a44c016a214cbe41d6a154f0c72
+      internalID: -1621703383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_157
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 194
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3f8835c319aed449199d476b329632
+      internalID: 749985389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_158
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 194
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9b2aaffef9df24eb07b7991eb21f7e
+      internalID: 772143811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_159
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 194
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde1515cc9573a349984a25fa292f549
+      internalID: -1685233396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_160
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 194
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e8f5fa652b2934c995004f60800c06
+      internalID: -1705616114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_161
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 183
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b052c5add4069de419d16dfa3b3b17e5
+      internalID: -399568772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_162
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 185
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab8b17cf8f1a2546aa2c837df86eb5c
+      internalID: -915851904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_163
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 171
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1881f7408f8712a429204870b70fee5e
+      internalID: -1671264516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_164
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 171
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f09ab33326e04d489e06f5b517608ed
+      internalID: -769971553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_165
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 171
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b610ff7a0eff248987e6521ca4802f
+      internalID: -192790913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_166
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 171
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e29dfc2f937c14b93dbc361ba83989
+      internalID: -1016284531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_167
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 176
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4761dd37d1f294ea2970c67646307c
+      internalID: -1813510304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_168
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 171
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea9f5b71c133984489cc3184d0d6743
+      internalID: 436250987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_169
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 171
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077d1a035388fa54e9f182e643f40a59
+      internalID: -281105945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_170
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 171
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca2c0917ba75c845a94ad7ad1cd83de
+      internalID: -1876505084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_171
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 171
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66ce0f2b5eb8444c8329fbe68b4b319
+      internalID: 65511379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_172
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 171
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d4999428d4e404782c8c8d411c367c
+      internalID: -2028358430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_173
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 171
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e716b3a0c4d474eace3213ec9e2d2a
+      internalID: -919305729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_174
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 171
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35125ccf7f44c794fb97e3ea61c70471
+      internalID: 382706789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_175
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 160
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dff5034c06bf8489e842bb2e13e0e1
+      internalID: 801972357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_176
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db16c2c2ca2b774dbeb59b681d59bd0
+      internalID: 2089289523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_177
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 95
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef5904970435dc428ed713daa513486
+      internalID: -1634554699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_178
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 95
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d11b8c32531b7428587dc6aa6a2b9c
+      internalID: -1569872170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_179
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 95
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacfae8216d23e149a50829b729f68be
+      internalID: -383327606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_180
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 95
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5548d1346a6784a946f0f6ce6ca4b9
+      internalID: 1088912633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_181
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 95
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9abc27d8a02a264a92db9174e10fc69
+      internalID: 669680069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_182
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 95
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91c90125a41402428842b6d4fe48c49
+      internalID: 795567138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_183
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4091626f4a0a65349aade88cb3b70cdd
+      internalID: 613874974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_184
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 95
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7257c6ac499ef747915426596bb6227
+      internalID: -1826539820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_185
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 95
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab417403f7fa454caa789decbec75a1
+      internalID: 2143972924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_186
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 95
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d48bc936a418f14ba5ea88c7a21d7aa
+      internalID: -1768552451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_187
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 95
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1d01179d3113346ae7c7a9438277f9
+      internalID: 1236364561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_188
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 95
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9fe8bdaf4f7624e9cc8506cd822f18
+      internalID: 479255396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_189
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 95
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bbb65f64a41554fbcc4548cad24df5
+      internalID: 708548072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_190
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 95
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50c10808505e9e44b805d0b233d33d8
+      internalID: -1509587529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_191
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 94
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6202306835a694294f888940c92177
+      internalID: -101199793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_192
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 95
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f535c6b176faf742a3fa1b799a75de3
+      internalID: -502544769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_193
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 95
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ad16a39dcd648469fa12c2d279f089
+      internalID: 802320320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_194
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 94
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfb7d48ee5003d499a2e6c95def6e15
+      internalID: 1565882444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_195
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 95
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bb009e12ade194ebac403eeb0cc0de
+      internalID: -1252265476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_196
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0567aab4865a74ea189bbf20378670
+      internalID: 203853619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_197
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 95
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1193da33d418e419db339d799d7f12
+      internalID: 124288412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_198
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 95
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe4920f16ddc3a4dbfa5697b4a16fcd
+      internalID: -269385169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_199
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43d47b1690a4ea48a366d0632da6bea
+      internalID: -1056056097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_200
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ac5088f711fa64e829a567dd1151b6
+      internalID: 727065705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_201
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bdee45208dcd744ba7dd30fc270963
+      internalID: 2083239916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_202
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ad1862407bb0a44af72c50fca71a12
+      internalID: 2122300707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_203
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef65ee4755e4b4943915c7fd869092ff
+      internalID: 1214106716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_204
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558dedcaf9822e94cbc81c295511848e
+      internalID: -1582421865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_205
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e835f6f085757849bf75c501577722b
+      internalID: -1518768398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_206
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f50eaa5963a0644481909390f1c1e9c
+      internalID: -95631286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_207
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5343eb7cb0c29740b23917d319d8e24
+      internalID: -999391826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_208
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcda1c5262aafb4db25091250d3c66e
+      internalID: -197417168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_209
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fab82c174b8fbc498d70d9e455eea03
+      internalID: 817387523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_210
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ba2cc5dde7c08468ad1e8c42c20ff4
+      internalID: -598248249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_211
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d075f45367e6b4bb1e366aed2f6070
+      internalID: -961975705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_212
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954fff3682b45824eba24beb481e2deb
+      internalID: 755873039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_213
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec115111f50eb8b488ab670e0500cd9f
+      internalID: -1352062551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_214
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a281a1191e37e47b6c58186214b233
+      internalID: 1069275705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_215
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642c31b4283b9ff4db8d77318a205117
+      internalID: -684142459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_216
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc441b490942cc4e9ea1aa1a5ea6219
+      internalID: -1347817277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_217
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff51b4e1d7ed1c4f946dafa9bc2f96c
+      internalID: 536479282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_218
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b28627179704004bb2a46e57ea2928d
+      internalID: 1578668598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_219
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1d22f65d4a4974f8f4bae7c3772e98
+      internalID: 65080820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_220
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a249f67ad254a44ab5c38646d1c5126
+      internalID: -1309190825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_221
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0ce844c535c5543b3c16d92b51d020
+      internalID: -473078856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_222
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f803fb29a48a374eab0ebe2b60834af
+      internalID: 1706056924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_223
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f827b4928db6e468e386062daa9e1b
+      internalID: 6785668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_224
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f229d44f2191c1b41a613f08cfb049d8
+      internalID: 435568272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_225
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6b663fcd0161b4aa4a6d8954babc3e
+      internalID: 384698365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_226
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028f9fcb03ef40c42b80e8f225a493b1
+      internalID: 1273385512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_227
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 36
+        width: 8
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4be99ee534b5d46b3ad3ab847edb04
+      internalID: 368861360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_228
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0c136d106d7ec45a70d0604d05bea2
+      internalID: -2134889387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_229
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb7975e359b8b54aac0864b007754f7
+      internalID: 406886667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_230
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def0cfee65c0aca4086c1e8705eccf58
+      internalID: 1035480039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_231
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5bebfd3cfb84740ac8429485deb2a3
+      internalID: 116409963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_232
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8c9083435712b4b8fc9805884005f8
+      internalID: 1889671805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_233
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726689a5213b5ac4ba2c6859ffb44168
+      internalID: 1781378969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_234
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc06146b9125be41895473b373e9d25
+      internalID: 928224792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_235
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9539951b734344d9c902af023bded7
+      internalID: 204242075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_236
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc722099aa5e5b43b7d7985092c80c5
+      internalID: -2106576095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_237
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c006264cbf6b861429128ad09907f38f
+      internalID: 178444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_238
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 75
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b1f38514db05c42a4e9e89a0b4d2a4
+      internalID: 1893871453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_239
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 75
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d533f6ee8759446b8e96473c9b4535
+      internalID: 177471262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_240
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 75
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c38f2078928dbc4d8ec291d0e31a77b
+      internalID: -2139183733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_241
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 75
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc672eb8282fd14fba6dd7998c7d59a
+      internalID: 581383849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_242
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 75
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb46fb42d2770d4eba79bdeb4217199
+      internalID: 2120876569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EneryBar4_243
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1
+        width: 224
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c75734ddaafec64484b57032634cfbe
+      internalID: 1084632054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EneryBar4_0: 1007434630
+      EneryBar4_1: 1260102027
+      EneryBar4_10: 63893008
+      EneryBar4_100: 232842414
+      EneryBar4_101: 1206769892
+      EneryBar4_102: -1944558403
+      EneryBar4_103: 285486137
+      EneryBar4_104: -234472189
+      EneryBar4_105: -967725600
+      EneryBar4_106: -1539564606
+      EneryBar4_107: -1604979307
+      EneryBar4_108: 2079938684
+      EneryBar4_109: -1689794585
+      EneryBar4_11: -1568328148
+      EneryBar4_110: 1749507938
+      EneryBar4_111: -2107608756
+      EneryBar4_112: -2101992292
+      EneryBar4_113: 952530800
+      EneryBar4_114: 112645739
+      EneryBar4_115: -1341665002
+      EneryBar4_116: -955345363
+      EneryBar4_117: 374998012
+      EneryBar4_118: -267369567
+      EneryBar4_119: 473388224
+      EneryBar4_12: 1701095501
+      EneryBar4_120: -1239753408
+      EneryBar4_121: 1481381162
+      EneryBar4_122: 1093614668
+      EneryBar4_123: -2001002506
+      EneryBar4_124: -28142316
+      EneryBar4_125: -1787384270
+      EneryBar4_126: -1467713216
+      EneryBar4_127: 1674843103
+      EneryBar4_128: -1622448388
+      EneryBar4_129: 1233692653
+      EneryBar4_13: 1113262239
+      EneryBar4_130: 507011018
+      EneryBar4_131: -99561829
+      EneryBar4_132: -961789394
+      EneryBar4_133: 1738080788
+      EneryBar4_134: 1368501051
+      EneryBar4_135: 798598668
+      EneryBar4_136: 1804044525
+      EneryBar4_137: 2077518627
+      EneryBar4_138: -2126307253
+      EneryBar4_139: -1943999466
+      EneryBar4_14: 1867832625
+      EneryBar4_140: -662708908
+      EneryBar4_141: 1551424975
+      EneryBar4_142: -288203264
+      EneryBar4_143: -1259704682
+      EneryBar4_144: 706152338
+      EneryBar4_145: 1558746055
+      EneryBar4_146: -1859733413
+      EneryBar4_147: 1235682458
+      EneryBar4_148: -1923046496
+      EneryBar4_149: 1081062132
+      EneryBar4_15: -178150073
+      EneryBar4_150: 1647840522
+      EneryBar4_151: 1301930970
+      EneryBar4_152: -1877878487
+      EneryBar4_153: -2081502789
+      EneryBar4_154: 534616534
+      EneryBar4_155: -1515863767
+      EneryBar4_156: -1621703383
+      EneryBar4_157: 749985389
+      EneryBar4_158: 772143811
+      EneryBar4_159: -1685233396
+      EneryBar4_16: -765272474
+      EneryBar4_160: -1705616114
+      EneryBar4_161: -399568772
+      EneryBar4_162: -915851904
+      EneryBar4_163: -1671264516
+      EneryBar4_164: -769971553
+      EneryBar4_165: -192790913
+      EneryBar4_166: -1016284531
+      EneryBar4_167: -1813510304
+      EneryBar4_168: 436250987
+      EneryBar4_169: -281105945
+      EneryBar4_17: 861339575
+      EneryBar4_170: -1876505084
+      EneryBar4_171: 65511379
+      EneryBar4_172: -2028358430
+      EneryBar4_173: -919305729
+      EneryBar4_174: 382706789
+      EneryBar4_175: 801972357
+      EneryBar4_176: 2089289523
+      EneryBar4_177: -1634554699
+      EneryBar4_178: -1569872170
+      EneryBar4_179: -383327606
+      EneryBar4_18: -297323994
+      EneryBar4_180: 1088912633
+      EneryBar4_181: 669680069
+      EneryBar4_182: 795567138
+      EneryBar4_183: 613874974
+      EneryBar4_184: -1826539820
+      EneryBar4_185: 2143972924
+      EneryBar4_186: -1768552451
+      EneryBar4_187: 1236364561
+      EneryBar4_188: 479255396
+      EneryBar4_189: 708548072
+      EneryBar4_19: 1606580211
+      EneryBar4_190: -1509587529
+      EneryBar4_191: -101199793
+      EneryBar4_192: -502544769
+      EneryBar4_193: 802320320
+      EneryBar4_194: 1565882444
+      EneryBar4_195: -1252265476
+      EneryBar4_196: 203853619
+      EneryBar4_197: 124288412
+      EneryBar4_198: -269385169
+      EneryBar4_199: -1056056097
+      EneryBar4_2: -254376076
+      EneryBar4_20: -1879632546
+      EneryBar4_200: 727065705
+      EneryBar4_201: 2083239916
+      EneryBar4_202: 2122300707
+      EneryBar4_203: 1214106716
+      EneryBar4_204: -1582421865
+      EneryBar4_205: -1518768398
+      EneryBar4_206: -95631286
+      EneryBar4_207: -999391826
+      EneryBar4_208: -197417168
+      EneryBar4_209: 817387523
+      EneryBar4_21: -1548564968
+      EneryBar4_210: -598248249
+      EneryBar4_211: -961975705
+      EneryBar4_212: 755873039
+      EneryBar4_213: -1352062551
+      EneryBar4_214: 1069275705
+      EneryBar4_215: -684142459
+      EneryBar4_216: -1347817277
+      EneryBar4_217: 536479282
+      EneryBar4_218: 1578668598
+      EneryBar4_219: 65080820
+      EneryBar4_22: -202997529
+      EneryBar4_220: -1309190825
+      EneryBar4_221: -473078856
+      EneryBar4_222: 1706056924
+      EneryBar4_223: 6785668
+      EneryBar4_224: 435568272
+      EneryBar4_225: 384698365
+      EneryBar4_226: 1273385512
+      EneryBar4_227: 368861360
+      EneryBar4_228: -2134889387
+      EneryBar4_229: 406886667
+      EneryBar4_23: 1275927691
+      EneryBar4_230: 1035480039
+      EneryBar4_231: 116409963
+      EneryBar4_232: 1889671805
+      EneryBar4_233: 1781378969
+      EneryBar4_234: 928224792
+      EneryBar4_235: 204242075
+      EneryBar4_236: -2106576095
+      EneryBar4_237: 178444
+      EneryBar4_238: 1893871453
+      EneryBar4_239: 177471262
+      EneryBar4_24: 54564302
+      EneryBar4_240: -2139183733
+      EneryBar4_241: 581383849
+      EneryBar4_242: 2120876569
+      EneryBar4_243: 1084632054
+      EneryBar4_25: 267521866
+      EneryBar4_26: 1021055328
+      EneryBar4_27: 1498717861
+      EneryBar4_28: -775285299
+      EneryBar4_29: 381829641
+      EneryBar4_3: -1594552766
+      EneryBar4_30: -1163473157
+      EneryBar4_31: -1169765234
+      EneryBar4_32: 362753993
+      EneryBar4_33: -1820660156
+      EneryBar4_34: -369148412
+      EneryBar4_35: 398066490
+      EneryBar4_36: -1986708037
+      EneryBar4_37: 1648319934
+      EneryBar4_38: 1332966963
+      EneryBar4_39: -515094373
+      EneryBar4_4: 1465681501
+      EneryBar4_40: -719689550
+      EneryBar4_41: 2038998254
+      EneryBar4_42: -1103407944
+      EneryBar4_43: -1939913811
+      EneryBar4_44: 1195813608
+      EneryBar4_45: -109002767
+      EneryBar4_46: -634491801
+      EneryBar4_47: 88730954
+      EneryBar4_48: -1334693823
+      EneryBar4_49: -843064065
+      EneryBar4_5: -1958309110
+      EneryBar4_50: -63697173
+      EneryBar4_51: -1584875853
+      EneryBar4_52: 588038211
+      EneryBar4_53: 1227894845
+      EneryBar4_54: -1337613136
+      EneryBar4_55: -365541695
+      EneryBar4_56: 391810015
+      EneryBar4_57: -1625750882
+      EneryBar4_58: 868016153
+      EneryBar4_59: 1459775479
+      EneryBar4_6: 1785262043
+      EneryBar4_60: 423112844
+      EneryBar4_61: -736515077
+      EneryBar4_62: 666409904
+      EneryBar4_63: -275473385
+      EneryBar4_64: 523017272
+      EneryBar4_65: 320821728
+      EneryBar4_66: -504546832
+      EneryBar4_67: -1243920421
+      EneryBar4_68: 1225253809
+      EneryBar4_69: -1350962346
+      EneryBar4_7: 385507717
+      EneryBar4_70: -674853241
+      EneryBar4_71: -2095874654
+      EneryBar4_72: -993530021
+      EneryBar4_73: 1818188646
+      EneryBar4_74: -74772100
+      EneryBar4_75: -2056142013
+      EneryBar4_76: -568478220
+      EneryBar4_77: 1491304613
+      EneryBar4_78: 1620276943
+      EneryBar4_79: 769840371
+      EneryBar4_8: -1023631199
+      EneryBar4_80: 1795409222
+      EneryBar4_81: 1574949482
+      EneryBar4_82: 1474453182
+      EneryBar4_83: 1941751025
+      EneryBar4_84: 525675585
+      EneryBar4_85: -1399927558
+      EneryBar4_86: 124332602
+      EneryBar4_87: 1915768930
+      EneryBar4_88: -1638209777
+      EneryBar4_89: -352472672
+      EneryBar4_9: -1307370022
+      EneryBar4_90: -733479609
+      EneryBar4_91: 529468025
+      EneryBar4_92: -1416916778
+      EneryBar4_93: 959306073
+      EneryBar4_94: -1571658612
+      EneryBar4_95: 1886678927
+      EneryBar4_96: 570624926
+      EneryBar4_97: 1397908965
+      EneryBar4_98: -724006350
+      EneryBar4_99: 1729310818
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

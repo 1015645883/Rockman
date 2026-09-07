@@ -1,0 +1,712 @@
+fileFormatVersion: 2
+guid: f5b4f22ae92733345986563dd1e27bf5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 300
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718221bea0e38704fbd004333401038c
+      internalID: 4089513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 300
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e460a14863994884bbc047a3e7320823
+      internalID: -2136650303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 300
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd25bc3bde0fa22479c7fdc36fc67808
+      internalID: -1769680668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 300
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0f5de7af838514db2038eb977c492a
+      internalID: 299330528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 300
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6e686d9e2553640aaaea80b230ccc1
+      internalID: 1422024893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 300
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7924af56b8a57f74a9b5bf196810ee10
+      internalID: -653360908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 300
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836c56db647f72e488dce21c687b06a6
+      internalID: 489012912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 300
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811584021e96ee440b3b623934ba6030
+      internalID: -1951857294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 300
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950a7b83f0347b743b60368e61625bee
+      internalID: 1968923627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_9
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 300
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e81420062c98248b06a76f17104f23
+      internalID: -1056933677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_10
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 300
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c10ec4a087e70a43a73e2f507de3e8e
+      internalID: -867547529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 300
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cb6421eed9dd748a6525d30a61340a
+      internalID: 889227654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 300
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9ae7fdf9946d24fb12f62eadef1402
+      internalID: -75100505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 267
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36117ded06d5a04ea84d27e2206c5b6
+      internalID: -1053809664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 267
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d3d2a7c6f638642af4efe299173ef7
+      internalID: -1073516938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 267
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1d7933ec9aa7145818b7c2fe5139b8
+      internalID: 1192884784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 267
+        width: 38
+        height: 32
+      alignment: 9
+      pivot: {x: 0.605, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e056959ccf237cb49bb0b1f78ca1af83
+      internalID: -1940087433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 234
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680ad14e9e49e0b43847ce332f2a148c
+      internalID: -1193680534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 234
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abee58ad8852d1499c593171f8f076d
+      internalID: 369176784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_19
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 264
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce227e76302f87441a6bebc00b6423ab
+      internalID: -1397104358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 234
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e42f9bd3052314a81af177c21da684
+      internalID: 706635427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 234
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fbf64d37d0f444fafc4f502d06ac8b
+      internalID: 1782860803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 300
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c71ac0e51731db4c8499b8edbf24b44
+      internalID: -1662180994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 300
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cffd72717def2c40bf8d652a7b942c5
+      internalID: -244919892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 300
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d693ae205ac877468697bb536ffe457
+      internalID: -855848440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Playable Characters - Proto Man_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 267
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dd1360a18517c47acddfa4c7e9447f
+      internalID: 769185517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Wii - Mega Man 10 - Playable Characters - Proto Man_0: 4089513
+      Wii - Mega Man 10 - Playable Characters - Proto Man_1: -2136650303
+      Wii - Mega Man 10 - Playable Characters - Proto Man_10: -867547529
+      Wii - Mega Man 10 - Playable Characters - Proto Man_11: 889227654
+      Wii - Mega Man 10 - Playable Characters - Proto Man_12: -75100505
+      Wii - Mega Man 10 - Playable Characters - Proto Man_13: -1053809664
+      Wii - Mega Man 10 - Playable Characters - Proto Man_14: -1073516938
+      Wii - Mega Man 10 - Playable Characters - Proto Man_15: 1192884784
+      Wii - Mega Man 10 - Playable Characters - Proto Man_16: -1940087433
+      Wii - Mega Man 10 - Playable Characters - Proto Man_17: -1193680534
+      Wii - Mega Man 10 - Playable Characters - Proto Man_18: 369176784
+      Wii - Mega Man 10 - Playable Characters - Proto Man_19: -1397104358
+      Wii - Mega Man 10 - Playable Characters - Proto Man_2: -1769680668
+      Wii - Mega Man 10 - Playable Characters - Proto Man_20: 706635427
+      Wii - Mega Man 10 - Playable Characters - Proto Man_21: 1782860803
+      Wii - Mega Man 10 - Playable Characters - Proto Man_22: -1662180994
+      Wii - Mega Man 10 - Playable Characters - Proto Man_23: -244919892
+      Wii - Mega Man 10 - Playable Characters - Proto Man_24: -855848440
+      Wii - Mega Man 10 - Playable Characters - Proto Man_25: 769185517
+      Wii - Mega Man 10 - Playable Characters - Proto Man_3: 299330528
+      Wii - Mega Man 10 - Playable Characters - Proto Man_4: 1422024893
+      Wii - Mega Man 10 - Playable Characters - Proto Man_5: -653360908
+      Wii - Mega Man 10 - Playable Characters - Proto Man_6: 489012912
+      Wii - Mega Man 10 - Playable Characters - Proto Man_7: -1951857294
+      Wii - Mega Man 10 - Playable Characters - Proto Man_8: 1968923627
+      Wii - Mega Man 10 - Playable Characters - Proto Man_9: -1056933677
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,602 @@
+fileFormatVersion: 2
+guid: 1dfcd2512c7dbaf46a9983ab6f164a2e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 261
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ae9f1d34f26344c887890ec2770435
+      internalID: -981559652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 261
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db9abf9deae74549a2742ab0228590e
+      internalID: -52752795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 261
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb66ad7e27cb83f49bfe715a0ac44121
+      internalID: -346971917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 261
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034567088c930174b8f08ca304fb5ce7
+      internalID: -545374857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 261
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d7cdc362af652449474f572f8f2b99
+      internalID: 2066182853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 261
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8697ae2880ef5624bbd0e5bd39f05498
+      internalID: -1083126612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 261
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648f412ea153cec45a242f4c58721c0b
+      internalID: -101813080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 261
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a7aed1fe91b3547ae9da7e9ecbd154
+      internalID: -1741825060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 261
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e918861a35cefd64f90b8c56b0f05317
+      internalID: 672531197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 261
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406f275bdbad07c4d9cafd936b3278da
+      internalID: 1038616190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_10
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 261
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a53991d93c6d740b5aa1443ce61581
+      internalID: 1864724304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 230
+        width: 27
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d55ff07dc246447974db4d90b0d21d
+      internalID: -1007247907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 230
+        width: 27
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131c92a97ddf7b049b6e22af31c80d0f
+      internalID: 1008248908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 230
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de3c467955418a42b56e2d13a945e92
+      internalID: -1833065563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 188
+        width: 31
+        height: 24
+      alignment: 9
+      pivot: {x: 0.6613, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b2938647ed4ee4caadb830808c5a5e
+      internalID: 404576971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 188
+        width: 31
+        height: 24
+      alignment: 9
+      pivot: {x: 0.6613, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d05be4bf0cc660418918c59ffa618b4
+      internalID: 1520010515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 188
+        width: 29
+        height: 24
+      alignment: 9
+      pivot: {x: 0.604, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f780d8965b70f142850cb0ad41f3d2c
+      internalID: -1843571471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 188
+        width: 28
+        height: 24
+      alignment: 9
+      pivot: {x: 0.678, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e64416024c0f1248bdeeb767bcce0a4
+      internalID: -2060116402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 188
+        width: 30
+        height: 24
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c17674f9f5bfc41b21b255db8207cb
+      internalID: -1799679680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 188
+        width: 29
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5518, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ca2f96239b0ac42895c5954ac62078
+      internalID: -567771950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 188
+        width: 29
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5518, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c725153b4300bb479f41a187606e9f0
+      internalID: 1412256165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_0: -981559652
+      Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_1: -52752795
+      Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_10: 1864724304
+      Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_11: -1007247907
+      Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_12: 1008248908
+      Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_13: -1833065563
+      Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_14: 404576971
+      Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_15: 1520010515
+      Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_16: -1843571471
+      Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_17: -2060116402
+      Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_18: -1799679680
+      Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_19: -567771950
+      Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_2: -346971917
+      Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_20: 1412256165
+      Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_3: -545374857
+      Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_4: 2066182853
+      Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_5: -1083126612
+      Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_6: -101813080
+      Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_7: -1741825060
+      Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_8: 672531197
+      Custom _ Edited - Mega Man Customs - Bosses - Mega Man_ (NES-Style)_9: 1038616190
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

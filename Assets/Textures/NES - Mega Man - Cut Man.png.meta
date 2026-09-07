@@ -1,0 +1,1900 @@
+fileFormatVersion: 2
+guid: 561460d9e1d7ab64894ff2e019c20c3c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b800225d8b10f044ea6e842f062ae793
+      internalID: -1534978495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 161
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52414fc79f1f0ed42aab74f20396c5af
+      internalID: -520886174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 161
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11cf2a712ea82e4a8adfa1227946d19
+      internalID: -1145729166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 161
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad1310caea037647ba9c46d02abdb91
+      internalID: -971323578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 161
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65aa4e072aefdcc45b2426c11e147e5c
+      internalID: -1761758908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 161
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3649c5c3515be0d4ab67136643ed22e4
+      internalID: 701395108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 161
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5d1ecfea5baf8408f8d448293c9b11
+      internalID: 1138900593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 161
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e207224d71491884bb5461c80d2545e2
+      internalID: 989847086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 151
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51bc88cd9e81bd4caa75868dd178b35
+      internalID: 1053270597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 151
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca784f9384e21a4b8589af0b2cbb725
+      internalID: -1646847106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 151
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc12f10fb383d6d4493b998cfc02b67d
+      internalID: -312840173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 150
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3b6fd4359a7c745b020ab066890d95
+      internalID: -808998272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 150
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a80ec6e4f37d04e9d93e3babbbae49
+      internalID: 2078250006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 150
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18aa55704a45eec4eb58a9b9c71c45e7
+      internalID: 1100078931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 151
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1559276b7f9074cb0172c626212f40
+      internalID: 173632990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 151
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869a0c7b8fe023a49a826cd7dac61bb2
+      internalID: -1956206936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 151
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5859c241cd532d4dbf00a41b0a3ba5f
+      internalID: -1451440790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 150
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cd5749c4fbcfa45b30384b9d329566
+      internalID: -1079622653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_18
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 151
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4779f06b674e03c4a97e21127198dd35
+      internalID: 2025849383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_19
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 151
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6442052c5f3dd24cbf237b985a9e173
+      internalID: 1294607550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 151
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051a460563805754f9876f18ba30e938
+      internalID: -201670250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 151
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d7a85b2a4db4d4eab1ec9b1111890c
+      internalID: 1814928872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 151
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d15e5d5ffbcda44a8bbb5f8ba4105d5
+      internalID: 1082379830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 116
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c99a32b130dbc341ae8035d1573285f
+      internalID: 918424901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_24
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 116
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e4142fae8d8144e9e6bf9f489aeff4
+      internalID: -704143990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d97880039dfab44f897ac9ec8f1d38d
+      internalID: 1398816388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_26
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 116
+        width: 28
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a18d34561f2574991ea6f136c2b5a3
+      internalID: -693385032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_27
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 116
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0c6afe0daf4e340895b89df7d18459
+      internalID: -267142304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_28
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 116
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ed03495d6f6ba438267b12ea4bbf53
+      internalID: -783772983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_29
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 116
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a19e51f0ddf4f844ae3e11aee5007fb
+      internalID: -1944278129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_30
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 116
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349b1494ebaf83944b9e3d8c79a1f0f9
+      internalID: 592586218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 104
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b52f58b889b084c92c8e8657b9c787
+      internalID: -637360738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 104
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f409e9eeed4e94983f4a8d28ac5c3c
+      internalID: 1070125619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 104
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89a3b83e18ba064c9b0bbd314db7d6e
+      internalID: 652361925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_34
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 104
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4919a81907882a345824c16c8109b242
+      internalID: 1674990325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_35
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 104
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0513516f0c07aa94c8387ee85ec522ad
+      internalID: -774761591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_36
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 104
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbf08bc5f5b861469ce259b27f1ae7e
+      internalID: -1617765868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 104
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36c2c1c12a42f24b8335bc2bd7740a2
+      internalID: 2078505782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_38
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cc9bd3a631c6f49aa4c686e062bca7
+      internalID: 1600185906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 104
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae2a00f3e5b6df40ae5233d0ceaf585
+      internalID: -174738056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_40
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 104
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090e4854ab662374da345ccac7db243a
+      internalID: -528086017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 94
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e27c85d1a8779449b3c960c35d982b
+      internalID: 1533858320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 94
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb00f5145cf6ac8459189d8cd7fc5ce0
+      internalID: 1030478534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_43
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 94
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4373280400ae88044b5029c5ef287740
+      internalID: -202308706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_44
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 94
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3006e9fca87dd214c8c229f8074112f7
+      internalID: 1991708529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_45
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 94
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb0d80b571885141883e46dedf5e50e
+      internalID: 726750923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_46
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 94
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4af4d7dff321541812e709b134ff50
+      internalID: -524090386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_47
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 94
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b1f050be54b3845ba7dc5596750c7d
+      internalID: -472639227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_48
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 94
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf59155fa756ea04285953b636d133ea
+      internalID: 1465122287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_49
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 94
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b366f54f646739c4db5af797fd0e6199
+      internalID: -397736921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_50
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995209c0a41e7184eaee3cc3530d8f7c
+      internalID: 130884540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_51
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 94
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dbb31dd5dcae546b74585ffdaf6d3b
+      internalID: -1889259962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_52
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 94
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee930752ed2428d46a02c3497987c2ab
+      internalID: 1510528673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_53
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 94
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a459159229a096f44b680d7e0d11da0a
+      internalID: -1160800124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_54
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 94
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f352c4f6d4708bf4f9366c6dd7c5bb87
+      internalID: -1028731688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_55
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 94
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f987f7dfe7fc4148b20372e6e2a7203
+      internalID: -323387919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daee76981ef8e34483c265280615ad1
+      internalID: -662151780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_57
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 67
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1bdb30bd36f26428a792d1c22b43a1
+      internalID: -1241779150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_58
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 67
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecbf7140d9a37c449d874e7da98847d
+      internalID: -463676164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_59
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 67
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.41666, y: 0.6666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a65854dd906aa478cc5c7e534e6ead
+      internalID: 120412835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_60
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 67
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.45834, y: 0.6666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5e597e443cfe3449cfdd315c82e7fb
+      internalID: -231232288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_61
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 67
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a81a1be80349984fb099d7df138d1ab
+      internalID: 1412417879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_62
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 67
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec247bb07e963414587638b080559719
+      internalID: -2133899664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dced3b9c923586b43bb64dffcd632b32
+      internalID: 1654352523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_64
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 55
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc504b357ba09ed4aa2b3917b4b3325b
+      internalID: 479590711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_65
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 55
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194ac9a098572b04bb69ab34d05d608b
+      internalID: -186333826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba50f22d529e1b54283ca11b247e647f
+      internalID: 1993864770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_67
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 55
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ef6313b84a1794f982fa48f7a229fc
+      internalID: 1195166389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_68
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 55
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054463120deb84b48be86cc4bad68de7
+      internalID: -1227294029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_69
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 55
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cd7aa3098a7284896b59889668fe32
+      internalID: 257924014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_70
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 55
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7eb944c0654a5e439a34ad9242fc361
+      internalID: 1485798945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_71
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 55
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a610b10a027794a9a6c5d078d2bb94
+      internalID: 1099613988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_72
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 55
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e8a083fa66fe44a8b419ecac7da83b
+      internalID: -470358892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 44
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946e0d126a6083a45ae26e57716047ac
+      internalID: -1254470851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_74
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 44
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7081e529b46d69843bc9aa61e64d789f
+      internalID: 1553598313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_75
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b993d630f86c2424ab7bb0e407e872ba
+      internalID: -1405748910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_76
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335c101388525f343879ec7945c359fd
+      internalID: 2046555268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_77
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9580a30219f47c54da2dc415bbd37d3b
+      internalID: -461027794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_78
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3ada646e28bc344b8f046365b42e53
+      internalID: 519306022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Cut Man_79
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1
+        width: 224
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998c28a01cf83204ba28937582fa943f
+      internalID: 341979963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Mega Man - Cut Man_0: -1534978495
+      NES - Mega Man - Cut Man_1: -520886174
+      NES - Mega Man - Cut Man_10: -312840173
+      NES - Mega Man - Cut Man_11: -808998272
+      NES - Mega Man - Cut Man_12: 2078250006
+      NES - Mega Man - Cut Man_13: 1100078931
+      NES - Mega Man - Cut Man_14: 173632990
+      NES - Mega Man - Cut Man_15: -1956206936
+      NES - Mega Man - Cut Man_16: -1451440790
+      NES - Mega Man - Cut Man_17: -1079622653
+      NES - Mega Man - Cut Man_18: 2025849383
+      NES - Mega Man - Cut Man_19: 1294607550
+      NES - Mega Man - Cut Man_2: -1145729166
+      NES - Mega Man - Cut Man_20: -201670250
+      NES - Mega Man - Cut Man_21: 1814928872
+      NES - Mega Man - Cut Man_22: 1082379830
+      NES - Mega Man - Cut Man_23: 918424901
+      NES - Mega Man - Cut Man_24: -704143990
+      NES - Mega Man - Cut Man_25: 1398816388
+      NES - Mega Man - Cut Man_26: -693385032
+      NES - Mega Man - Cut Man_27: -267142304
+      NES - Mega Man - Cut Man_28: -783772983
+      NES - Mega Man - Cut Man_29: -1944278129
+      NES - Mega Man - Cut Man_3: -971323578
+      NES - Mega Man - Cut Man_30: 592586218
+      NES - Mega Man - Cut Man_31: -637360738
+      NES - Mega Man - Cut Man_32: 1070125619
+      NES - Mega Man - Cut Man_33: 652361925
+      NES - Mega Man - Cut Man_34: 1674990325
+      NES - Mega Man - Cut Man_35: -774761591
+      NES - Mega Man - Cut Man_36: -1617765868
+      NES - Mega Man - Cut Man_37: 2078505782
+      NES - Mega Man - Cut Man_38: 1600185906
+      NES - Mega Man - Cut Man_39: -174738056
+      NES - Mega Man - Cut Man_4: -1761758908
+      NES - Mega Man - Cut Man_40: -528086017
+      NES - Mega Man - Cut Man_41: 1533858320
+      NES - Mega Man - Cut Man_42: 1030478534
+      NES - Mega Man - Cut Man_43: -202308706
+      NES - Mega Man - Cut Man_44: 1991708529
+      NES - Mega Man - Cut Man_45: 726750923
+      NES - Mega Man - Cut Man_46: -524090386
+      NES - Mega Man - Cut Man_47: -472639227
+      NES - Mega Man - Cut Man_48: 1465122287
+      NES - Mega Man - Cut Man_49: -397736921
+      NES - Mega Man - Cut Man_5: 701395108
+      NES - Mega Man - Cut Man_50: 130884540
+      NES - Mega Man - Cut Man_51: -1889259962
+      NES - Mega Man - Cut Man_52: 1510528673
+      NES - Mega Man - Cut Man_53: -1160800124
+      NES - Mega Man - Cut Man_54: -1028731688
+      NES - Mega Man - Cut Man_55: -323387919
+      NES - Mega Man - Cut Man_56: -662151780
+      NES - Mega Man - Cut Man_57: -1241779150
+      NES - Mega Man - Cut Man_58: -463676164
+      NES - Mega Man - Cut Man_59: 120412835
+      NES - Mega Man - Cut Man_6: 1138900593
+      NES - Mega Man - Cut Man_60: -231232288
+      NES - Mega Man - Cut Man_61: 1412417879
+      NES - Mega Man - Cut Man_62: -2133899664
+      NES - Mega Man - Cut Man_63: 1654352523
+      NES - Mega Man - Cut Man_64: 479590711
+      NES - Mega Man - Cut Man_65: -186333826
+      NES - Mega Man - Cut Man_66: 1993864770
+      NES - Mega Man - Cut Man_67: 1195166389
+      NES - Mega Man - Cut Man_68: -1227294029
+      NES - Mega Man - Cut Man_69: 257924014
+      NES - Mega Man - Cut Man_7: 989847086
+      NES - Mega Man - Cut Man_70: 1485798945
+      NES - Mega Man - Cut Man_71: 1099613988
+      NES - Mega Man - Cut Man_72: -470358892
+      NES - Mega Man - Cut Man_73: -1254470851
+      NES - Mega Man - Cut Man_74: 1553598313
+      NES - Mega Man - Cut Man_75: -1405748910
+      NES - Mega Man - Cut Man_76: 2046555268
+      NES - Mega Man - Cut Man_77: -461027794
+      NES - Mega Man - Cut Man_78: 519306022
+      NES - Mega Man - Cut Man_79: 341979963
+      NES - Mega Man - Cut Man_8: 1053270597
+      NES - Mega Man - Cut Man_9: -1646847106
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

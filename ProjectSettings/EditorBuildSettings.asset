@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 4ea1ef7e80b85c843ba283a84f632d99
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: 4e42303e13380ca42b278b5a3dddc9d9
+  - enabled: 1
+    path: Assets/Scenes/CutmanStage.unity
+    guid: 0e005478844a5614dba6efeb53ba7f1f
+  - enabled: 1
+    path: Assets/Scenes/ElecmanStage.unity
+    guid: bf786bdb3c860424da4185f034a03db8
+  - enabled: 1
+    path: Assets/Scenes/GutsmanStage.unity
+    guid: 06b65c50cbb0c3843b7d1dd10140f92c
+  - enabled: 1
+    path: Assets/Scenes/IcemanStage.unity
+    guid: e2867c093c46f944bbfa429a881f1294
+  - enabled: 1
+    path: Assets/Scenes/FiremanStage.unity
+    guid: 78c7c64b9f4c9174b8e3fb82962db2ea
+  - enabled: 1
+    path: Assets/Scenes/BombmanStage.unity
+    guid: 018d8b5f1b3c18f40b45ecab16964341
+  - enabled: 1
+    path: Assets/Scenes/WilyStage1.unity
+    guid: 1ebcadaddbfd755419d1b4e9f91fd5bc
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelect.unity
+    guid: fae9e376941ecba458128dba3801fdab
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: 5a60c55bd61d06343901a67a31a9b62e
+  m_configObjects: {}
