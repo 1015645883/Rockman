@@ -20,4 +20,4 @@
 
 ## 游戏下载
 
-[下载 Rockman v1.0.0](https://github.com/1015645883/Rockman/releases/tag/v1.0.0)
+[下载 Rockman v1.0.0](https://github.com/1015645883/Rockman/releases/tag/v1.0.1)
