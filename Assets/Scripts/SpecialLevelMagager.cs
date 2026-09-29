@@ -25,6 +25,9 @@ public class SpecialLevelManager : MonoBehaviour
 
     [Header("BGM控制")]
     public AudioSource bgmSource;
+    [Header("各角色道中BGM")]
+    [SerializeField] private AudioClip[] characterStageBgms;
+
     [Header("角色传送音效")]
     [SerializeField] private AudioClip teleportStartSound; 
     [SerializeField] private AudioClip teleportFinishSound;
@@ -617,7 +620,7 @@ public class SpecialLevelManager : MonoBehaviour
         // 非 Rockman 的出生演出结束后恢复 BGM
         if (!selectedCharacter.Contains("Rockman") && bgmSource != null)
         {
-            bgmSource.Play();
+            PlayCharacterStageBGM(currentIndex);
         }
         yield return new WaitForSeconds(0.5f);
 
@@ -859,6 +862,22 @@ public class SpecialLevelManager : MonoBehaviour
             }
 
             // -----------------------------------------------------
+            // ★ 传送完成后关闭全局光照
+            // -----------------------------------------------------
+
+            string currentCharacterName = StripCloneSuffix(player.name);
+
+            if (currentCharacterName.Contains("PlayableFireman") ||
+                currentCharacterName.Contains("PlayableBombman"))
+            {
+                LightController[] lights = FindObjectsOfType<LightController>();
+
+                foreach (LightController light in lights)
+                {
+                    light.allowLight = false;
+                }
+            }
+            // -----------------------------------------------------
             // 6. Victory 倒放
             //
             // Unity Animator 不支持普通模式下 speed = -1。
@@ -992,4 +1011,33 @@ public class SpecialLevelManager : MonoBehaviour
         return false;
     }
 
+    private void PlayCharacterStageBGM(int characterIndex)
+    {
+        if (bgmSource == null)
+            return;
+
+        if (characterStageBgms == null ||
+            characterIndex < 0 ||
+            characterIndex >= characterStageBgms.Length)
+        {
+            Debug.LogWarning("没有找到对应角色的道中 BGM，index = " + characterIndex);
+            return;
+        }
+
+        AudioClip newBgm = characterStageBgms[characterIndex];
+
+        if (newBgm == null)
+        {
+            Debug.LogWarning("角色 index = " + characterIndex + " 没有设置 BGM");
+            return;
+        }
+
+        // 已经是当前音乐就不重复播放
+        if (bgmSource.clip == newBgm && bgmSource.isPlaying)
+            return;
+
+        bgmSource.clip = newBgm;
+        bgmSource.loop = true;
+        bgmSource.Play();
+    }
 }
