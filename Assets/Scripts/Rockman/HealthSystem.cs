@@ -102,6 +102,13 @@ public class HealthSystem : MonoBehaviour
         // ✅ 移动到复活点
         transform.position = initialRespawnPoint;
 
+        StageCameraController cameraController =
+            FindObjectOfType<StageCameraController>();
+
+        if (cameraController != null)
+        {
+            cameraController.SnapToTarget();
+        }
 
         // ✅ 重置 Boss 状态
         if (BossTriggerHasInstance())

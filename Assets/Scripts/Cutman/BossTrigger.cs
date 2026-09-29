@@ -26,6 +26,7 @@ public class BossTrigger : MonoBehaviour
     public Camera bossCamera;
     private Vector3 mainCameraInitialPosition;
     private Quaternion mainCameraInitialRotation;
+    private StageCameraController stageCameraController;
     [Header("音乐相关")]
     public AudioSource bgmSource;
     private AudioClip defaultBgmClip;
@@ -99,8 +100,21 @@ public class BossTrigger : MonoBehaviour
 
             if (mainCamera == null)
                 mainCamera = Camera.main;
+
+            // 新的关卡相机不会再挂在角色下面，且旧场景的相机没有 MainCamera 标签。
+            if (mainCamera == null || mainCamera == bossCamera)
+                mainCamera = FindGameplayCamera();
+        }
+
+        if (mainCamera != null)
+        {
             mainCameraInitialPosition = mainCamera.transform.position;
             mainCameraInitialRotation = mainCamera.transform.rotation;
+            stageCameraController = mainCamera.GetComponent<StageCameraController>();
+        }
+        else
+        {
+            Debug.LogError("BossTrigger: 未找到主相机。请在 Inspector 指定 mainCamera。", this);
         }
         if (bgmSource != null)
             defaultBgmClip = bgmSource.clip;
@@ -141,6 +155,25 @@ public class BossTrigger : MonoBehaviour
                 originalTiles[i] = doorTilemap.GetTile(doorTilesPos[i]);
             }
         }
+    }
+
+    private Camera FindGameplayCamera()
+    {
+        Camera[] cameras = FindObjectsOfType<Camera>(true);
+
+        foreach (Camera cameraCandidate in cameras)
+        {
+            if (cameraCandidate != null && cameraCandidate != bossCamera && cameraCandidate.enabled)
+                return cameraCandidate;
+        }
+
+        foreach (Camera cameraCandidate in cameras)
+        {
+            if (cameraCandidate != null && cameraCandidate != bossCamera)
+                return cameraCandidate;
+        }
+
+        return null;
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -266,6 +299,10 @@ public class BossTrigger : MonoBehaviour
     IEnumerator SmoothCameraTransition()
     {
         if (mainCamera == null || bossCamera == null) yield break;
+
+        // Boss 演出自行驱动相机位置，避免关卡跟随逻辑覆盖插值。
+        if (stageCameraController != null)
+            stageCameraController.enabled = false;
 
         float duration = 1f;
         float timer = 0f;
@@ -553,7 +590,12 @@ public class BossTrigger : MonoBehaviour
         {
             mainCamera.enabled = true;
 
-            if (player != null)
+            if (stageCameraController != null && player != null)
+            {
+                stageCameraController.enabled = true;
+                stageCameraController.SetTarget(player.transform, false);
+            }
+            else if (player != null)
             {
                 Vector3 pos = mainCamera.transform.position;
 

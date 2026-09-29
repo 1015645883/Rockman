@@ -20,9 +20,14 @@ public class SpecialLevelManager : MonoBehaviour
     [Header("主摄像机")]
     public Camera mainCamera;
 
+    [Header("区域摄像机控制器")]
+    public StageCameraController stageCameraController;
+
     [Header("BGM控制")]
     public AudioSource bgmSource;
-
+    [Header("角色传送音效")]
+    [SerializeField] private AudioClip teleportStartSound; 
+    [SerializeField] private AudioClip teleportFinishSound;
     [Header("屏幕淡入淡出")]
     public ScreenFader screenFader;
 
@@ -104,17 +109,6 @@ public class SpecialLevelManager : MonoBehaviour
         }
     }
 
-
-    private void LateUpdate()
-    {
-        // 摄像机跟随 currentPlayer
-        if (currentPlayer != null && mainCamera != null)
-        {
-            Vector3 playerPos = currentPlayer.transform.position;
-            mainCamera.transform.position = new Vector3(playerPos.x, playerPos.y, -10f);
-        }
-    }
-
     private void UpdateEEnergyUI()
     {
         if (eEnergyUI == null)
@@ -157,6 +151,16 @@ public class SpecialLevelManager : MonoBehaviour
         {
             currentPlayer = Instantiate(prefab, spawnPoint.position, spawnPoint.rotation);
             spawnedPlayers.Add(currentPlayer);
+
+            // 每个角色出生后，都将区域摄像机切换到当前出生角色
+            if (stageCameraController != null &&
+                currentPlayer != null)
+            {
+                stageCameraController.SetTarget(
+                    currentPlayer.transform,
+                    true
+                );
+            }
 
             // 设置初始复活点为出生点
             string charKey = StripCloneSuffix(prefab.name);
@@ -282,7 +286,17 @@ public class SpecialLevelManager : MonoBehaviour
 
         currentPlayer = spawnedPlayers[controlledIndex];
 
-        if (healthBarUI != null) healthBarUI.BindToNewPlayer(currentPlayer);
+        // 将当前受控角色交给区域摄像机
+        if (stageCameraController != null && currentPlayer != null)
+        {
+            stageCameraController.SetTarget(
+                currentPlayer.transform,
+                true
+            );
+        }
+
+        if (healthBarUI != null)
+            healthBarUI.BindToNewPlayer(currentPlayer);
         UpdateEEnergyUI();
         // 更新 BossTrigger 的 player 引用
         BossTrigger bossTrigger = FindObjectOfType<BossTrigger>();
@@ -394,6 +408,15 @@ public class SpecialLevelManager : MonoBehaviour
         }
 
         currentPlayer = spawnedPlayers[controlledIndex];
+
+        // 更新区域摄像机目标
+        if (stageCameraController != null && currentPlayer != null)
+        {
+            stageCameraController.SetTarget(
+                currentPlayer.transform,
+                true
+            );
+        }
 
         // 刷新 UI
         if (healthBarUI != null) healthBarUI.BindToNewPlayer(currentPlayer);
@@ -616,14 +639,14 @@ public class SpecialLevelManager : MonoBehaviour
     {
         if (player == null) yield break;
 
-        // ✅ 新增：在汇合演出开始前清除蓄力状态
+        // 汇合演出开始前清除蓄力状态
         var shooting = player.GetComponent<PlayerShooting>();
         if (shooting != null)
         {
             shooting.CancelCharge();
         }
 
-        // ✅ 判断是不是最后一个角色
+        // 判断是不是最后一个角色
         bool isLastCharacter = (currentIndex >= characterPrefabs.Count - 1);
 
         // 如果不是最后一个角色，则停止 BGM
@@ -636,8 +659,16 @@ public class SpecialLevelManager : MonoBehaviour
         var sr = player.GetComponent<SpriteRenderer>();
         var anim = player.GetComponent<Animator>();
 
-        // 先禁止即时输入（但不要立刻禁用组件，因为我们需要 movement.isGrounded）
-        if (movement != null) movement.canMove = false;
+        // 保存 Animator 原始速度
+        float originalAnimSpeed = 1f;
+        if (anim != null)
+        {
+            originalAnimSpeed = anim.speed;
+        }
+
+        // 先禁止即时输入
+        if (movement != null)
+            movement.canMove = false;
 
         // 清空 Animator 的 bool 参数，防止奇怪状态继续播放
         if (anim != null)
@@ -645,10 +676,13 @@ public class SpecialLevelManager : MonoBehaviour
             foreach (var param in anim.parameters)
             {
                 if (param.type == AnimatorControllerParameterType.Bool)
+                {
                     anim.SetBool(param.name, false);
+                }
             }
         }
-        // ✅ 重置所有动画图层为默认值
+
+        // 重置所有动画图层为默认值
         if (anim != null)
         {
             for (int i = 0; i < anim.layerCount; i++)
@@ -662,6 +696,9 @@ public class SpecialLevelManager : MonoBehaviour
 
         bool isRockman = NameMatches(player, "Rockman");
 
+        // =========================================================
+        // 洛克人：保持原来的自然进入汇合区域流程
+        // =========================================================
         if (isRockman)
         {
             // 洛克人自然下落（物理）
@@ -672,18 +709,19 @@ public class SpecialLevelManager : MonoBehaviour
                 rb.gravityScale = 2.7f;
             }
 
-            // 等待落地（使用 movement.isGrounded —— PlayerMovement 的 CheckGround 在 Update 开头执行）
+            // 等待落地
             while (movement != null && !movement.isGrounded)
             {
-                // 在等待期间，确保 gravityScale 被保持（防止别处覆盖）
-                if (rb != null) rb.gravityScale = 2.7f;
+                if (rb != null)
+                    rb.gravityScale = 2.7f;
+
                 yield return null;
             }
 
             // 落地后短暂停顿
             yield return new WaitForSeconds(1f);
 
-            // 落地演出：左右看两次（只在汇合时播放）
+            // 落地演出：左右看两次
             if (sr != null)
             {
                 for (int i = 0; i < 2; i++)
@@ -692,16 +730,22 @@ public class SpecialLevelManager : MonoBehaviour
                     yield return new WaitForSeconds(0.5f);
                 }
             }
+
             // 瞬移到停留点后，更新复活点
-            if (playerIdx >= 0 && playerIdx < stayPoints.Count && stayPoints[playerIdx] != null)
+            if (playerIdx >= 0 &&
+                playerIdx < stayPoints.Count &&
+                stayPoints[playerIdx] != null)
             {
                 player.transform.position = stayPoints[playerIdx].position;
+
                 string charKey = StripCloneSuffix(player.name);
-                currentRespawnPoints[charKey] = stayPoints[playerIdx].position; // ✅ 更新复活点
+                currentRespawnPoints[charKey] = stayPoints[playerIdx].position;
             }
 
-            // 固定位置（禁用物理与碰撞，并禁用控制脚本）
-            if (collider != null) collider.enabled = false;
+            // 固定位置
+            if (collider != null)
+                collider.enabled = false;
+
             if (rb != null)
             {
                 rb.velocity = Vector2.zero;
@@ -709,13 +753,22 @@ public class SpecialLevelManager : MonoBehaviour
                 rb.isKinematic = true;
                 rb.simulated = false;
             }
-            if (movement != null) movement.enabled = false; // 完全禁用脚本，等全部到齐再恢复给 Rockman
-            //if (sr != null) sr.sortingOrder = 0;
+
+            if (movement != null)
+                movement.enabled = false;
         }
+
+        // =========================================================
+        // 后六个角色：传送器 → Victory → 瞬移 → 等待 → 镜头切换
+        // =========================================================
         else
         {
-            // 非洛克人：在瞬移前先禁用物理并关闭脚本，避免瞬移后滑步或收到输入
-            if (movement != null) movement.enabled = false;
+            // -----------------------------------------------------
+            // 1. 传送前：彻底停止角色
+            // -----------------------------------------------------
+
+            if (movement != null)
+                movement.enabled = false;
 
             if (rb != null)
             {
@@ -724,21 +777,132 @@ public class SpecialLevelManager : MonoBehaviour
                 rb.isKinematic = true;
                 rb.simulated = false;
             }
-            if (collider != null) collider.enabled = false;
 
-            // 瞬移到该角色的停留点（使用 playerIdx 查找）
-            if (playerIdx >= 0 && playerIdx < stayPoints.Count && stayPoints[playerIdx] != null)
+            if (collider != null)
+                collider.enabled = false;
+
+            // -----------------------------------------------------
+            // 2. 播放 Victory 正向动画
+            // -----------------------------------------------------
+
+            if (anim != null)
             {
-                player.transform.position = stayPoints[playerIdx].position;
+                anim.speed = 1f;
+
+                // 从 Victory 第一帧开始播放
+                anim.Play("Victory", 0, 0f);
+                // ★ 传送瞬间音效
+                if (sfxSource != null && teleportStartSound != null)
+                {
+                    sfxSource.PlayOneShot(teleportStartSound);
+                }
+                // 等待 Victory 播放完成
+                yield return new WaitForSeconds(0.2f);
+
+
+                // 暂停 Animator
+                anim.speed = 0f;
             }
 
-            // 切 Idle（防止其它动画残留）
-            if (anim != null) anim.Play("Idle", 0, 0f);
+            // -----------------------------------------------------
+            // 3. Victory 播放完成
+            //    锁定摄像机当前位置
+            // -----------------------------------------------------
 
-            // 等待一段演出时间
+            if (stageCameraController != null)
+            {
+                stageCameraController.LockCameraPosition();
+            }
+
+            // -----------------------------------------------------
+            // 4. 角色瞬间传送到 stayPoint
+            //
+            // 注意：摄像机此时已经被锁住，
+            // 所以不会跟着角色一起移动。
+            // -----------------------------------------------------
+
+            if (playerIdx >= 0 &&
+                playerIdx < stayPoints.Count &&
+                stayPoints[playerIdx] != null)
+            {
+                player.transform.position = stayPoints[playerIdx].position;
+
+                string charKey = StripCloneSuffix(player.name);
+                currentRespawnPoints[charKey] = stayPoints[playerIdx].position;
+            }
+
+            //
+            // Victory 最后一帧保持 1.5 秒
+            // -----------------------------------------------------
+
+            yield return new WaitForSeconds(1.5f);
+
+            // -----------------------------------------------------
+            // 5. 1 秒结束
+            //    摄像机瞬间切到 stayPoint
+            // -----------------------------------------------------
+
+            if (stageCameraController != null)
+            {
+                stageCameraController.UnlockCameraPosition();
+
+                stageCameraController.SetTarget(
+                    player.transform,
+                    true
+                );
+
+                // ★ 传送完成音效
+                if (sfxSource != null && teleportFinishSound != null)
+                {
+                    sfxSource.PlayOneShot(teleportFinishSound);
+                }
+            }
+
+            // -----------------------------------------------------
+            // 6. Victory 倒放
+            //
+            // Unity Animator 不支持普通模式下 speed = -1。
+            // 所以手动把 normalizedTime 从 1 推回 0。
+            // -----------------------------------------------------
+
+            if (anim != null)
+            {
+                const float victoryReverseDuration = 0.1f;
+
+                float elapsed = 0f;
+
+                while (elapsed < victoryReverseDuration)
+                {
+                    elapsed += Time.deltaTime;
+
+                    float t = Mathf.Clamp01(
+                        1f - elapsed / victoryReverseDuration
+                    );
+
+                    // 强制播放 Victory 的指定时间点
+                    anim.Play("Victory", 0, t);
+
+                    // 防止 Animator 自己继续向前播放
+                    anim.speed = 0f;
+
+                    yield return null;
+                }
+
+                // 确保最后停在 Victory 第一帧
+                anim.Play("Victory", 0, 0f);
+                anim.Update(0f);
+
+                // 恢复 Animator
+                anim.speed = 1f;
+
+                // 回到 Idle
+                anim.Play("Idle", 0, 0f);
+            }
+
+            // -----------------------------------------------------
+            // 7. 原来的汇合演出：左右看两次
+            // -----------------------------------------------------
             yield return new WaitForSeconds(1f);
-
-            // 左右翻转 2 次（汇合演出）
             if (sr != null)
             {
                 for (int i = 0; i < 2; i++)
@@ -747,15 +911,22 @@ public class SpecialLevelManager : MonoBehaviour
                     yield return new WaitForSeconds(0.5f);
                 }
             }
-            // 瞬移到停留点后，更新复活点
-            if (playerIdx >= 0 && playerIdx < stayPoints.Count && stayPoints[playerIdx] != null)
+
+            // -----------------------------------------------------
+            // 8. 确保最终位置正确
+            // -----------------------------------------------------
+
+            if (playerIdx >= 0 &&
+                playerIdx < stayPoints.Count &&
+                stayPoints[playerIdx] != null)
             {
                 player.transform.position = stayPoints[playerIdx].position;
-                string charKey = StripCloneSuffix(player.name);
-                currentRespawnPoints[charKey] = stayPoints[playerIdx].position; // ✅ 更新复活点
             }
 
-            // 瞬移完成后保持禁用物理与脚本，设置图层
+            // -----------------------------------------------------
+            // 9. 最终保持禁用物理与脚本
+            // -----------------------------------------------------
+
             if (rb != null)
             {
                 rb.velocity = Vector2.zero;
@@ -763,10 +934,15 @@ public class SpecialLevelManager : MonoBehaviour
                 rb.isKinematic = true;
                 rb.simulated = false;
             }
-            if (sr != null) sr.sortingOrder = 0;
+
+            if (sr != null)
+                sr.sortingOrder = 0;
         }
 
-        // 当前角色已经"汇合"完成（并被禁用控制脚本）——生成下一个
+        // =========================================================
+        // 当前角色已经完成汇合 → 生成下一个角色
+        // =========================================================
+
         if (currentIndex < characterPrefabs.Count - 1)
         {
             // 不是最后一个 → 生成下一个
@@ -778,7 +954,7 @@ public class SpecialLevelManager : MonoBehaviour
             OnAllCharactersSpawned();
         }
 
-        // 小延迟后恢复 BGM（由 spawn sequence 控制为更连贯的体验）
+        // 小延迟后恢复 BGM
         yield return new WaitForSeconds(0.5f);
     }
 

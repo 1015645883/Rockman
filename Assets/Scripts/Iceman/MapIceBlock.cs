@@ -4,35 +4,38 @@ using System.Collections;
 public class IceBlock : MonoBehaviour
 {
     [Header("碎裂设置")]
-    public Sprite crackedSprite;          // 第一步碎裂显示的Sprite
-    public GameObject iceFragment1Prefab; // 碎裂生成的冰块1
-    public GameObject iceFragment2Prefab; // 碎裂生成的冰块2
-    public float firstCrackDelay = 2f;    // 第一步碎裂延迟
-    public float finalBreakDelay = 2f;    // 第二步完全碎裂延迟（从第一步开始计时）
+    public Sprite crackedSprite;
+    public GameObject iceFragment1Prefab;
+    public GameObject iceFragment2Prefab;
+    public float firstCrackDelay = 2f;
+    public float finalBreakDelay = 2f;
+
     private bool hitCooldown = false;
-    private float hitCooldownTime = 0.05f; // 50ms 避免连击
+    private float hitCooldownTime = 0.05f;
 
     [Header("音效")]
-    public AudioClip crackSfx;            // 第一步碎裂音效
-    public AudioClip breakSfx;            // 完全碎裂音效
+    public AudioClip crackSfx;
+    public AudioClip breakSfx;
     private AudioSource audioSource;
 
     private SpriteRenderer spriteRenderer;
     private Coroutine breakCoroutine;
     private bool playerInside = false;
 
-    public bool isCracked = false; // 是否进入第一阶段碎裂
-    private bool isBroken = false; // 是否已经完全碎裂
+    public bool isCracked = false;
+    private bool isBroken = false;
 
     void Awake()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         audioSource = GetComponent<AudioSource>();
+
         if (audioSource == null)
             audioSource = gameObject.AddComponent<AudioSource>();
 
-        // 🔹 检查玩家选择
+        // 检查玩家选择
         string selectedCharacter = PlayerPrefs.GetString("SelectedCharacter", "Default");
+
         if (selectedCharacter == "Fireman")
         {
             firstCrackDelay = 0.5f;
@@ -42,6 +45,10 @@ public class IceBlock : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
+        // 已经碎裂，直接忽略后续所有碰撞
+        if (isBroken)
+            return;
+
         // 玩家靠近 → 启动计时碎裂
         if (collision.CompareTag("Player") && !playerInside)
         {
@@ -53,13 +60,19 @@ public class IceBlock : MonoBehaviour
         if (collision.CompareTag("Bullet"))
         {
             Bullet bullet = collision.GetComponent<Bullet>();
-            if (bullet != null) bullet.DestroyBullet();
+
+            if (bullet != null)
+                bullet.DestroyBullet();
+
             DamageIce();
         }
         else if (collision.CompareTag("ChargeBullet"))
         {
             Bullet bullet = collision.GetComponent<Bullet>();
-            if (bullet != null) bullet.DestroyBullet();
+
+            if (bullet != null)
+                bullet.DestroyBullet();
+
             DamageIce();
         }
         else if (collision.CompareTag("RollingCutter"))
@@ -73,7 +86,10 @@ public class IceBlock : MonoBehaviour
         else if (collision.CompareTag("IceArrow"))
         {
             RIceArrow iceArrow = collision.GetComponent<RIceArrow>();
-            if (iceArrow != null) iceArrow.DestroyBullet();
+
+            if (iceArrow != null)
+                iceArrow.DestroyBullet();
+
             DamageIce();
         }
         else if (collision.CompareTag("HyperBomb"))
@@ -88,14 +104,13 @@ public class IceBlock : MonoBehaviour
         {
             ThunderBeam thunder = collision.GetComponent<ThunderBeam>();
             SmallThunderBeam smallThunder = collision.GetComponent<SmallThunderBeam>();
+
             if (thunder != null)
-            {
                 thunder.DestroyOnEnemyHit();
-            }
+
             if (smallThunder != null)
-            {
                 smallThunder.DestroyOnEnemyHit();
-            }
+
             DamageIce();
         }
     }
@@ -105,6 +120,7 @@ public class IceBlock : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             playerInside = false;
+
             if (breakCoroutine != null)
             {
                 StopCoroutine(breakCoroutine);
@@ -118,24 +134,30 @@ public class IceBlock : MonoBehaviour
     /// </summary>
     private void DamageIce()
     {
-        if (isBroken) return;
-        if (hitCooldown) return; // 短暂无敌，忽略重复触发
+        if (isBroken)
+            return;
+
+        if (hitCooldown)
+            return;
+
         StartCoroutine(HitCooldown());
 
         if (!isCracked)
         {
-            Crack(); // 进入裂开
+            Crack();
         }
         else
         {
-            BreakIce(); // 第二次攻击 → 爆碎
+            BreakIce();
         }
     }
 
     private IEnumerator HitCooldown()
     {
         hitCooldown = true;
+
         yield return new WaitForSeconds(hitCooldownTime);
+
         hitCooldown = false;
     }
 
@@ -143,7 +165,9 @@ public class IceBlock : MonoBehaviour
     {
         // 第一步碎裂
         yield return new WaitForSeconds(firstCrackDelay);
-        if (!playerInside) yield break; // 玩家中途离开，终止
+
+        if (!playerInside)
+            yield break;
 
         if (!isCracked)
         {
@@ -152,17 +176,23 @@ public class IceBlock : MonoBehaviour
 
         // 第二步完全碎裂
         yield return new WaitForSeconds(finalBreakDelay);
-        if (!playerInside) yield break; // 玩家中途离开，终止
+
+        if (!playerInside)
+            yield break;
 
         BreakIce();
     }
 
     /// <summary>
-    /// 裂开阶段（换 Sprite + 播放音效）
+    /// 裂开阶段
     /// </summary>
     private void Crack()
     {
+        if (isBroken)
+            return;
+
         isCracked = true;
+
         if (crackedSprite != null)
             spriteRenderer.sprite = crackedSprite;
 
@@ -170,50 +200,128 @@ public class IceBlock : MonoBehaviour
             audioSource.PlayOneShot(crackSfx);
     }
 
+    /// <summary>
+    /// 完全碎裂
+    /// </summary>
     private void BreakIce()
     {
-        if (isBroken) return; // 已经碎裂过就不再执行
-        isBroken = true;      // ✅ 标记为完全碎裂
+        if (isBroken)
+            return;
 
+        // =========================================================
+        // 先标记已经碎裂
+        // 防止这一帧后续还有碰撞事件继续调用 DamageIce()
+        // =========================================================
+        isBroken = true;
+        playerInside = false;
+
+        // 停止玩家进入触发后的计时协程
+        if (breakCoroutine != null)
+        {
+            StopCoroutine(breakCoroutine);
+            breakCoroutine = null;
+        }
+
+        // =========================================================
         // 播放碎裂音效
-        if (breakSfx != null)
+        // =========================================================
+        if (breakSfx != null && audioSource != null)
         {
             audioSource.PlayOneShot(breakSfx);
         }
 
+        // =========================================================
         // 生成碎片
+        // =========================================================
         Vector3 pos = transform.position;
 
         if (iceFragment1Prefab != null)
         {
-            GameObject p1 = Instantiate(iceFragment1Prefab, pos, Quaternion.identity);
-            Rigidbody2D rb1 = p1.AddComponent<Rigidbody2D>();
+            GameObject p1 = Instantiate(
+                iceFragment1Prefab,
+                pos,
+                Quaternion.identity
+            );
+
+            Rigidbody2D rb1 = p1.GetComponent<Rigidbody2D>();
+
+            if (rb1 == null)
+                rb1 = p1.AddComponent<Rigidbody2D>();
+
             rb1.gravityScale = 1f;
-            rb1.velocity = new Vector2(Random.Range(-2f, -1f), Random.Range(1f, 2f));
+            rb1.velocity = new Vector2(
+                Random.Range(-2f, -1f),
+                Random.Range(1f, 2f)
+            );
+
             Destroy(p1, 3f);
         }
 
         if (iceFragment2Prefab != null)
         {
-            GameObject p2 = Instantiate(iceFragment2Prefab, pos, Quaternion.identity);
-            Rigidbody2D rb2 = p2.AddComponent<Rigidbody2D>();
+            GameObject p2 = Instantiate(
+                iceFragment2Prefab,
+                pos,
+                Quaternion.identity
+            );
+
+            Rigidbody2D rb2 = p2.GetComponent<Rigidbody2D>();
+
+            if (rb2 == null)
+                rb2 = p2.AddComponent<Rigidbody2D>();
+
             rb2.gravityScale = 1f;
-            rb2.velocity = new Vector2(Random.Range(1f, 2f), Random.Range(1f, 2f));
+            rb2.velocity = new Vector2(
+                Random.Range(1f, 2f),
+                Random.Range(1f, 2f)
+            );
+
             Destroy(p2, 3f);
         }
 
-        // 移除物理与可见部分
-        Collider2D col = GetComponent<Collider2D>();
-        if (col != null) Destroy(col);
+        // =========================================================
+        // 关键修复
+        // 碎裂瞬间关闭所有 Collider2D
+        // 包括子物体上的 Collider2D
+        // =========================================================
+        Collider2D[] colliders = GetComponentsInChildren<Collider2D>(true);
 
-        Rigidbody2D rb = GetComponent<Rigidbody2D>();
-        if (rb != null) Destroy(rb);
+        foreach (Collider2D collider in colliders)
+        {
+            collider.enabled = false;
+        }
 
-        if (spriteRenderer != null) spriteRenderer.enabled = false;
+        // =========================================================
+        // 关闭自身及子物体的所有 Renderer
+        // 防止还有残留显示
+        // =========================================================
+        Renderer[] renderers = GetComponentsInChildren<Renderer>(true);
 
+        foreach (Renderer renderer in renderers)
+        {
+            renderer.enabled = false;
+        }
+
+        // =========================================================
+        // 停止自身 Rigidbody2D 的物理作用
+        // =========================================================
+        Rigidbody2D[] rigidbodies = GetComponentsInChildren<Rigidbody2D>(true);
+
+        foreach (Rigidbody2D rigidbody in rigidbodies)
+        {
+            rigidbody.simulated = false;
+        }
+
+        // =========================================================
+        // 修改 Tag / Layer
+        // =========================================================
         gameObject.tag = "Untagged";
-        gameObject.layer = 0; // Default 层
+        gameObject.layer = 0;
 
-        Destroy(gameObject, 1f);
+        // =========================================================
+        // 最后销毁物体
+        // 不再等待 1 秒
+        // =========================================================
+        Destroy(gameObject);
     }
 }

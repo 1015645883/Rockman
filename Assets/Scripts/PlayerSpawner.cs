@@ -47,8 +47,26 @@ public class PlayerSpawner : MonoBehaviour
             // 摄像机绑定到玩家
             if (mainCamera != null)
             {
-                mainCamera.transform.SetParent(player.transform);
-                mainCamera.transform.localPosition = new Vector3(0, 0, -10); // 根据你的游戏调整
+                StageCameraController cameraController =
+                    mainCamera.GetComponent<StageCameraController>();
+
+                if (cameraController != null)
+                {
+                    cameraController.SetTarget(
+                        player.transform,
+                        true
+                    );
+                }
+                else
+                {
+                    // 没有StageCameraController时保留兼容
+                    mainCamera.transform.position =
+                        new Vector3(
+                            player.transform.position.x,
+                            player.transform.position.y,
+                            -10f
+                        );
+                }
             }
         }
         else
