@@ -198,7 +198,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.03}
+  m_Offset: {x: 0, y: -0.04}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -209,8 +209,8 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.14, y: 0.24}
-  m_EdgeRadius: 0
+  m_Size: {x: 0.145, y: 0.22}
+  m_EdgeRadius: 0.005
 --- !u!61 &3820269469065896686
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -254,7 +254,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.05, y: 0.24}
+  m_Size: {x: 0.12, y: 0.24}
   m_EdgeRadius: 0
 --- !u!114 &2389585054762116737
 MonoBehaviour:
@@ -315,6 +315,7 @@ MonoBehaviour:
   eShapeOverrideController: {fileID: 0}
   topClimbOverride: {fileID: 22100000, guid: dbcc292c25f678848b177e46ff54d8e9, type: 2}
   currentSpeedX: 0
+  ladderTilemap: {fileID: 0}
   jumpVoices:
   - {fileID: 8300000, guid: a79e85fa20553e84a87f8c8c2f17fbed, type: 3}
   - {fileID: 8300000, guid: 9f9cae72b32036145a7f1a7246245454, type: 3}
@@ -1238,7 +1239,7 @@ Transform:
   m_GameObject: {fileID: 6621610625566964159}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.05, z: 0}
+  m_LocalPosition: {x: 0, y: -0.14, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

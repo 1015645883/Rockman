@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.Tilemaps;
 
 [RequireComponent(typeof(AudioSource))] // 确保有AudioSource组件
 public class PlayerMovement : MonoBehaviour, IPlayerMovement
@@ -54,7 +55,8 @@ public class PlayerMovement : MonoBehaviour, IPlayerMovement
     private PlayerIceDetector iceDetector;
     private PlayerDamageEffect damageEffect;
     public float currentSpeedX = 0f;
-
+    [Header("梯子 Tilemap")]
+    public Tilemap ladderTilemap;
     [Header("Audio Settings")]
     [SerializeField] private AudioClip[] jumpVoices;
     [SerializeField] private AudioClip[] hurtVoices;
@@ -72,6 +74,16 @@ public class PlayerMovement : MonoBehaviour, IPlayerMovement
     private bool isJumpingHeld;
     public bool isClimbing = false;
     private float lastClimbY;          // 上一次的Y坐标
+                                       // 退出攀爬后等待Y轴稳定，再恢复GroundCheck
+    private bool waitingForGroundAfterClimb = false;
+    private float lastGroundCheckY;
+    private int stableYFrames = 0;
+
+    // Y轴变化小于这个值，认为基本没有移动
+    private const float groundStableThreshold = 0.001f;
+
+    // 连续多少帧Y轴稳定后才恢复GroundCheck
+    private const int requiredStableFrames = 2;
     private bool climbFlipState = false; // 当前翻转状态
     public float climbFlipDistance = 1.5f; // 触发翻转的最小Y位移
     public bool isDashing;
@@ -146,6 +158,32 @@ public class PlayerMovement : MonoBehaviour, IPlayerMovement
             if (ladderCheck2 == null)
             {
                 Debug.LogError("LadderCheck2 is missing! Please assign it in the Inspector.");
+            }
+        }
+
+        // 自动寻找 Layer 为 Ladder 的 Tilemap
+        int ladderLayer = LayerMask.NameToLayer("Ladder");
+
+        if (ladderLayer == -1)
+        {
+            Debug.LogError("没有找到名为 Ladder 的 Layer，请检查 Project Settings > Tags and Layers！");
+        }
+        else
+        {
+            Tilemap[] tilemaps = FindObjectsOfType<Tilemap>();
+
+            foreach (Tilemap tilemap in tilemaps)
+            {
+                if (tilemap.gameObject.layer == ladderLayer)
+                {
+                    ladderTilemap = tilemap;
+                    break;
+                }
+            }
+
+            if (ladderTilemap == null)
+            {
+                Debug.LogError("场景中没有找到 Layer 为 Ladder 的 Tilemap！");
             }
         }
 
@@ -287,26 +325,82 @@ public class PlayerMovement : MonoBehaviour, IPlayerMovement
     {
         bool prevGrounded = isGrounded;
 
-        if (groundCheck != null)
-        {
-            LayerMask combinedMask = groundLayer | iceLayer | spikeLayer;
-            isGrounded = Physics2D.OverlapBox(
-                groundCheck.position,
-                new Vector2(0.9f, 1.7f),
-                0f,
-                combinedMask
-            );
-        }
-        else
+        // 攀爬梯子时绝对不算站在地面上
+        if (isClimbing)
         {
             isGrounded = false;
+            return;
         }
+
+        // 退出攀爬后，等待Y轴稳定
+        if (waitingForGroundAfterClimb)
+        {
+            float currentY = transform.position.y;
+            float deltaY = Mathf.Abs(currentY - lastGroundCheckY);
+
+            if (deltaY <= groundStableThreshold)
+            {
+                stableYFrames++;
+            }
+            else
+            {
+                // Y轴还在变化，继续等待
+                stableYFrames = 0;
+            }
+
+            lastGroundCheckY = currentY;
+
+            // 连续几帧Y轴稳定后，恢复正常GroundCheck
+            if (stableYFrames >= requiredStableFrames)
+            {
+                waitingForGroundAfterClimb = false;
+            }
+            else
+            {
+                isGrounded = false;
+                return;
+            }
+        }
+
+        LayerMask combinedMask = groundLayer | iceLayer | spikeLayer;
+
+        float rayLength = 0.15f;
+
+        // 以 GroundCheck 为中心，向左右分布三个检测点
+        float halfWidth = 0.5f;
+
+        Vector2 center = groundCheck.position;
+
+        Vector2 left = center + Vector2.left * halfWidth;
+        Vector2 middle = center;
+        Vector2 right = center + Vector2.right * halfWidth;
+
+        isGrounded =
+            IsGroundBelow(left, rayLength, combinedMask) ||
+            IsGroundBelow(middle, rayLength, combinedMask) ||
+            IsGroundBelow(right, rayLength, combinedMask);
 
         // ✅ 只在“下落接触地面”时触发
         if (!prevGrounded && isGrounded && rb.velocity.y <= 0f)
         {
             OnLand();
         }
+    }
+
+    private bool IsGroundBelow(Vector2 origin, float distance, LayerMask mask)
+    {
+        RaycastHit2D hit = Physics2D.Raycast(
+            origin,
+            Vector2.down,
+            distance,
+            mask
+        );
+
+        if (!hit)
+            return false;
+
+        // 只接受“朝上的地面”
+        return hit.normal.y > 0.5f;
     }
 
     void OnLand()
@@ -463,6 +557,8 @@ public class PlayerMovement : MonoBehaviour, IPlayerMovement
         }
             if (!isClimbing) // 只有开始攀爬时播放音效
         {
+            // 第一次进入梯子时，自动吸附到梯子中心
+            SnapToLadderCenter();
             audioSource.PlayOneShot(soundEffect3);
             lastClimbY = transform.position.y; // 记录进入攀爬的起始Y坐标
             climbFlipState = false; // 初始翻转状态
@@ -491,6 +587,11 @@ public class PlayerMovement : MonoBehaviour, IPlayerMovement
         animator.SetBool("IsClimbing", false);
         climbingCollider.enabled = false;
         standingCollider.enabled = true;
+
+        // 退出攀爬后，暂时不要立即进行 GroundCheck
+        waitingForGroundAfterClimb = true;
+        lastGroundCheckY = transform.position.y;
+        stableYFrames = 0;
     }
 
     // 攀爬时翻转Sprite并同步firePoint
@@ -1266,8 +1367,23 @@ public class PlayerMovement : MonoBehaviour, IPlayerMovement
     {
         if (groundCheck != null)
         {
-            Gizmos.color = Color.red;
-            Gizmos.DrawWireCube(groundCheck.position, new Vector2(0.9f, 1.7f));
+            float rayLength = 0.15f;
+            float halfWidth = 0.5f;
+
+            Vector3 center = groundCheck.position;
+            Vector3 left = center + Vector3.left * halfWidth;
+            Vector3 right = center + Vector3.right * halfWidth;
+
+            // Grounded = 绿色，空中 = 红色
+            Gizmos.color = isGrounded ? Color.green : Color.red;
+
+            Gizmos.DrawLine(left, left + Vector3.down * rayLength);
+            Gizmos.DrawLine(center, center + Vector3.down * rayLength);
+            Gizmos.DrawLine(right, right + Vector3.down * rayLength);
+
+            Gizmos.DrawSphere(left + Vector3.down * rayLength, 0.03f);
+            Gizmos.DrawSphere(center + Vector3.down * rayLength, 0.03f);
+            Gizmos.DrawSphere(right + Vector3.down * rayLength, 0.03f);
         }
 
         if (ladderCheck != null)
@@ -1301,6 +1417,60 @@ public class PlayerMovement : MonoBehaviour, IPlayerMovement
         }
     }
 
+    private bool TryGetNearestLadderCell(out Vector3 ladderCenter)
+    {
+        ladderCenter = transform.position;
 
+        if (ladderTilemap == null)
+            return false;
+
+        Vector3Int baseCell = ladderTilemap.WorldToCell(ladderCheck.position);
+
+        float bestDistance = float.MaxValue;
+        bool found = false;
+
+        // 检查玩家左右相邻的梯子格
+        for (int x = -1; x <= 1; x++)
+        {
+            for (int y = -1; y <= 1; y++)
+            {
+                Vector3Int cell = new Vector3Int(
+                    baseCell.x + x,
+                    baseCell.y + y,
+                    baseCell.z
+                );
+
+                if (!ladderTilemap.HasTile(cell))
+                    continue;
+
+                Vector3 cellCenter =
+                    ladderTilemap.GetCellCenterWorld(cell);
+
+                float distance = Mathf.Abs(
+                    cellCenter.x - transform.position.x
+                );
+
+                if (distance < bestDistance)
+                {
+                    bestDistance = distance;
+                    ladderCenter = cellCenter;
+                    found = true;
+                }
+            }
+        }
+
+        return found;
+    }
+
+    private void SnapToLadderCenter()
+    {
+        if (!TryGetNearestLadderCell(out Vector3 ladderCenter))
+            return;
+
+        rb.position = new Vector2(
+            ladderCenter.x,
+            rb.position.y
+        );
+    }
 
 }
